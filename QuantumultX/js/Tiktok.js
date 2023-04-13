@@ -20,6 +20,6 @@
 
 [mitm] 
 
-hostname = *.tik-tokapi.com, *.byteoversea.com, *.tiktokv.com, *.
+hostname = *.tik-tokapi.com, *.byteoversea.com, *.tiktokv.com
 
 *******************************/
