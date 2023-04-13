@@ -1,7 +1,7 @@
 # master
 公开文件
 
-#前言
+前言
 
 各平台的分流规则、复写规则及自动化脚本。
 
@@ -24,6 +24,40 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
 复写规则
 
 https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
+
+
+iPhone （免拔卡）解锁 TikTok + 换区 + 发布视频 + 直播 + 点赞评论
+
+
+https://github.com/Semporia/TikTok-Unlock#准备工作
+
+
+github脚本仓库
+
+https://pan.iosmgod.com/圈X规则/圈X解锁脚本合集3.24更新.txt
+
+
+Sunny在线旧版本版本号查询
+
+https://tools.lancely.tech/
+
+墨鱼解锁VIP
+
+https://raw.githubusercontent.com/ddgksf2013/dev/master/ForOwnUse.conf
+
+
+墨鱼自用的QX配置文件及仓库
+
+https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
+
+https://github.com/ddgksf2013/ddgksf2013
+
+
+最完善的 iOS Shadowrocket规则
+
+https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever
+
+
 
 所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出。
 
