@@ -3,7 +3,7 @@ DOMAIN,appstoreconnect.apple.com
 DOMAIN,iosapps-ssl.itunes.apple.com
 DOMAIN,itcmobile.itunes.apple.com
 DOMAIN-SUFFIX,apps.apple.com
-
+host-suffix,apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
