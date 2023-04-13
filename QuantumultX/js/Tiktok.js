@@ -11,7 +11,7 @@
 仅支持旧版解锁的重写
 *******************************
 
-[rewrite_local]
+[rewrite_remote]
 
 
 (?<=_region=)CN(?=&) url 307 KR
