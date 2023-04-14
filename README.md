@@ -3,7 +3,7 @@
 
 # **前言**   
 
-———————————————————————
+————————————————————
 各平台的分流规则、复写规则及自动化脚本。
 
 
@@ -11,7 +11,7 @@
 
 
 ### **特别声明**
-————————————————————————
+—————————————————————
 
 >1. 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。  
 >
@@ -36,7 +36,7 @@
 
 
 ## 规则
-———————————————————————————
+
 
 **我们并不生产规则，我们只是开源规则的搬运工。**
 
@@ -65,7 +65,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 ### [GitHub 入门教程2](https://www.5axxw.com/wiki/content/5dm4s7)  
 
-———————————————————————————
+
 # [markdown基本语法](https://blog.csdn.net/weixin_44649780/article/details/127693348)
 
 
@@ -77,64 +77,52 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 
 
-  * _**[Sunny在线旧版本版本号查询](https://tools.lancely.tech/)**_  
+* _**[Sunny在线旧版本版本号查询](https://tools.lancely.tech/)**_  
 
  
 
 
-   * _**墨鱼自用的QX[配置文件](https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf)及[仓库](https://github.com/ddgksf2013/ddgksf2013)和[破解VIP](https://raw.githubusercontent.com/ddgksf2013/dev/master/ForOwnUse.conf)**_
-
-
+* _**墨鱼自用的QX[配置文件](https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf)及[仓库](https://github.com/ddgksf2013/ddgksf2013)和[破解VIP](https://raw.githubusercontent.com/ddgksf2013/dev/master/ForOwnUse.conf)**_
 
 
 
 * _**[最完善的iOS Shadowrocket规则](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)**_
 
 
-
-   * _**[Ios共享帐号实时分享](https://id.fcjs.xyz/)**_
+* _**[Ios共享帐号实时分享](https://id.fcjs.xyz/)**_
+* 
   
 
 
 
+* _**[好用的导航查找书签](http://www.likebookmark.com)**_
+
+
+* _**[Json去斜杠](https://tools.kalvinbg.cn/dev/stringescape)**_
+
+
+* _**[爱达杂货铺](https://adzhp.vip/)回家地址和主线[影视地址](https://adzhp.net/)**_
 
 
 
 
 
-——————————————————————
+>## _**[百度网盘下载工具](https://www.ahhhhfs.com/40537/)(附件都存放在百度网盘)**_
+>
+>
+>* _**脚本[油猴下载](https://www.tampermonkey.net/)安装地址**_
 
-## 6.好用的导航查找书签
-
-http://www.likebookmark.com
-
-
-**7.Json去斜杠**
-
-https://tools.kalvinbg.cn/dev/stringescape
-
-
-## 8.爱达杂货铺 （影视）
-
-https://adzhp.vip/  回家地址
-
-https://adzhp.net/  主
-
-——————————————————————————————
-
-# **9.百度网盘下载工具(附件都存放在百度网盘)**
-
-https://www.ahhhhfs.com/40537/
-
-
-
-## 脚本油猴下载安装地址
-
-https://www.tampermonkey.net/
+>
+>   * _**[千千下载助手下载](https://greasyfork.org/zh-CN/scripts/462218-kubedown)**_
+> 
+ * _**[备用地址](https://greasyfork.org/scripts/462218-kubedown/code/KubeDown.user.js）**_
+ * 
+> 
+>
 
 ## 千千下载助手下载
 
-https://greasyfork.org/zh-CN/scripts/462218-kubedown
+
 
 https://greasyfork.org/scripts/462218-kubedown/code/KubeDown.user.js  备用地址
 
