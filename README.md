@@ -99,7 +99,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 * _**[爱达杂货铺](https://adzhp.vip/)**_
 
-    * _**[主线地址](https://adzhp.net/)**_
+    * _**[主线地址](https://adzhp.net/)（影视大全）**_
 
 * _**[程序员软件破解合集](https://www.exception.site/)**_
 
