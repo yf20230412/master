@@ -3,7 +3,7 @@
 
 # **前言**   
 
-———————————————————————————
+———————————————————————
 各平台的分流规则、复写规则及自动化脚本。
 
 
@@ -11,7 +11,7 @@
 
 
 ### **特别声明**
-———————————————————————————
+————————————————————————
 
 >1. 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。  
 >
@@ -77,12 +77,12 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 
 
-* _**[Sunny在线旧版本版本号查询](https://tools.lancely.tech/)**_  
+  * _**[Sunny在线旧版本版本号查询](https://tools.lancely.tech/)**_  
 
  
 
 
-*   _**墨鱼自用的QX[配置文件](https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf)及[仓库](https://github.com/ddgksf2013/ddgksf2013)和[破解VIP](https://raw.githubusercontent.com/ddgksf2013/dev/master/ForOwnUse.conf)**_
+   * _**墨鱼自用的QX[配置文件](https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf)及[仓库](https://github.com/ddgksf2013/ddgksf2013)和[破解VIP](https://raw.githubusercontent.com/ddgksf2013/dev/master/ForOwnUse.conf)**_
 
 
 
@@ -92,7 +92,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 
 
-*  _**[Ios共享帐号实时分享](https://id.fcjs.xyz/)**_
+   * _**[Ios共享帐号实时分享](https://id.fcjs.xyz/)**_
   
 
 
@@ -102,7 +102,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 
 
-——————————————————————————————
+——————————————————————
 
 ## 6.好用的导航查找书签
 
