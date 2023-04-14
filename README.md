@@ -1,7 +1,7 @@
 # master
 
 
-# 前言
+# **前言**
 
 各平台的分流规则、复写规则及自动化脚本。
 
@@ -9,7 +9,7 @@
 
 
 
-##### 特别声明
+### **特别声明**
 
 
 本项目涉及的数据由使用的个人或组织自行填写，本项目不对数据内容负责，包括但不限于数据的真实性、准确性、合法性。使用本项目所造成的一切后果，与本项目的所有贡献者无关，由使用的个人或组织完全承担。
@@ -21,123 +21,133 @@
 
 ## 规则
 
-我们并不生产规则，我们只是开源规则的搬运工。
+**我们并不生产规则，我们只是开源规则的搬运工。**
 
-###分流规则
+
+分流规则
+
 
 https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
 
-###复写规则
+
+复写规则
+
 
 https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 
-iPhone （免拔卡）解锁 TikTok + 换区 + 发布视频 + 直播 + 点赞评论
-
-
-https://github.com/Semporia/TikTok-Unlock#准备工作
 
 
 
-# 常用网站 
 
-## Sunny在线旧版本版本号查询
-
-##### https://tools.lancely.tech/
-
-## 墨鱼解锁VIP
-
-##### https://raw.githubusercontent.com/ddgksf2013/dev/master/ForOwnUse.conf
+# **常用网站** 
 
 
-## 墨鱼自用的QX配置文件及仓库
-
-##### https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
-
-##### https://github.com/ddgksf2013/ddgksf2013
 
 
-最完善的 iOS Shadowrocket规则
+**1.Sunny在线旧版本版本号查询**
+
+https://tools.lancely.tech/
+
+**2.墨鱼解锁VIP**
+
+ https://raw.githubusercontent.com/ddgksf2013/dev/master/ForOwnUse.conf
+
+
+**3.墨鱼自用的QX配置文件及仓库**
+
+https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
+
+https://github.com/ddgksf2013/ddgksf2013
+
+
+**4.最完善的 iOS Shadowrocket规则**
 
 https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever
 
 
-Ios共享帐号实时分享
+**5.Ios共享帐号实时分享**
 
 
 https://id.fcjs.xyz/
 
 
-####好用的导航查找书签
+## 6.好用的导航查找书签
 
 http://www.likebookmark.com
 
 
-Json去斜杠
+**7.Json去斜杠**
 
 https://tools.kalvinbg.cn/dev/stringescape
 
 
-####爱达杂货铺 （影视）
+## 8.爱达杂货铺 （影视）
 
 https://adzhp.vip/  回家地址
 
 https://adzhp.net/  主
 
-###百度网盘下载工具(附件都存放在百度网盘)
+# **9.百度网盘下载工具(附件都存放在百度网盘)**
 
 https://www.ahhhhfs.com/40537/
 
 
 
-脚本油猴下载安装地址 
+## 脚本油猴下载安装地址
 
 https://www.tampermonkey.net/
 
-千千下载助手下载
+## 千千下载助手下载
 
 https://greasyfork.org/zh-CN/scripts/462218-kubedown
 
 https://greasyfork.org/scripts/462218-kubedown/code/KubeDown.user.js  备用地址
 
-IDM下载链接
+## IDM下载链接
 
 https://www.ahhhhfs.com/11659/
 
 
-苹果美区id怎么注册教程（图片教程在腾讯微云）
+
+
+**10.iPhone （免拔卡）解锁 TikTok + 换区 + 发布视频 + 直播 + 点赞评论**
+
+
+https://github.com/Semporia/TikTok-Unlock#准备工作
+
+
+**11苹果美区id怎么注册教程（图片教程在腾讯微云）**
 
 https://blog.aftss.cn/2133.html
 
-美国地址生成器
+**12.美国地址生成器**
 
 https://www.meiguodizhi.com
 
 
-Github教学
+**13.Github教学**
 
 https://zhuanlan.zhihu.com/p/337959303?utm_id=0
 
-一篇文章带你快速入门Markdown
+# **一篇文章带你快速入门Markdown**
 
 https://zhuanlan.zhihu.com/p/216222290
 
-Typora下载地址
+## Typora下载地址
 
 https://typora.io/
 
-Typora 免费序列号_破解教程（文件百度网盘）
+**Typora 免费序列号_破解教程（文件百度网盘)**
 
 https://www.quanxiaoha.com/article/typora-pojie.html
 
-Visual Studio Code (vSCode)
+**Visual Studio Code (vSCode)下载**
 
 https://code.visualstudio.com/updates/v1_70
 
 
-
-
-程序员软件破解合集
+**14.程序员软件破解合集**
 
 https://www.exception.site/
 
@@ -145,4 +155,3 @@ https://www.exception.site/
 
 
 所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出。
-
