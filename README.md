@@ -65,5 +65,70 @@ Ios共享帐号实时分享
 https://id.fcjs.xyz/
 
 
+好用的导航查找书签
+
+http://www.likebookmark.com
+
+
+Json去斜杠
+
+https://tools.kalvinbg.cn/dev/stringescape
+
+
+爱达杂货铺 （影视）
+
+https://adzhp.vip/  回家地址
+
+https://adzhp.net/  主
+
+百度网盘下载工具(附件都存放在百度网盘)
+
+https://www.ahhhhfs.com/40537/
+
+
+
+脚本油猴下载安装地址 
+https://www.tampermonkey.net/
+千千下载助手下载
+https://greasyfork.org/zh-CN/scripts/462218-kubedown
+https://greasyfork.org/scripts/462218-kubedown/code/KubeDown.user.js  备用地址
+IDM下载链接
+https://www.ahhhhfs.com/11659/
+
+
+苹果美区id怎么注册教程（图片教程在腾讯微云）
+
+https://blog.aftss.cn/2133.html
+美国地址生成器
+https://www.meiguodizhi.com
+
+
+Github教学
+
+https://zhuanlan.zhihu.com/p/337959303?utm_id=0
+
+一篇文章带你快速入门Markdown
+
+https://zhuanlan.zhihu.com/p/216222290
+
+Typora下载地址
+https://typora.io/
+
+Typora 免费序列号_破解教程（文件百度网盘）
+https://www.quanxiaoha.com/article/typora-pojie.html
+
+Visual Studio Code (vSCode)
+https://code.visualstudio.com/updates/v1_70
+
+
+
+
+程序员软件破解合集
+
+https://www.exception.site/
+
+
+
+
 所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出。
 
