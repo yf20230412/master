@@ -78,16 +78,16 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 * _**[最完善的iOS Shadowrocket规则](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)**_
 
 
-* _**[Ios共享帐号实时分享](https://id.fcjs.xyz/)**_
-* 
+* _**[Ios共享帐号实时分享](https://id.fcjs.xyz/)**_  
   
+
 * _**[iPhone （免拔卡）解锁 TikTok + 换区 + 发布视频 + 直播 + 点赞评论](https://github.com/Semporia/TikTok-Unlock#准备工作)**_
 
+
 * _**[苹果美区id怎么注册教程](https://blog.aftss.cn/2133.html)**_（图片教程在腾讯微云）
-* 
+  
 
 * _**[美国地址生成器](https://www.meiguodizhi.com)**_
-
 
 
 
@@ -129,7 +129,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 * ### [GitHub 入门教程3](https://zhuanlan.zhihu.com/p/337959303?utm_id=0)    
 
 
-  * ### [markdown基本语法](https://blog.csdn.net/weixin_44649780/article/details/127693348)
+  * ### [markdown基本语法](https://blog.csdn.net/weixin_44649780/article/details/127693348)及[同步教学](https://www.5axxw.com/wiki/content/7l3048)
   
     * ### [Typora下载地址](https://typora.io/)
   
@@ -143,6 +143,8 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 ### 一篇文章带你快速入门[Markdown](https://zhuanlan.zhihu.com/p/216222290)  
 
    * [下载地址](https://www.markdownguide.org/)  
+
+
 
 
 
