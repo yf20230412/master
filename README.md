@@ -1,8 +1,8 @@
 # Rules And Scripts
 
-# **`前言`**
 
-<table><tr><td bgcolor=yellow> 前言</td></tr></table>                         
+
+#  <table><tr><td bgcolor=yellow>**`前言`**</td></tr></table>                       
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-### **`特别声明`**
+###  <table><tr><td bgcolor=yellow>**特别声明**</td></tr></table>      
 
 
 >1. 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。  
