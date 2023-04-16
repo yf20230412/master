@@ -2,7 +2,7 @@
 
 
 
-#  <table><tr><td bgcolor=yellow>**`前言`**</td></tr></table>                       
+# **<font color=#ff0000>前言</font>**                   
 
 
 
@@ -12,23 +12,30 @@
 
 
 
-###  <table><tr><td bgcolor=yellow>**特别声明**</td></tr></table>      
-
+###  <table><tr><td bgcolor=yellow>**<font color=#ff0000>特别声明</font>**</td></tr></table>      
+<table><tr><td bgcolor=yellow>
 ```diff
+-1. 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。  
 
-->1. 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。  
-+>2. 编写本项目主要目的为学习和研究ES6，无法保证项目内容的合法性、准确性、完整性和有效性。 
-!>3. 本项目涉及的数据由使用的个人或组织自行填写，本项目不对数据内容负责，包括但不限于数据的真实性、准确性、合法性。使用本项目所造成的一切后果，与本项目的所有贡献者无关，由使用的个人或组织完全承担。  
-#>4. 本项目中涉及的第三方硬件、软件等，与本项目没有任何直接或间接的关系。本项目仅对部署和使用过程进行客观描述，不代表支持使用任何第三方硬件、软件。使用任何第三方硬件、软件，所造成的一切后果由使用的个人或组织承担，与本项目无关。  
->5. 本项目中所有内容只供学习和研究使用，不得将本项目中任何内容用于违反国家/地区/组织等的法律法规或相关规定的其他用途。  
->6. 所有基于本项目源代码，进行的任何修改，为其他个人或组织的自发行为，与本项目没有任何直接或间接的关系，所造成的一切后果亦与本项目无关。  
->7. 所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。  
->8. 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。  
-```
++2. 编写本项目主要目的为学习和研究ES6，无法保证项目内容的合法性、准确性、完整性和有效性。 
+
+-3. 本项目涉及的数据由使用的个人或组织自行填写，本项目不对数据内容负责，包括但不限于数据的真实性、准确性、合法性。使用本项目所造成的一切后果，与本项目的所有贡献者无关，由使用的个人或组织完全承担。 
+
++4. 本项目中涉及的第三方硬件、软件等，与本项目没有任何直接或间接的关系。本项目仅对部署和使用过程进行客观描述，不代表支持使用任何第三方硬件、软件。使用任何第三方硬件、软件，所造成的一切后果由使用的个人或组织承担，与本项目无关。  
+
+-5. 本项目中所有内容只供学习和研究使用，不得将本项目中任何内容用于违反国家/地区/组织等的法律法规或相关规定的其他用途。  
+
++6. 所有基于本项目源代码，进行的任何修改，为其他个人或组织的自发行为，与本项目没有任何直接或间接的关系，所造成的一切后果亦与本项目无关。 
+
+-7. 所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。 
+
++8. 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。 </td></tr></table> 
+
+```</td></tr></table>
 
 
-<font color=#9400d3> 褐色 </font>
-==关键词==
+
+
 
 
 ## `规则`    
@@ -59,14 +66,14 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 
 
-# `鸣谢！！！`
 
 
 
 
 
+# <table><tr><td bgcolor=yellow>**<font color=#ff0000>常用网站</font>**</td></tr></table>
 
-# **`常用网站`** 
+
 
 
 
@@ -82,7 +89,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 * _**[最完善的iOS Shadowrocket规则](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)**_
 
 
-* _**[Ios共享帐号实时分享](https://id.fcjs.xyz/)**_  
+* _**[<font color=#ff0000>Ios共享帐号实时分享</font>](https://id.fcjs.xyz/)**_  
   
 * _**[iPhone （免拔卡）解锁 TikTok + 换区 + 发布视频 + 直播 + 点赞评论](https://github.com/Semporia/TikTok-Unlock#准备工作)**_
 
@@ -93,13 +100,13 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 
 
-* _**[好用的导航查找书签](http://www.likebookmark.com)**_
+* _**[<font color=#ff0000>好用的导航查找书签</font>](http://www.likebookmark.com)**_
 
 
 * _**[Json去斜杠](https://tools.kalvinbg.cn/dev/stringescape)**_
 
 
-* _**[爱达杂货铺](https://adzhp.vip/)**_
+* _**[<font color=#ff0000>爱达杂货铺</font>](https://adzhp.vip/)**_ 
 
     * _**[主线地址](https://adzhp.net/)（影视大全）**_
 
@@ -108,7 +115,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 
 
-### _**[百度网盘下载工具](https://www.ahhhhfs.com/40537/)**_(附件都存放在百度网盘)
+### _**[百度网盘下载工具](https://www.ahhhhfs.com/40537/)**_(<font color=#ff0000> 附件都存放在百度网盘</font>)
 
 
 * _**脚本[油猴下载](https://www.tampermonkey.net/)安装地址**_
@@ -121,7 +128,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
  * _**[IDM下载链接](https://www.ahhhhfs.com/11659/)**_
 
 
-# `Github`
+# <font color=#ff0000> Github</font>
 
 
 * ### [GitHub 入门教程1](https://www.5axxw.com/wiki/topic/r7f3ar)    
@@ -144,7 +151,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 ### 一篇文章带你快速入门[Markdown](https://zhuanlan.zhihu.com/p/216222290)  
 
-   * [下载地址](https://www.markdownguide.org/)  
+   * [<font color=#ff0000>下载地址</font>](https://www.markdownguide.org/)  
 
 
 

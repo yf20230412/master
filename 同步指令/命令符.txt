@@ -68,6 +68,8 @@ git clone git@github.com:yf20230412/master.git
 
               检查本地是否有未提交的修改   用                 git status
 
-              本地同步远程仓库                 用                 git push
+              本地同步远程仓库                 用                 git add .                           
+                                                                         git commit -m "message"
+                                                                          git push
  
               远程仓库同步到本地              用                  git pull upstream main
