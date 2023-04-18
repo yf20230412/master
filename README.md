@@ -150,6 +150,8 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 ### 一篇文章带你快速入门[Markdown](https://zhuanlan.zhihu.com/p/216222290)  
 
    * [<font color=#ff0000>下载地址</font>](https://www.markdownguide.org/)  
+   
+   ### **[AdGuard去广告规则](https://github.com/banbendalao/ADgk)**
 
 
 
