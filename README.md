@@ -138,7 +138,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
   * ### [markdown基本语法](https://blog.csdn.net/weixin_44649780/article/details/127693348)及[同步教学](https://www.5axxw.com/wiki/content/7l3048)
   
-    * ### [Typora下载地址](https://typora.io/)
+    * ### [Typora下载地址](https://typora.io/releases/all/)
     
     * ### [Typora 免费序列号_破解教程](https://www.quanxiaoha.com/article/typora-pojie.html)（文件百度网盘)
 
