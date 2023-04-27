@@ -96,7 +96,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 
 
-* _**chavyleung[签到仓库](https://github.com/chavyleung/scripts)&lowking[签到仓库](https://github.com/lowking/Scripts)**_
+* _**chavyleung[签到仓库](https://github.com/chavyleung/scripts)&lowking[签到仓库](https://github.com/lowking/Scripts)&[NobyDa](https://github.com/NobyDa/Script/tree/master)**_
 
 
 * _**[最完善的iOS Shadowrocket规则](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)**_
