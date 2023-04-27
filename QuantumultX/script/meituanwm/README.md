@@ -10,9 +10,9 @@ promotion.waimai.meituan.com
 
 [Script]
 # 注意获取Cookie有两条脚本
-http-request ^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/entry script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.cookie.js
-http-request ^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/doaction script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.cookie.js,requires-body=true
-cron "10 0 0 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js
+http-request ^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/entry script-path=https://raw.githubusercontent.com/yf20230412/master/blob/main/QuantumultX/script/meituanwm/wmmeituan.cookie.js
+http-request ^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/doaction script-path=https://raw.githubusercontent.com/yf20230412/master/blob/main/QuantumultX/script/meituanwm/wmmeituan.cookie.js,requires-body=true
+cron "10 0 0 * * *" script-path=https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/meituanwm/wmmeituan.js
 ```
 
 ## 配置 (QuanX)
@@ -26,15 +26,15 @@ promotion.waimai.meituan.com
 # TestFlight与商店版都支持 (但如果你是TestFlight, 建议使用TestFlight的配置)
 
 # [商店版] QuanX v1.0.6-build194 及更早版本
-^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/entry url script-request-header wmmeituan.cookie.js
-^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/doaction url script-request-header wmmeituan.cookie.js
+^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/entry url script-request-header https://raw.githubusercontent.com/yf20230412/master/blob/main/QuantumultX/script/meituanwm/wmmeituan.cookie.js
+^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/doaction url script-request-header https://raw.githubusercontent.com/yf20230412/master/blob/main/QuantumultX/script/meituanwm/wmmeituan.cookie.js
 
 # [TestFlight] QuanX v1.0.6-build195 及以后版本
-^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/entry url script-request-header wmmeituan.cookie.js
-^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/doaction url script-request-body wmmeituan.cookie.js
+^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/entry url script-request-header https://raw.githubusercontent.com/yf20230412/master/blob/main/QuantumultX/script/meituanwm/wmmeituan.cookie.js
+^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/doaction url script-request-body https://raw.githubusercontent.com/yf20230412/master/blob/main/QuantumultX/script/meituanwm/wmmeituan.cookie.js
 
 [task_local]
-1 0 * * * wmmeituan.js
+1 0 * * * https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/meituanwm/wmmeituan.js
 ```
 
 ## 说明
