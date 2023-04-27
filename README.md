@@ -77,10 +77,23 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 * _**[Sunny在线旧版本版本号查询](https://tools.lancely.tech/)**_  
 
- 
+
+
+
+ * _**[悟空快传](https://wkkc.vip/)&[musetransfer快传](https://musetransfer.com/m)**_
+
+
+
+* _**[音乐下载](https://music.y444.cn/#/)&[在线音乐听歌下载](https://tool.liumingye.cn/music/?page=searchPage#/)&[10分钟临时邮箱](https://10minutemail.com/)**_
+
+
+
+* _**[免费图床](https://telegraph-image.pages.dev/)&[私密文件共享](https://wormhole.app/https://wormhole.app/)**_
+
 
 
 * _**墨鱼自用的QX[配置文件](https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf)及[仓库](https://github.com/ddgksf2013/ddgksf2013)和[破解VIP](https://raw.githubusercontent.com/ddgksf2013/dev/master/ForOwnUse.conf)特殊版本[APP](https://docs.qq.com/sheet/DYmRTQXpVY0hNcGls?tab=y6do1j)**_
+
 
 
 * _**[chavyleung签到仓库](https://github.com/chavyleung/scripts)**_
