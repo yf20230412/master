@@ -12,9 +12,9 @@ wx.10086.cn
 
 [Script]
 # 注意获取Cookie有两条脚本
-http-request ^http:\/\/wx.10086.cn\/website\/taskCenter\/index\? script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.cookie.js
-http-request ^http:\/\/wx.10086.cn\/website\/taskCenter\/sign\? script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.cookie.js
-cron "10 0 0 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js
+http-request ^http:\/\/wx.10086.cn\/website\/taskCenter\/index\? script-path=https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10086/10086.cookie.js
+http-request ^http:\/\/wx.10086.cn\/website\/taskCenter\/sign\? script-path=https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10086/10086.cookie.js
+cron "10 0 0 * * *" script-path=https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10086/10086.js
 ```
 
 ## 配置 (QuanX)
@@ -25,11 +25,11 @@ wx.10086.cn
 
 [rewrite_local]
 # 注意获取Cookie有两条脚本
-^http:\/\/wx.10086.cn\/website\/taskCenter\/index\? url script-request-header 10086.cookie.js
-^http:\/\/wx.10086.cn\/website\/taskCenter\/sign\? url script-request-header 10086.cookie.js
+^http:\/\/wx.10086.cn\/website\/taskCenter\/index\? url script-request-header https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10086/10086.cookie.js
+^http:\/\/wx.10086.cn\/website\/taskCenter\/sign\? url script-request-header https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10086/10086.cookie.js
 
 [task_local]
-1 0 * * * 10086.js
+1 0 * * * https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10086/10086.js
 ```
 
 ## 说明
