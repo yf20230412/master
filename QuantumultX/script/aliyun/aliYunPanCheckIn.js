@@ -14,6 +14,16 @@ https://auth.aliyundrive.com/v2/account/token
 阿里云盘签到cookie = requires-body=1,type=http-response,pattern=https:\/\/auth.aliyundrive.com\/v2\/account\/token,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
 阿里云盘签到 = type=cron,cronexp="0 10 0 * * ?",wake-system=1,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
 
+
+************************
+Quantumut X 脚本配置:
+************************
+[Script]
+# > 阿里云盘签到
+^https:\/\/auth\.aliyundrive\.com\/v2\/account\/token url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/aliYunPanCheckIn.js
+[task_local]
+5 0 * * * https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/aliYunPanCheckIn.js tag=阿里云盘签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want_1.png, enabled=true
+
 [MITM]
 hostname = %APPEND% auth.aliyundrive.com
 */
