@@ -83,6 +83,8 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 * _**墨鱼自用的QX[配置文件](https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf)及[仓库](https://github.com/ddgksf2013/ddgksf2013)和[破解VIP](https://raw.githubusercontent.com/ddgksf2013/dev/master/ForOwnUse.conf)特殊版本[APP](https://docs.qq.com/sheet/DYmRTQXpVY0hNcGls?tab=y6do1j)**_
 
 
+* _**[chavyleung签到仓库](https://github.com/chavyleung/scripts)**_
+
 
 * _**[最完善的iOS Shadowrocket规则](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)**_
 
