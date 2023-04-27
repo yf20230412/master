@@ -40,7 +40,7 @@ hostname = act.10010.com, m.client.10010.com
 ^https?:\/\/m.client.10010.com\/dailylottery\/static\/(textdl\/userLogin|active\/findActivityInfo) url script-request-header https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10010.cookie.js
 
 [task_local]
-1 0 * * * 10010.js
+1 0 * * * https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10010/10010.js
 ```
 
 ## 说明
