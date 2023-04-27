@@ -21,11 +21,11 @@ cron "10 0 0 * * *" script-path=https://raw.githubusercontent.com/yf20230412/mas
 wapside.189.cn
 
 [rewrite_local]
-# 190及以后版本
+
 ^https:\/\/wapside.189.cn:9001\/api\/home\/homeInfo url script-request-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10000/10000.cookie.js
 
 [task_local]
-1 0 * * * 10000.js
+1 0 * * * https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10000/10000.js
 ```
 
 ## 说明
