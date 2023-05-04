@@ -8,7 +8,7 @@
 *******************************
 
 [rewrite_local]
-^https?:\/\/a\.hellobike\.com\/evehicle\/api  url script-response-body haluo.js
+^https?:\/\/a\.hellobike\.com\/evehicle\/api  url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/haluo.js
 
 
 [mitm]
