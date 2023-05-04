@@ -25,7 +25,7 @@ if ($request.url.indexOf(tt) != -1){
 if ($request.url.indexOf(yy) != -1){
     yf.data={
         "endTime" : "2999-09-09",
-        "status" : 1     
+        "status" : 1,  
     };
     body = JSON.stringify(yf),
 }
@@ -36,4 +36,4 @@ if ($request.url.indexOf(yy) != -1){
         };
         body = JSON.stringify(yf),
     }
-    $done({body : JSON.stringify(yf)});
+    $done({body});
