@@ -33,7 +33,7 @@ if ($request.url.indexOf(yy) != -1){
         yf.data={
             "ctime" : 88888888888,
             "count" : 1,
-            body = JSON.stringify(yf),
+            body : JSON.stringify(yf),
         };
     }
     $done({body : JSON.stringify(yf)});
