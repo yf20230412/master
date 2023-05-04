@@ -11,7 +11,7 @@ url script-response-body haitun1.js
 [mitm]
 hostname = book.haitunwallet.com
 
-****************************/
+****************************
 
 var yf=JSON.parse($response.body);
 const tt = '/app/account/members';
