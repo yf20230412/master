@@ -3,7 +3,7 @@
 
 [rewrite_local]
 
-^https?:\/\/book\.haitunwallet\.com url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/haitun1.js
+^https?:\/\/book\.haitunwallet\.com url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/haitun3.js
 
 
 [mitm]
