@@ -20,17 +20,20 @@ if ($request.url.indexOf(tt) != -1){
     obj.data={
         "vipStatus" : 1,
     };
+    body = JSON.stringify(obj);
 }
 if ($request.url.indexOf(yy) != -1){
     obj.data={
         "endTime" : "2999-09-09",
         "status" : 1,  
     };
+    body = JSON.stringify(obj);
 }
     if ($request.url.indexOf(zz) != -1){
         obj.data={
             "ctime" : 88888888888,
             "count" : 1,
         };
+        body = JSON.stringify(obj);
     }
     $done({body});
