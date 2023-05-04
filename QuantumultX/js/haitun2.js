@@ -12,23 +12,23 @@ hostname = book.haitunwallet.com
 
 ***************************/
 var body = $response.body;
-var yf=JSON.parse(body);
+var obj =JSON.parse(body);
 const tt = '/app/account/members';
 const yy = '/app/vip/status';
 const zz= '/app/user/userInfo';
 if ($request.url.indexOf(tt) != -1){
-    yf.data={
+    obj.data={
         "vipStatus" : 1,
     };
 }
 if ($request.url.indexOf(yy) != -1){
-    yf.data={
+    obj.data={
         "endTime" : "2999-09-09",
         "status" : 1,  
     };
 }
     if ($request.url.indexOf(zz) != -1){
-        yf.data={
+        obj.data={
             "ctime" : 88888888888,
             "count" : 1,
         };
