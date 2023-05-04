@@ -34,6 +34,6 @@ if ($request.url.indexOf(yy) != -1){
             "ctime" : 88888888888,
             "count" : 1,
         };
-       
+       body = JSON.stringify(obj);
     }
     $done({body});
