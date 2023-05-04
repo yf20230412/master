@@ -1,4 +1,4 @@
-/************************************
+/**********************************
 脚本名称:哈啰单车会员破解
 脚本作者: 🍭风言锋语🍎
 软件版本：
@@ -10,10 +10,9 @@ TG反馈: 🌺https://t.me/china_yf
 [rewrite_local]
 ^https?:\/\/a\.hellobike\.com  url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/haluo1.js
 
-
 [mitm]
 hostname = a.hellobike.com
-***********************************************/
+*****************************************/
 var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
@@ -21,7 +20,6 @@ var obj = JSON.parse(body);
 const tt = '/evehicle/api';
 
 if (url.indexOf(tt) != -1) {
-
     obj.data.cardLevel=20;
     obj.data.cardExpireTime="2999.06.20";
     obj.data.expireType=0;
