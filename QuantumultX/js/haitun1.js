@@ -5,13 +5,13 @@
 [rewrite_local]
 
 ^https?:\/\/book\.haitunwallet\.com
-url script-response-body haitun1.js
+url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/haitun1.js
 
 
 [mitm]
 hostname = book.haitunwallet.com
 
-****************************
+****************************/
 
 var yf=JSON.parse($response.body);
 const tt = '/app/account/members';
@@ -35,4 +35,4 @@ if ($request.url.indexOf(yy) != -1){
         };
     }
     $done({body : JSON.stringify(yf)});
-    ****************************/
+    ****************************
