@@ -11,8 +11,8 @@
 hostname = book.haitunwallet.com
 
 ***************************/
-
-var yf=JSON.parse($response.body);
+var body = $response.body;
+var yf=JSON.parse(body);
 const tt = '/app/account/members';
 const yy = '/app/vip/status';
 const zz= '/app/user/userInfo';
