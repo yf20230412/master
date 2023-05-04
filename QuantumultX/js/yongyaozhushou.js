@@ -6,14 +6,12 @@
 > 下載地址：
 > 更新時間：2022-07-24
 > 特别說明：本腳本僅供學習交流使用，禁止轉載售賣
- 
-重写添加 
+>（js脚本放在手机本地圈x目录下的Scripts目录里面,文件重命名英文字母）
 
-Url   ^https://newdrugs.dxy.cn 
-类型   script-response-body 
-脚本   *****.js
+[rewrite_local]
 
-（js脚本放在手机本地圈x目录下的Scripts目录里面   文件重命名英文字母）
+^https:\/\/newdrugs\.dxy\.cn script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/yongyaozhushou.js
+
 
 
 
