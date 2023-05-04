@@ -3,7 +3,7 @@
 [rewrite_local]
 
 ^https?:\/\/book\.haitunwallet\.com
-url script-response-body haitun.js
+url script-response-body haitun1.js
 
 
 [mitm]
