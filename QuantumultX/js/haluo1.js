@@ -18,20 +18,16 @@ var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
 const tt = '/evehicle/api';
-const zz = '/evehicle/api?/rent/welfare/';
 if (url.indexOf(tt) != -1) {
     obj.data.cardLevel=20,
     obj.data.cardExpireTime="2999.06.20",
     obj.data.expireType=1,
     obj.data.expireDate="2999.06.20",
     obj.data.cardEndTime="2999-06-20T23:59:59",
-    obj.data.remainingDays=9999,
-    obj.data.overdueDays=9999,
-    body = JSON.stringify(obj);
-}
-if (url.indexOf(zz) != -1) {
+    obj.data.remainingDays=99999,
+    obj.data.overdueDays=99999,
     obj.data.expireDate=2999.06.20,
     obj.data.remainingDays=356248,
     body = JSON.stringify(obj);
-    }
+  }
 $done({body});
