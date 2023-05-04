@@ -1,5 +1,7 @@
-//海豚会员破解
+
 /*************************
+海豚会员破解
+
 [rewrite_local]
 
 ^https?:\/\/book\.haitunwallet\.com
