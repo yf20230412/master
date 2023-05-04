@@ -1,4 +1,4 @@
-/*************************
+
 
 
 [rewrite_local]
@@ -10,7 +10,7 @@ url script-response-body https://raw.githubusercontent.com/yf20230412/master/mai
 [mitm]
 hostname = book.haitunwallet.com
 
-****************************/
+
 
 var body = $response.body;
 var url = $request.url;
