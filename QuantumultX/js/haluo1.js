@@ -26,7 +26,8 @@ if (url.indexOf(tt) != -1) {
     obj.data.cardEndTime="2999-06-20T23:59:59",
     obj.data.overdueDays=99999,
     obj.data.remainingDays=356248,
-    obj.data. orderId=2023012119081540713033668049907
+    obj.data.oneYearCard=false
+    obj.data. templateNo="CT01"
     body = JSON.stringify(obj);
   }
 $done({body});
