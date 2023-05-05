@@ -1,4 +1,4 @@
-﻿/*******************
+/*******************
  项目名称：挖财记账
  下载地址：https://too.st/5ez
  脚本作者：风言锋语
@@ -8,7 +8,7 @@
 ^https?:\/\/jz\.wacai\.com url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/wacaijz.js
 [mitm]
 hostname = jz.wacai.com
-***************************/
+***********************/
 var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
