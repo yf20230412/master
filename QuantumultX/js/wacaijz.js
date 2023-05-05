@@ -10,25 +10,27 @@
 hostname = jz.wacai.com
 ***********************/
 var body = $response.body;
-var url = $request.url;
-var obj = JSON.parse(body);
-const dd = '/api/usercenter';
-const tt = '/jz-activity/bkk-frontier/api/';
-if (url.indexOf(dd) != -1) {
-    obj.data.isVip=1,
-    obj.data.sex=0,
-body = JSON.stringify(obj);
-}
-if (url.indexOf(tt) != -1) {
-    obj.data.adFreePermanentVip=true,
-    obj.data.adFreeVipEnable=1,
-    obj.data.expireDaysDays=99999,
-    obj.data.freeSendAdFreeVipEnable=1,
-    obj.data.freeSendVipEnable=1,
-    obj.data.isPermanentVip=true,
-    obj.data.matchVipTrial=true,
-    obj.data.vipMemberEnable=1,
-    obj.data.vipType=2,
-body = JSON.stringify(obj);    
-}
+
+body = body.replace(/"isVip\":\d+/g, '"isVip":1');
+
+body = body.replace(/"sex\":"\d+"/g, '"sex":"1"');
+
+body = body.replace(/"isPermanentVip\":\w+/g, '"isPermanentVip":true');
+
+body = body.replace(/"freeSendVipEnable\":\d+/g, '"freeSendVipEnable":1');
+
+body = body.replace(/"freeSendAdFreeVipEnable\":\d+/g, '"freeSendAdFreeVipEnable":1');
+
+body = body.replace(/"vipType\":\d+/g, '"vipType":2');
+
+body = body.replace(/"expireDaysDays\":\d+/g, '"expireDaysDays":99999');
+
+body = body.replace(/"vipMemberEnable\":\d+/g, '"vipMemberEnable":1');
+
+body = body.replace(/"adFreePermanentVip\":\w+/g, '"adFreePermanentVip":true');
+
+body = body.replace(/"matchVipTrial\":\w+/g, '"matchVipTrial":true');
+
+body = body.replace(/"adFreeVipEnable\":\d+/g, '"adFreeVipEnable":1');
+
 $done({body});
