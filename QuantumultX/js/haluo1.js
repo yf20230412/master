@@ -18,7 +18,7 @@ var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
 const tt = '/evehicle/api?rent';
-const zz ='/evehicle/api?rent/welfare/getVipCards';
+const zz ='/evehicle/api?rent/welfare';
 if (url.indexOf(tt) != -1) {
     obj.data.cardLevel=24,
     obj.data.cardExpireTime="2999.06.20",
@@ -30,8 +30,7 @@ if (url.indexOf(tt) != -1) {
   }
 if (url.indexOf(zz) != -1) {
     obj.data.cardEndTime="2999-06-20T23:59:59", 
-    obj.data.expireType=0,
-    obj.data.guid= "1" ,   
+    obj.data.expireType=0,  
     body = JSON.stringify(obj);
   }
 $done({body});
