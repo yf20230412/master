@@ -17,20 +17,21 @@ hostname = a.hellobike.com
 var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
-const tt = '/evehicle/api';
+const tt = '/evehicle/api?rent';
 const zz ='/evehicle/api?rent/welfare/getVipCards';
 if (url.indexOf(tt) != -1) {
-    obj.data.cardLevel=20,
+    obj.data.cardLevel=24,
     obj.data.cardExpireTime="2999.06.20",
-    obj.data.expireType=1,
+    obj.data.expireType=0,
     obj.data.expireDate="2999.06.20",
     obj.data.cardEndTime="2999-06-20T23:59:59",
-    obj.data.oneYearCard=false
+    obj.data.oneYearCard=true,
     body = JSON.stringify(obj);
   }
 if (url.indexOf(zz) != -1) {
     obj.data.cardEndTime="2999-06-20T23:59:59", 
-    obj.data.expireType=1,
+    obj.data.expireType=0,
+    obj.data.guid= "1" ,   
     body = JSON.stringify(obj);
   }
 $done({body});
