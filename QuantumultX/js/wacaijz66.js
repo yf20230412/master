@@ -5,7 +5,7 @@
  使用声明：仅供参考，转载与售卖！
  ****************************
  [rewrite_local]
-^https?:\/\/jz\.wacai\.com url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/wacaijz.js
+^https?:\/\/jz\.wacai\.com url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/wacaijz66.js
 [mitm]
 hostname = jz.wacai.com
 ***************************/
