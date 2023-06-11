@@ -1,11 +1,11 @@
 {    
 //定义Jar地址
 ## spider
-"spider":"https://gitee.com/yf1688/main/raw/master/0610.jar",
+"spider":"https://raw.githubusercontent.com/yf20230412/master/blob/main/TvBox/0610.jar",
 
 //定义直播源地址,clan://TVBox/live.txt 需要转换成Base64编码,粘贴到txt&ext后面,
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veXVmZW5nMTY4ODc3OC9tYWluL3Jhdy9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lmMjAyMzA0MTIvbWFzdGVyL21haW4vVHZCb3gvbGl2ZS50eHQ="]}]}],
 
 //首页列表,定义首页源的各种网站,抄大佬的最简单
 # 直播
