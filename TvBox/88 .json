@@ -10,14 +10,14 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://8.210.232.168/xclive.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/TV/613.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
 {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzkxMTkvWkIudHh0P3NpZ249aUNoRFhEQzdXSlJUcDd5V0F5VmRiWTNzaTVzSjVlRndFZ2FSMzVZUUdTbyUzRCUzQTA="]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veWYyMDIzMDQxMi9tYXN0ZXIvbWFpbi9UdkJveC9UVi82MTMudHh0"]}]
     }],
 
 
