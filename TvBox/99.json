@@ -5,14 +5,14 @@
 
 //定义直播源地址,clan://TVBox/live.txt 需要转换成Base64编码,粘贴到txt&ext后面,
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lmMjAyMzA0MTIvbWFzdGVyL21haW4vVHZCb3gvbGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lmMjAyMzA0MTIvbWFzdGVyL21haW4vVHZCb3gvNjEyLnR4dA=="]}]}],
 
 //首页列表,定义首页源的各种网站,抄大佬的最简单
 # 直播
 "sites":[
 {
             "key": "小苹果",
-            "name": "🍎主力源",
+            "name": "🍎风言锋语",
             "type": 3,
             "api": "csp_LiteApple",
               "playerType": 1,
