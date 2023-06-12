@@ -5,7 +5,7 @@
 
 //定义直播源地址,clan://TVBox/live.txt 需要转换成Base64编码,粘贴到txt&ext后面,
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lmMjAyMzA0MTIvbWFzdGVyL21haW4vVHZCb3gvVFYvNjEyLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veWYyMDIzMDQxMi9tYXN0ZXIvbWFpbi9UdkJveC9UVi82MTIudHh0"]}]}],
 
 //首页列表,定义首页源的各种网站,抄大佬的最简单
 # 直播
