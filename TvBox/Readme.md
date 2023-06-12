@@ -1,4 +1,4 @@
-# `json内资源格式参数介绍`
+### `json内资源格式参数介绍`
 
 * {"key'"."key_ [资源名称] ",
 
@@ -23,6 +23,6 @@
 * "click": "ddys tv;#vjsp > button"
 
 * "categories":[" [自定义资源列表]”
-## * vip高清1_1234,#genre#  密码：1234
+### 'vip高清1_1234,#genre#  密码：1234'
 
 
