@@ -187,6 +187,8 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
    * ### **[TXT文本处理工具 ](http://www.txttool.com/)**
    
    * ### **[短码](https://waurl.cn/)**
+   
+   * ### **[短码2](https://gg.gg)**
 
    ## `电脑修改APK所需软件`
     
