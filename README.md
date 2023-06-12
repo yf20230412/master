@@ -141,7 +141,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
  * _**[IDM下载链接](https://www.ahhhhfs.com/11659/)**_
 
 
-# `<font color=#ff0000> Github</font>`
+# <font color=#ff0000> `Github`</font>
 
 
 * ### [GitHub 入门教程1](https://www.5axxw.com/wiki/topic/r7f3ar)    
