@@ -167,6 +167,8 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
    * [<font color=#ff0000>下载地址</font>](https://www.markdownguide.org/)  
    
    ### **[AdGuard去广告规则](https://github.com/banbendalao/ADgk)**
+   
+   ### **[GitHub代理加速](https://ghproxy.com/)**
 
 
 
