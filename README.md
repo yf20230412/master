@@ -184,9 +184,11 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
    
    * ### 在线Markdown编辑器 [编辑排版](http://www.txttool.com/t/?id=MzMx)
    
-   * ### **[TXT文本处理工具 ](http://www.txttool.com/)*
+   * ### **[TXT文本处理工具 ](http://www.txttool.com/)**
+   
+   * ### **[短码](https://waurl.cn/)**
 
-   # `电脑修改APK所需软件`
+   ## `电脑修改APK所需软件`
     
    * ### **[吾爱破解工具包](https://down.52pojie.cn/Tools/)**
     
