@@ -1,27 +1,27 @@
 # `json内资源格式参数介绍`
 
-{"key'"."key_ [资源名称] ",
+* {"key'"."key_ [资源名称] ",
 
-"name'":"资源名称",
+* "name'":"资源名称",
 
-"type":0,
+* "type":0,
 
-"api*":"csp_ [jar内文件名称] ",
+* "api*":"csp_ [jar内文件名称] ",
 
-"searchable":1,
+* "searchable":1,
 
-"quickSeach":1,
+* "quickSeach":1,
 
-"filterable":O,
+* "filterable":O,
 
-"jar":" [jar文件地址] ",
+* "jar":" [jar文件地址] ",
 
-"ext":" [txt json文件地址] "，
+* "ext":" [txt json文件地址] "，
 
-"playUrl": " [播放解析地址] ",
+* "playUrl": " [播放解析地址] ",
 
-"click": "ddys tv;#vjsp > button"
+* "click": "ddys tv;#vjsp > button"
 
-"categories":[" [自定义资源列表]”
+* "categories":[" [自定义资源列表]”
 
 
