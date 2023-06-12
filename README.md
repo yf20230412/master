@@ -168,7 +168,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
    
    ### **[AdGuard去广告规则](https://github.com/banbendalao/ADgk)**
    
-   ### **[GitHub代理加速](https://ghproxy.com/)**
+   * ### **[GitHub代理加速](https://ghproxy.com/)**
 
 
 
