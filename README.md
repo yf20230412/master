@@ -189,11 +189,11 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
     # `电脑修改APK所需软件`
     
-    * ### **[吾爱破解工具包]（https://down.52pojie.cn/Tools/）**
+    * ### **[吾爱破解工具包](https://down.52pojie.cn/Tools/)**
     
-    ** ### **[下载解压编译器]（https://mydown.yesky.com/pcsoft/413552646.html）****
+    ** ### **[下载解压编译器](https://mydown.yesky.com/pcsoft/413552646.html)**
     
-    * ### **[安装JAVA8环境]（http://soft.onlinedown.net/soft/10044859.htm）**
+    * ### **[安装JAVA8环境](http://soft.onlinedown.net/soft/10044859.htm)**
     
     ** ### **[下载编码器](https://bitbucket.org/iBotPeaches/apktool/downloads/)，改名为ShakaApkool.jar替换AndroidKiller\bin\lapktool\apktool**
     
