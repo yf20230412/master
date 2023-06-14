@@ -105,7 +105,7 @@ CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.
 CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 
 
-成人电影歐美1_111,#genre# 密码：111
+成人电影歐美,#genre#
 BigAss,http://cdn.adultiptv.net/bigass.m3u8
 Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
 Brunette,http://cdn.adultiptv.net/brunette.m3u8
@@ -124,7 +124,7 @@ Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 
 
-無碼,1_111,#genre#  密码：111
+無碼,#genre# 
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
@@ -193,7 +193,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
 
 
-番號,1_111,#genre#  密码：111
+番號,#genre# 
 AARM-046,https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/fa9172db/index.m3u8
 AARM-066,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/e61cb482/index.m3u8
 ABP-287,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/19d5be2b/index.m3u8
