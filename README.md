@@ -75,7 +75,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 
 
-* _**[! Sunny在线旧版本版本号查询](https://tools.lancely.tech/)**_  
+* _**[Sunny在线旧版本版本号查询](https://tools.lancely.tech/)**_  
 
 
 
