@@ -1,7 +1,7 @@
 {    
 //定义Jar地址
 ## spider
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/613.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/616.jar",
 
 //定义直播源地址,clan://TVBox/live.txt 需要转换成Base64编码,粘贴到txt&ext后面,
 
@@ -25,7 +25,7 @@
 "sites":[
 {
             "key": "小苹果",
-            "name": "🍎风言锋语",
+            "name": "🍎小苹果",
             "type": 3,
             "api": "csp_LiteApple",
               "playerType": 1,
