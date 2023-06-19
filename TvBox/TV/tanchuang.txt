@@ -1,1 +1,1 @@
-{"showTime":9900000,"txt":"本软件长期免费，获取卡密的方式，请添加Q群获取,不定期发放免费卡密","limitShowText":"爱你们哦"}
+{"showTime":9900000,"txt":"本软件长期免费，问题反馈交流群：75929916反馈邮箱：yufeng775885@gmail.com","limitShowText":"爱你们哦"}
