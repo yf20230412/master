@@ -2,7 +2,7 @@
  
 //重定向浏览器 
  
-header("Location: 	https://神器每日推送.tk/pz.json"); 
+header("Location: 	http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"); 
  
 //跳转至网址 
  
