@@ -32,7 +32,7 @@
 # 直播
 "sites":[
 
- {"key": "新片热播","name": "🔷┃新片┃热播","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
+
 
 	
     
