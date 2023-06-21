@@ -1,4 +1,9 @@
-{    
+{ 
+
+//文本警告	
+"warningText": "风言锋语提示您接口免费，请勿付费购买",
+
+	
 //定义Jar地址
 	
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/616.jar",
