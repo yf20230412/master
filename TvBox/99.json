@@ -24,16 +24,12 @@
     }],
 
 //首页列表,定义首页源的各种网站,抄大佬的最简单
-# 直播
-"sites":[
-
-
 
 	
-    
+"sites":[	   
 {"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
 	
-{"key":"Qtv","name":"🐧┃企鹅┃官源","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key":"Qtv","name":"🐧┃企鹅┃官源","type":3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1},
 
 {"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
     
@@ -41,27 +37,25 @@
     
 {"key":"酷影","name":"😎┃酷酷┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.222.175.111:89/api.php/app/"},
     
-{ "key": "小苹果","name": "🍎小苹果","type": 3, "api": "csp_LiteApple",  "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"小苹果","name":"🍎小苹果","type":3, "api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{ "key": "t4佬", "name": "🍀┃豆瓣精选","type": 1,"api": "https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e","searchable": 0,"quickSearch": 0, "filterable": 1 },
+{"key":"t4佬","name":"🍀┃豆瓣精选","type":1,"api":"https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e","searchable":0,"quickSearch":0,"filterable":1},
+		
+{"key":"drpy_js_酷云七七1","name":"🍎备份源一","type": 3,"api": "csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	
-{"key": "360_spider", "name": "🥎360影视官方", "api": "csp_SP360",  "type": 3, "filterable": 1,"quickSearch": 1,"searchable": 1, "ext": ""},
+{"key":"csp_appys_kyTV","name": "🍎备份源二","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
 	
-{  "key": "drpy_js_酷云七七1", "name": "🍎备份源一", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{"key":"快看","name": "🍎备份源三","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 	
-{"key": "csp_appys_kyTV","name": "🍎备份源二","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
+{"key":"csp_YQKAPP","name":"🍎备份源四","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-aws.11ty.top"},
 	
-{ "key": "快看","name": "🍎备份源三","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_AppTT","name":"🍎备份源五","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080dy3.com"},
 	
-{"key": "csp_YQKAPP","name": "🍎备份源四","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-aws.11ty.top"},
+{"key":"csp_XBPQ_饭团","name":"🍎备份源六","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://m35.grelighting.cn/html/box/json/饭团HD.json"},
 	
-{"key": "csp_AppTT","name": "🍎备份源五","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080dy3.com"},
+{"key":"csp_appys_k","name":"🍎备份源七","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
 	
-{"key": "csp_XBPQ_饭团","name": "🍎备份源六","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://m35.grelighting.cn/html/box/json/饭团HD.json"},
-	
-{"key": "csp_appys_k","name": "🍎备份源七","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
-	
-{"key": "csp_appys_g","name": "🍎备份源八","type": 3,"api": "csp_AppYsV2","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "http://vod.dmdh.top:5680/api.php/app/"},
+{"key":"csp_appys_g","name":"🍎备份源八","type": 3,"api": "csp_AppYsV2","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "http://vod.dmdh.top:5680/api.php/app/"},
 	
 {"key":"直播","name":"💻电视直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/TVBox.js",
  "ext":"风言锋语$https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/TV/613.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt #影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u#俊于$http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/"},
@@ -270,10 +264,8 @@
 	
 {"name":"解析16","type":0,"url":"https://svip.bljiex.cc/?v="}
        
-
 //新增解析202306221  
 		
-
 ],
 
 	
@@ -291,13 +283,7 @@
     
 
 //未知代码，保持不动
-ftpedia
-directoryinfo类
-dokuwiki
-jdom
-eurobabeindex
-hexadecimal
-PRINTSSt
+
 "flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],
 
 //解码器，保持不动
