@@ -3,6 +3,15 @@
 ## spider
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/616.jar",
 
+
+//文本警告	
+"warningText": "风言锋语提示您接口免费，请勿付费购买",
+
+//壁纸地址
+
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",	
+
+	
 //定义直播源地址,clan://TVBox/live.txt 需要转换成Base64编码,粘贴到txt&ext后面,
 
 "lives": [
@@ -23,6 +32,10 @@
 //首页列表,定义首页源的各种网站,抄大佬的最简单
 # 直播
 "sites":[
+
+ {"key": "新片热播","name": "🔷┃新片┃热播","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
+
+	
     
 {"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
 	
@@ -261,11 +274,19 @@
 	
 {"name":"肥猫官解","type":1,"url":"https://b.umkan.cc/API.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 	
-{"name":"解析16","type":0,"url":"https://svip.bljiex.cc/?v="}
-],       
+{"name":"解析16","type":0,"url":"https://svip.bljiex.cc/?v="},
+       
 
-    
+//新增解析202306221  
+{"name":"超清秒播1","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2100&my=afimnpqrvBHJKOQS47&mgtv=app&url="	},
 
+{"name":"超清秒播2","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2373&my=fgimDLMOQTUWYZ0568&url="},
+
+{"name":"超清秒播3","type":1,"url":"http://43.143.107.57:417/api/?key=73259318e3d893e5b73fd87f20fbc2f7&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}}		
+
+],
+
+	
     
 //
 "rules": [
@@ -280,7 +301,13 @@
     
 
 //未知代码，保持不动
-
+ftpedia
+directoryinfo类
+dokuwiki
+jdom
+eurobabeindex
+hexadecimal
+PRINTSSt
 "flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],
 
 //解码器，保持不动
@@ -323,9 +350,7 @@
 ],
 
 
-//壁纸地址
 
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 //屏蔽广告，保持不动
 "ads":[
