@@ -5,11 +5,6 @@
 
 
 
-
-//壁纸地址
-
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",	
-
 	
 //定义直播源地址,clan://TVBox/live.txt 需要转换成Base64编码,粘贴到txt&ext后面,
 
@@ -344,7 +339,9 @@ PRINTSSt
 ]}
 ],
 
+//壁纸地址
 
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",	
 
 
 //屏蔽广告，保持不动
