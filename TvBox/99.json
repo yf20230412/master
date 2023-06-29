@@ -40,19 +40,19 @@
 	
 {"key":"Qtv","name":"🐧┃腾讯┃官源","type":3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable": 0},
 	
-{"key":"优酷","name":"👑优酷(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
+
 	
 {"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
     
 {"key":"MGT","name":"🍋┃芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"搜狗","name":"🐼搜狗(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/caigou.js"},
 
-{"key":"csp_WoGG","name": "👽玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ali.jar"},
 
-{"key":"影探4K","name":"💧影探┃4K","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/yingtan.js"},
 
-{"key":"555影视","name":"💧555蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/555.json"},
+
+ {"key": "csp_appys_影探","name": "🏵影探4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://longzhiqing.lfytyl.com/api.php/app/"},
+
+
 	
 {"key": "csp_Kunyu77","name": "🌈┃七七┃影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},	
 	
@@ -65,7 +65,7 @@
 	
 {"key":"非凡资源","name":"🏭非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/ffzy.json"},	
 
-{"key": "csp_BuLei","name": "💣布雷┃直连","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"},
+
 
 {"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
 
@@ -94,9 +94,7 @@
 {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 	
 {"key":"csp_Lgyy","name":"🌀蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
-	
-{"key":"csp_Ysgc","name":"🏭工场┃直连","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
-	
+		
 {"key":"csp_555","name":"5️⃣️五五┃直连","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 	
 {"key":"csp_酷影","name":"🖼️┃酷影┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
@@ -111,7 +109,7 @@
 
 {"key":"js_布蕾","name":"⚡️┃布雷┃蓝光","type":3,"api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/duomv/duo/-/raw/main/js/布蕾蓝光.js"},
 
-{"key":"csp_Nmys","name":"👨‍🌾┃农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/xduo/json/raw/master/Nmys.json"},
+{"key": "csp_Nmys","name": "🌾农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://饭太硬.top/x/json/nmys.json"},
 		   
 {"key":"酷影","name":"😎┃酷酷┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.222.175.111:89/api.php/app/"},    		
 		
