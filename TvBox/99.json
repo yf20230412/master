@@ -32,7 +32,7 @@
 	
 "sites":[
 	
-{"key": "js豆瓣","name": "🏡风言风语（Q群：75929916）","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/douban.js"},
+{"key": "js豆瓣","name": "🏡风言风语（Q群：75929916）","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/douban.js","searchable":1,"quickSearch":1,"filterable":1},
 	
 {"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇艺┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
 	
@@ -112,6 +112,10 @@
 {"key":"Dm84","name":"🦸┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 	
 {"key":"csp_Ying","name":"🌸┃樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
+
+    
+
+	
 	
 {"key":"csp_Ysj","name":"🐲┃异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 	
@@ -249,8 +253,11 @@
 {"host":"*","rule":["douyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
-{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
+{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]},
 
+{"name": "量子","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name": "非凡","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},	
+{"name": "抖音","hosts": ["douyin.com"],"regex": ["is_play_url="]}
 ],
 	
     
