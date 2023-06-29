@@ -33,26 +33,18 @@
 "sites":[
 	
 
- {"key": "js豆瓣","name": "🏡风言风语,QQ群:75929916","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/drpy2.min.js",
-"ext": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/douban.js"},
+ {"key": "js豆瓣","name": "🏡风言风语","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/drpy2.min.js",
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/douban.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 	
 {"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇艺┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
 	
 {"key":"Qtv","name":"🐧┃腾讯┃官源","type":3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable": 0},
-	
-
-	
+		
 {"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
     
 {"key":"MGT","name":"🍋┃芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
 
-
-
-
-
- {"key": "csp_appys_影探","name": "🏵影探4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://longzhiqing.lfytyl.com/api.php/app/"},
-
-
+{"key": "csp_appys_影探","name": "🏵影探4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://longzhiqing.lfytyl.com/api.php/app/"},
 	
 {"key": "csp_Kunyu77","name": "🌈┃七七┃影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},	
 	
@@ -64,8 +56,6 @@
 {"key":"lzi","name":"🏭量子资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/liangzi.json"},
 	
 {"key":"非凡资源","name":"🏭非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/ffzy.json"},	
-
-
 
 {"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
 
@@ -116,7 +106,9 @@
 {"key":"快看","name": "🍎快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},			
 	
 {"key":"量子资源","name":"🥑量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},    
-		
+
+{"key": "csp_XPath_企鹅体育","name": "🐧┃企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"},
+	
 {"key":"csp_xpath_kuqimv","name":"🎤经典MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://m35.grelighting.cn/html/box/json/%E7%BB%8F%E5%85%B8MV.json"},
 	    	        
 {"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
