@@ -33,7 +33,7 @@
 "sites":[
 
 	
-{"key": "js豆瓣","name": "🏡┃风言┃风语","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/douban.js","searchable":0,"quickSearch":0,"filterable":0,"categories":["国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动作片","爱情片","喜剧片","科幻片","战争片","动漫片"]},
+{"key": "js豆瓣","name": "🏡┃风言┃风语","type": 3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/douban.js"},
 		
 
 {"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇艺┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
@@ -116,13 +116,9 @@
 {"key":"Dm84","name":"🦸┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 	   	
 {"key": "csp_Ysj","name": "🎀┃异界┃动漫","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"filterable": 1},	
-
-{"key": "csp_Ying","name": "💮┃樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1},	
 	
 {"key":"csp_Anime1","name": "🐾┃日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-		    	        
-{"key":"音乐","name":"🎤┃音乐┃现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
-	
+		    	        	
 {"key":"py_Nvtuan","name":"🅱️┃女团┃热舞","type":3,"api":"py_Nvtuan","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://bitbucket.org/xduo/json/raw/master/nvtuan.py"},	
 	
 {"key":"虎牙直播js","name":"🐯┃虎牙┃直播","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js","searchable":0,"quickSearch":0,"filterable":0},
@@ -154,8 +150,6 @@
 {"key":"儿童","name":"🐯┃儿童┃乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
 
 {"key":"学习","name":"📝┃学习┃园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
-
-{"key":"软件","name":"📚┃软件┃教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://m35.grelighting.cn/html/box/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
 		
 {"key":"mtv_xp_儿童乐园","name":"🍌┃儿童┃乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://43.155.64.249/TVBox/XB/儿童乐园.json"},
 	
