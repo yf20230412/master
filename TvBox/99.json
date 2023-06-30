@@ -33,7 +33,8 @@
 "sites":[
 
 	
-	
+{"key": "js豆瓣","name": "🏡┃风言┃风语","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/douban.js","searchable":0,"quickSearch":0,"filterable":0,"categories":["国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动作片","爱情片","喜剧片","科幻片","战争片","动漫片"]},
+		
 
 {"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇艺┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
 	
