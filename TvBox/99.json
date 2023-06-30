@@ -172,7 +172,7 @@
 	
 {"key":"mtv_xp_戏曲杂苑","name":"🍈┃戏曲┃杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://43.155.64.249/TVBox/XB/戏曲杂苑.json"},
 
-{key": "有声小说js","name": "🎧有声┃小说","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "有声小说js","name": "🎧有声┃小说","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key": "csp_XBPQ_聚短视频","name": "📽️┃聚短┃视频","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.top/x/xbpq/短视频.json"},
 
