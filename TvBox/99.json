@@ -3,7 +3,7 @@
 	
 //定义Jar地址
 	
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/230702.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/0702.jar",
 
 //壁纸地址
 
@@ -29,7 +29,7 @@
 
     }],
 
-//首页列表,定义首页源的各种网站,抄大佬的最简单，一般都是固定，不能放改解析地址
+//首页列表,定义首页源的各种网站
 
 	
 "sites":[
@@ -38,8 +38,8 @@
       "key": "js豆瓣",
       "name": " 🚀不能播放就学会换源",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/douban.js"
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
     },
 
 
