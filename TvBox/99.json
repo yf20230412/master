@@ -253,6 +253,14 @@
 {"name":"莫问前程","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
 {"name":"夜曲解析","type":1,"url":"http://xhww.fun:63/爱肥猫.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua","nongmin","CL4K","xfyun","ffm3u8","lzm3u8","netease","pgyer","TD","qzone","FY","ppayun","Feiyun","zhibo"],"header":{"User-Agent":"Dalvik/2.1.0(Linux;U;Android10;PDHM00Build/QKQ1.191222.002)"}}},	
+
+//20230704
+	
+{"name":"✌️夜曲","type":1,"url":"http://xhww.fun:63/小米爱肥猫.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":""}}},
+	
+{"name":"稻香🌾","type":1,"url":"https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url=","flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"]},
+	
+{"name":"25芒果🥭","type":1,"url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=","flag":["imgo","mgtv","芒果"]},	
 	
 //新增解析20230622
   	
