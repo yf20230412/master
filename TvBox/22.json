@@ -1,39 +1,45 @@
 {
-    "urls": [
+    "urls" : [
         
 //🌙影视优选仓①
         
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/99.json",
-"name": "🏩风言锋语🏩"
-},
+{  "url" : "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/99.json" ,
+"name" : "🏩风言锋语🏩"
+} ,
 
         
         
 {
-"url": "http://饭太硬.top/tv",
+"url" : "http://饭太硬.top/tv" ,
     
-"name": "💖饭太硬💖"
-},  
+"name" : "💖饭太硬💖"
+} ,  
 
 
         
 {
-"url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-"name": "💖肥猫Panda💖"
-},
+"url" : "http://我不是.肥猫.love:63/接口禁止贩卖" ,
+"name" : "💖肥猫Panda💖"
+} ,
+        
+{
+"url": "https://pan.shangui.cc/f/8VDbIo/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93.json",
+    
+"name": "💖少儿频道💖"
+},  
 
         
         {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
-            "name": "💖月光宝盒家庭版💖"
-        },
+            "url" : "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒" ,
+            "name" : "💖月光宝盒家庭版💖"
+        } ,
 
 
 
     {
-        "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&321&b=欧歌",
-         "name": "💖欧歌集合线路💖"
-         },
+        "url" : "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&321&b=欧歌" ,
+         "name" : "💖欧歌集合线路💖"
+         } ,
 
      
        {
