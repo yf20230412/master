@@ -7,7 +7,7 @@
 
 //壁纸地址
 
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+//"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 //公告说明
 "warningText":"风言锋语提示您：如遇不能播放或者卡，学会换源或者仓库，接口长期维护，切勿贩卖。",
@@ -34,7 +34,7 @@
 //首页列表,定义首页源的各种网站
 
 	
-"sites":[
+ "sites": [
 
     {
       "key": "js豆瓣",
