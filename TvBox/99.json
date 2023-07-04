@@ -10,7 +10,7 @@
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img" , 
 
 //公告说明
-"warningText": "风言锋语提示您：如遇不能播放或者卡，学会换源或者仓库，接口长期维护，切勿贩卖" , 
+"warningText": "风言锋语提示您：如遇不能播放或者卡，学会换源，接口长期维护，切勿贩卖" , 
 	
 //定义直播源地址,clan://TVBox/live.txt需要转换成Base 64编码,粘贴到txt&ext后面, 
 
@@ -38,7 +38,7 @@
 
     {
       "key": "js豆瓣",
-      "name": " 🏡不能播放就学会换源,换仓🌺",
+      "name": " 🏡不能播放就学会换源,🌺",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
       "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
