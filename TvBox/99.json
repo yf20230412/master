@@ -23,16 +23,16 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png""logo": "https://epg.112114.xyz/logo/{name}.png"
       },},
 {"group"{"group":"redirect","redirect",
-    "channels":[{"channels":[{
-    "name":"redirect","name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veWYyMDIzMDQxMi9tYXN0ZXIvbWFpbi9UdkJveC9UVi82MTIudHh0"]}]"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veWYyMDIzMDQxMi9tYXN0ZXIvbWFpbi9UdkJveC9UVi82MTIudHh0"]}]
+    "channels" : [ { "channels" : [ {
+    "name" : "redirect" , "name" : "redirect" ,
+    "urls" : [ "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veWYyMDIzMDQxMi9tYXN0ZXIvbWFpbi9UdkJveC9UVi82MTIudHh0" ] } ] "urls" : [ "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veWYyMDIzMDQxMi9tYXN0ZXIvbWFpbi9UdkJveC9UVi82MTIudHh0" ] } ]
 
-    }],}],
+    } ] , } ] ,
 
 //首页列表,定义首页源的各种网站
 
 	
-"sites""sites":[[
+"sites" "sites": [ [
 
     {
       "key": "js豆瓣",
@@ -147,6 +147,14 @@
 {"key":"push_agent","name":"🛴┃手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
 	
 {"key":"dr_兔小贝","name":"📚┃儿童┃启蒙","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
+
+{"key":"腾讯","name":"🎅🏻|少儿频道1","type":3,"api":"https://pan.shangui.cc/f/EaKzID/drpy2.min.js","ext":"https://pan.shangui.cc/f/goyLSV/%E8%85%BE%E8%AE%AF.js"},
+	
+{"key":"芒果","name":"👼🏻|少儿频道2","type":3,"api":"https://pan.shangui.cc/f/EaKzID/drpy2.min.js","ext":"https://pan.shangui.cc/f/VqL5u8/%E5%BF%99%E6%9E%9C.js"},
+	
+{"key":"奇艺","name":"🧚|少儿频道3","type":3,"api":"https://pan.shangui.cc/f/EaKzID/drpy2.min.js","ext":"https://pan.shangui.cc/f/a8BYc2/%E5%BC%82%E5%85%BD.js"},
+	
+{"key":"优酷","name":"🧜‍|少儿频道4","type":3,"api":"https://pan.shangui.cc/f/EaKzID/drpy2.min.js","ext":"https://pan.shangui.cc/f/qm1ZCG/%E4%BC%98%E9%85%B7.js"},	
 	
 {"key":"少儿教育","name":"📚┃少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/少儿教育.json"},
 	
