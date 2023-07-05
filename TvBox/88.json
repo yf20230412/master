@@ -38,7 +38,7 @@
 
     {
       "key": "js豆瓣",
-      "name": " 🏡不能播放就学会换源,🌺",
+      "name": "🚨不能播放就学会换源⚙",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
       "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
@@ -53,7 +53,7 @@
 
 {"key": "csp_SP360","name": "📺┃360┃官源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/360影视.json"},	
 
-{"key":"爱奇异","name":"🏡┃爱奇艺┃官源","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
+{"key":"爱奇异","name":"  💘┃爱奇艺┃官源","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
 		
 {"key": "csp_SP33","name": "🐨┃三三┃解析","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},	
 
@@ -65,7 +65,7 @@
 
 {"key":"csp_XBPQ新大米","name":"🌾┃大米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.dmdy6.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
 	
-{"key": "鸭鸭","name": "鸭鸭┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},	
+{"key": "鸭鸭","name": " 🦆鸭鸭┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},	
 	
 { "key": "新片热播","name": "💒┃新片┃热播","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
 
@@ -132,9 +132,9 @@
 
 {"key":"Dm84","name":"🦸┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "csp_Ying","name": "┃樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},	
+{"key": "csp_Ying","name":"🌸┃樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},	
 	   	
-{"key": "csp_Ysj","name": "🎀┃异界┃动漫","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"filterable": 1},	
+{"key": "csp_Ysj","name": " 📱┃异界┃动漫","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"filterable": 1},	
 	
 {"key":"csp_Anime1","name": "🐾┃日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 		    	        	
@@ -165,10 +165,6 @@
 {"key":"奇艺","name":"🧚┃少儿┃频道3","type":3,"api":"https://pan.shangui.cc/f/EaKzID/drpy2.min.js","ext":"https://pan.shangui.cc/f/a8BYc2/%E5%BC%82%E5%85%BD.js"},
 	
 {"key":"优酷","name":"🧜‍┃少儿┃频道4","type":3,"api":"https://pan.shangui.cc/f/EaKzID/drpy2.min.js","ext":"https://pan.shangui.cc/f/qm1ZCG/%E4%BC%98%E9%85%B7.js"},
-
-{"key": "drpy_js_兔小贝","name": " 🧒┃少儿┃兔小贝","type": 3,"api": "./lib/drpy2.min.js","changeable": 0,"ext": "./js/兔小贝.js"},
-    
-{"key": "drpy_js_有声绘本网","name": " 🧒┃少儿┃有声绘本","type": 3,"api": "./lib/drpy2.min.js","changeable": 0,"ext": "./js/有声绘本网.js"},	
 	
 {"key":"少儿教育","name":"📚┃少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/少儿教育.json"},
 	
