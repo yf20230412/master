@@ -37,11 +37,11 @@
 "sites":[
 
     {
-      "key": "douban.js",
+      "key": "drpy_js_豆瓣",
       "name": "🚨┃豆瓣┃热播⚙",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/douban.js"
+      "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
+      "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js"
     },
 
 
