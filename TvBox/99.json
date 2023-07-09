@@ -53,7 +53,7 @@
 
 {"key": "csp_SP360","name": "📺┃360┃官源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/360影视.json"},
 
-{"key": "csp_YGP","name": ""💒┃新片┃速递","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},
+{"key": "csp_YGP","name": "💒┃新片┃速递","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},
 	
 { "key": "新片热播","name": "💒┃新片┃热播","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
 	
