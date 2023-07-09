@@ -1,5 +1,5 @@
 
-#!url=https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/1.sgmodule
+#url=https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/1.sgmodule
 #!name=千亦视界
 #!desc=解锁永久会员,打开一次软件就可以永久
 #============【使用说明】==============#
@@ -31,8 +31,14 @@ https?:\/\/omp-audiobookpay\.lrts\.me\/a\.p\?op=get_advertright - reject-dict
 ^http?:\/\/oss4bpc\.moji\.com\/.\d+\/.\d+\/.\d+\/.+\.jpg - reject
 
 [Script]
+#************************************#
+#千亦视界
+# hostname = app.thwlqy.com
 qysj = type=http-response,pattern= ^http[s]?:\/\/app\.thwlqy\.com\/login\/login\/veifys\.html,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/qysj.js
-
+#************************************#
+# 彩云天气
+# hostname = *.cyapi.cn, *.caiyunapp.com
+彩云天气 = type=http-response,pattern=^https?:\/\/biz\.(caiyunapp|cyapi)\.(com|cn),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/caiyun.js
 [MITM]
 hostname = %APPEND% app.thwlqy.com,*.api.moji.com, *.wps.cn, kc.xinli001.com, i.at.qq.com, license.pdfexpert.com, api.tuzhitong.com, api.yonekura.cn, ssl-api.itranslateapp.com, *.videoshowiosglobalserver.com, *.enjoy-mobi.com, api.getdailyart.com, p.du.163.com, snailsleep.net, drive*.quark.cn, yeguo.236api.com, jz.wacai.com, ljh.dianxiaoman.com, guapi.liangjihui.com, www.xmind.*, schedule-api.julanling.com, *.xiangha.com, api.boohee.com, www.40sishi.com, kongque.twan.cn, ggs.manmeng168.com, novel.test.onedayapp.cn, *.lanjiyin.com.cn, iosapi.peiyinxiu.com, *.qingning6.com, day-api.xixitime.com, api.adapty.io, api.mojidict.com, dj.palmestore.com, asia.gikken.co, xianbeikeji.com, server.*.com, *.xiuxiu.meitu.com, api.posters.meitu.com,api-*.meitu.com,  *.meiyan.com, app.yidiansz.com, mobile-api.adguard.org, explorer.tratao.com, top-widgets-api.xiaozujian.com, api.open.loveclip.site, www.skyjos.cn, www2.tigeroom.com, cn.czur.cc, share.dianshihome.com, api.gaoqingdianshi.com, dashen*.shuiyinyu.com, *.imendon.com, api2.vlognow.me, service.ilovepdf.com, www.freshhome.top, *.dicallapp.com, format-api.netpock.com, widget-box-api.codefuture.top, cubox.*, *.radio.cn, accounts.agenda.com, *.aoscdn.com, *.apsapp.cn, apimboom2.globaldelight.net, *.duitang.com, spclient.wg.spotify.com, scibug.com, *.wallpaperscraft.com, screen-lock.*.com, api.risingfalling.com, api.meiease.cn, *.aliyundrive.com, pan.baidu.com, *.camscanner.com, *.intsig.net, mb3admin.com, *.kuwo.cn, *.kwcdn.kuwo.cn, *.lrts.me, iosv2.cjapi.5fun.com, api*.speedtest.cn, app.yiyan.art, *.cyapi.cn, *.caiyunapp.com, lcs-mobile-cops.adobe.io, api.bluepulse.cn, fufei.fengyunsoft.cn, wallpaper.soutushenqi.com, wallpaper-api.cross2d.com, restore-access.indream.app, buy.itunes.apple.com, api.revenuecat.com
 
