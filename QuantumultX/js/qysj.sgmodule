@@ -1,0 +1,26 @@
+#!name=千亦视界
+#!desc=解锁永久会员
+
+
+
+#千亦视界解锁会员，打开一次就可以永久
+
+
+
+[URL Rewrite]
+#=============#
+
+
+[Script]
+qysj = type=http-response,pattern= ^http[s]?:\/\/app\.thwlqy\.com\/login\/login\/veifys\.html,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/qysj.js
+#=============#
+
+[MITM]
+hostname = %APPEND% app.thwlqy.com
+
+ 
+ ****************************/
+var body = $response.body; 
+let obj = JSON.parse($response.body);
+obj.msg.time = -1 ;
+$done({body: JSON.stringify(obj)});
