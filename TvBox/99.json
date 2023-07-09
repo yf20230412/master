@@ -38,7 +38,7 @@
 
     {
       "key": "drpy_js_豆瓣",
-      "name": "🚨┃豆瓣┃热播⚙",
+      "name": "🚨┃豆瓣┃搜索⚙",
       "type": 3,
       "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
       "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js"
@@ -100,7 +100,7 @@
 	
 //新增线路
 
-{"key":"drpy_js_9U电影","name":"影视 | 9U电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/9U电影.js"},
+{"key":"drpy_js_9U电影","name":"影视 | 9U电影[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/9U%E7%94%B5%E5%BD%B1.js"},
 	
 {"key":"drpy_js_城市电影","name":"影视 | 城市电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/城市电影.js"},
 	
