@@ -23,7 +23,7 @@ if (url.indexOf(xx) != -1) {
 }
 if (url.indexOf(yy) != -1) {
     obj.data.status = 1,
-    obj.data.endTime = "2999-01-01",
+    obj.data.endTime = "2999-09-09",
     body = JSON.stringify(obj);
     }
     $done({body});
