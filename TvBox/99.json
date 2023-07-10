@@ -36,18 +36,13 @@
 	
 "sites":[
 
-    {
-      "key": "drpy_js_豆瓣",
-      "name": "🚨┃豆瓣┃搜索⚙",
-      "type": 3,
-      "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
-      "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js"
-    },
+//{"key": "drpy_js_豆瓣", "name": "🚨┃豆瓣┃搜索⚙","type": 3,"api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js","ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js"},
+	
 
 
 {"key":"Qtv","name":"🐧┃腾讯┃官源","type":3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable": 0},
 	
-{"key":"Itv","name":"🏡┃爱奇艺┃官源","type":3,"api":"csp_Itv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable": 0},
+{"key": "drpy_js_奇珍异兽","name": "🐨┃爱奇┃官源","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/爱奇.js"},
 			   
 {"key":"MGT","name":"🍋┃芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
 
