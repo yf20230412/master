@@ -16,7 +16,7 @@ TG反馈: 🌺https://t.me/china_yf2020
 [rewrite_local]
 
 
-^https:\/\/lanfanapp\.com\/api url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/laifan.js
+^https:\/\/lanfanapp\.com\/api\/v1 url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/laifan.js
 
 
 [mitm]
@@ -30,7 +30,7 @@ var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
 
-const tt = '/v1';
+const tt = '/user';
 
 if (url.indexOf(tt) != -1) {
  
