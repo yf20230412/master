@@ -25,11 +25,11 @@ hostname = lanfanapp.com
 
 
 *******************************/
-var body=$response.body;
-body = body.replace(/"is_prime":\w+/g,'"is_prime":true');
+var yf=$response.body;
+yf = yf.replace(/"is_prime":\w+/g,'"is_prime":true');
 
-body = body.replace(/"is_purchased":\w+/g,'"is_purchased":true';
+yf = yf.replace(/"is_purchased":\w+/g,'"is_purchased":true';
 
-body = body.replace(/"unlocked":\w+/g,'"unlocked":true');
+yf = yf.replace(/"unlocked":\w+/g,'"unlocked":true');
 
-$done({body});
+$done({body:yf});
