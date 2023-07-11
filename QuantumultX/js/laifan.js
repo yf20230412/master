@@ -12,12 +12,11 @@ TG反馈: 🌺https://t.me/china_yf2020
 
 使用说明:🚫此脚本仅供学习与交流,请勿转载与贩卖！
 
-*******************************
 
 [rewrite_local]
 
 
-^https:\/\/lanfanapp\.com\/api url script-response-body laifan.snippet
+^https:\/\/lanfanapp\.com\/api url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/laifan.js
 
 
 [mitm]
