@@ -17,8 +17,6 @@ body = body.replace(/"is_prime":\w+/g,'"is_prime":true');
 
 body = body.replace(/"is_purchased":\w+/g, '"is_purchased":true';
 
-body = body.replace(/"unlocked":\w+/g, '"unlocked":true');
-
 $done({body});
 
 
