@@ -56,17 +56,18 @@
 	
 {"key": "csp_Kunyu77","name": "🌈┃七七┃影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
-
 {"key":"csp_XBPQ新大米","name":"🌾┃大米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.dmdy6.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
 	
-{"key": "鸭鸭","name": " 🦆鸭鸭┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},	
+{"key": "鸭鸭","name": " 🦆┃鸭鸭┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},	
 	
+{"key":"csp_aidi","name":"🤟┃爱迪┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+	
+{"key":"apv2_瑞丰","name":"⛄┃瑞丰┃影视","type":3,"api":"csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v2/"},	
 
 {"key":"直播","name":"💻︎┃电视┃直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/TVBox.js",
  "ext":"🔞风言锋语$https://ghproxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/TV/616.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt #影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u#俊于$http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/"},
 		
-{"key":" 🚒┃真不卡┃","name":"🚛真不卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/zhenbuka.json"},
+{"key":" 🚒┃真不卡┃","name":"🚛┃真不卡┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/zhenbuka.json"},
 	
 {"key":"csp_Czsapp","name":"📔┃厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 	
@@ -94,29 +95,21 @@
 		
 {"key":"csp_555","name":"5️⃣️┃五五┃直连","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 	
-//新增线路
+{"key": "csp_Bttoo","name": "🔺┃Btto┃影视","api": "csp_Bttwoo","type": 3, "filterable": 1,"quickSearch": 1,"searchable": 1 },
 
+{ "key": "csp_fant", "name": "🍙┃饭团┃影视","type": 3, "api": "csp_Fantuan","filterable": 1, "quickSearch": 1, "searchable": 1, "playerType": 1},
+	
+{"key": "狐狸","name": "🦊┃狐狸┃影视","type": 3,"api": "csp_AppYsV2","playerType": "2","ext": "https://www.kuin.one/api.php/app/"},	
+	
+{"key":"csp_酷影","name":"😎┃酷酷┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
-	
-	
-	
-{"key":"csp_酷影","name":"🖼️┃酷影┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-
-{"key":"csp_baofeng","name":"☔️┃暴风┃资源","type":1,"api":"http://bfzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动作片","爱情片","喜剧片","科幻片","战争片","动漫片"]},
+{"key":"csp_baofeng","name":"☔️┃暴风┃影视","type":1,"api":"http://bfzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动作片","爱情片","喜剧片","科幻片","战争片","动漫片"]},
 	
 {"key":"app_影视之光","name":"🎳┃八仟┃影视","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod"},
 	
-{"key":"csp_aidi","name":"🤟┃爱迪┃高清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
-	
-{"key":"apv2_瑞丰","name":"⛄┃瑞丰┃影视","type":3,"api":"csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v2/"},
-
 {"key":"js_布蕾","name":"⚡️┃布雷┃蓝光","type":3,"api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/duomv/duo/-/raw/main/js/布蕾蓝光.js"},
-
-{"key": "csp_Nmys","name": "🌾┃农民┃影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://饭太硬.top/x/json/nmys.json"},
-		   
-{"key":"酷影","name":"😎┃酷酷┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.222.175.111:89/api.php/app/"},    		
-		
-{"key":"快看","name": "🍎┃快看┃","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},			
+		    				
+{"key":"快看","name": "👀┃快看┃影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},			
 	
 {"key":"量子资源","name":"🥑┃量子┃资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},    
 
@@ -227,8 +220,6 @@
 	
 {"name":"星辰云解析","type":1,"url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
 	
-
-{"name":"肥猫官解","type":1,"url":"https://b.umkan.cc/API.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 	
 //20230709
 
@@ -314,7 +305,7 @@
 ],
 
 	
-    
+   
 //规则
 "rules":[
 	
@@ -335,9 +326,10 @@
 	
     
 
-//未知代码，保持不动
+//识别分类代码，越详细越好
 
-"flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],
+"flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","FY","fy", "FeiYun","feiyun","飞云","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","ltnb","rx","CL4K","xfyun","wuduzy","优酷","优 酷","优酷视频","西瓜",
+	"乐视","芒果","腾讯", "腾 讯","腾讯视频","芒果TV","芒 果 T V","爱奇艺","奇艺","爱 奇 艺", "搜狐","搜 狐","搜狐视频","哔哩哔哩","哔哩"],
 
 //解码器，保持不动
 
