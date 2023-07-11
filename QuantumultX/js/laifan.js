@@ -16,7 +16,7 @@ TG反馈: 🌺https://t.me/china_yf2020
 [rewrite_local]
 
 
-^https:\/\/lanfanapp\.com\/api\/v1 url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/laifan.js
+^https:\/\/lanfanapp\.com\/api\/v1 script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/laifan.js
 
 
 [mitm]
@@ -25,24 +25,10 @@ hostname = lanfanapp.com
 
 
 *******************************/
+var body=$response.body;
+body = body.replace(/"is_prime\":\w+/g,'"is_prime":true');
 
-var body = $response.body;
-var url = $request.url;
-var obj = JSON.parse(body);
+body = body.replace(/"expires_time\"：".*?\"/g,'"expires_time":"2999-09-09 09:09:09";
 
-const tt = '/user';
-
-if (url.indexOf(tt) != -1) {
- 
-obj.data.is_prime=true,
-
- obj.data.prime_contract=true,
-
-obj.data.expires_time="2999-09-09 09:09:09",
-
- obj.data.followed_by_req_user=true,
-
-  body = JSON.stringify(obj);
-}
 $done({body});
 
