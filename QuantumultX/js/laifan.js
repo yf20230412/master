@@ -1,4 +1,13 @@
-/*
+/*******************************
+脚本名字:懒饭
+脚本作者:   🍭风言锋语🍎
+软件版本：
+更新时间：
+QQ反馈群:🌺75929916
+TG反馈: 🌺https://t.me/china_yf2020
+使用说明:此脚本仅供学习与交流,请勿转载与贩卖！
+
+
 [rewrite_local]
 
 
@@ -11,12 +20,14 @@ hostname = lanfanapp.com
 
 
 *******************************/
+var y=$response.body;
 
-var body=$response.body;
-body = body.replace(/"is_prime":\w+/g,'"is_prime":true');
+y = y.replace(/"is_purchased":\w+/g, '"is_purchased":true');
 
-body = body.replace(/"is_purchased":\w+/g, '"is_purchased":true';
+y = y.replace(/"is_prime":\w+/g,'"is_prime":true');
 
-$done({body});
+y = y.replace(/"unlocked":\w+/g, '"unlocked":true');
+
+$done({body:y});
 
 
