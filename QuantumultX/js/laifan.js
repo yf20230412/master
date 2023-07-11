@@ -26,7 +26,7 @@ hostname = lanfanapp.com
 
 *******************************\
 var body=$response.body;
-body = body.replace(/"is_prime\":\w+/g,'"is_prime\":\w+/g,'"is_prime":true');
+body = body.replace(/"is_prime\":\w+/g,'"is_prime":true');
 
 body = body.replace(/"is_purchased\":\w+/g,'"is_purchased":true';
 
