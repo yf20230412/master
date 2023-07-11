@@ -2,16 +2,16 @@
 
 脚本功能：搜图神器+解锁VIP
 软件版本：v1.2.7
-脚本作者：彭于晏
+脚本作者：
 更新时间：2022-9-1
-问题反馈：QQ+89996462
+问题反馈：
 使用声明：⚠️此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
 
 
 *******************************
 
 [rewrite_local]
-http:\/\/wallpaper\.soutushenqi\.com\/api\/v1\/account url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/stsq.js
+http:\/\/wallpaper\.soutushenqi\.com\/api\/v1\/account url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/stsq.js
 [mitm] 
 hostname = wallpaper.soutushenqi.com
 
