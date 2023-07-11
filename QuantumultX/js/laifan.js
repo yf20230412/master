@@ -30,7 +30,7 @@ var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
 
-const tt = '/api/v1';
+const tt = '/v1';
 
 if (url.indexOf(tt) != -1) {
  
