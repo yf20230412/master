@@ -24,7 +24,7 @@ TG反馈: 🌺https://t.me/china_yf2020
 hostname = lanfanapp.com
 
 
-*******************************\
+*******************************/
 
 var body = $response.body;
 var url = $request.url;
