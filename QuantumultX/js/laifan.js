@@ -28,6 +28,19 @@ y = y.replace(/"is_prime":\w+/g,'"is_prime":true');
 
 y = y.replace(/"unlocked":\w+/g, '"unlocked":true');
 
+y = y.replace(/"expires_time":".*?\"/g, '"expires_time":"2999-09-09"');
+
+y = y.replace(/"prime_contract":\w+/g, '"prime_contract":true');
+
+y = y.replace(/"has_prev":\w+/g, '"has_prev":true');
+
+y = y.replace(/"n_collects":\d+/g, '"n_collects":1');
+
+y = y.replace(/"text":".*?\"/g, '"text":"永久会员"');
+
+
 $done({body:y});
+
+
 
 
