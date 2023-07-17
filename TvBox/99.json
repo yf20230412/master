@@ -73,7 +73,7 @@
 	
 {"key":"csp_Xinsj","name":"🐼┃视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 	
-{"key":"csp_Cokemv","name":"📕┃可乐┃直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Cokemv","name":"📕┃可乐┃直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 	
 {"key":"csp_Lib","name":"🌟┃利奥┃直连","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 	
@@ -103,7 +103,7 @@
 
 {"key":"csp_baofeng","name":"☔️┃暴风┃影视","type":1,"api":"http://bfzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动作片","爱情片","喜剧片","科幻片","战争片","动漫片"]},
 	
-{"key":"app_影视之光","name":"🎳┃八仟┃影视","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod"},
+//{"key":"app_影视之光","name":"🎳┃八仟┃影视","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod"},
 	
 {"key":"js_布蕾","name":"⚡️┃布雷┃蓝光","type":3,"api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/duomv/duo/-/raw/main/js/布蕾蓝光.js"},
 		    				
@@ -117,7 +117,7 @@
 		
 {"key": "csp_XPath_企鹅体育","name": "🐧┃企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"},
 	
-{"key":"csp_xpath_kuqimv","name":"🎤┃经典┃MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://m35.grelighting.cn/html/box/json/%E7%BB%8F%E5%85%B8MV.json"},
+//{"key":"csp_xpath_kuqimv","name":"🎤┃经典┃MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://m35.grelighting.cn/html/box/json/%E7%BB%8F%E5%85%B8MV.json"},
 
 {"key": "csp_XBPQ_酷奇","name": "🎤┃酷奇┃MV","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.top/x/xbpq/酷奇MV.json"},	
 
@@ -221,7 +221,6 @@
 	
 //20230709
 
-{"name":"影视范","type":1,"url":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
 {"name":"ok","type":0,"url":"https://okjx.cc/?url="},
 {"name":"不累","type":0,"url":"https://blbfq.f3322.net/player/analysis.php?v=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"cod","type":0,"url":"https://ksksl.codjx.com/?url="},
