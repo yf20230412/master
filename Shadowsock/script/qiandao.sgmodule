@@ -12,7 +12,7 @@
 
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/aliyun.png
 
-
+# url表示脚本链接更新地址,name脚本名字,desc备注,author脚本作者,icon图标
 
 [Script]
 
