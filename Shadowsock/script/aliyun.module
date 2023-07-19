@@ -1,0 +1,28 @@
+#!url=https://yfamily.ml/module/aliyun.module
+#!name=阿里云盘签到
+#!desc=阿里云盘定时签到
+#!homepage=https://yfamily.ml
+#!author=lowking
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/aliyun.png
+
+[Script]
+阿里云盘签到=type=cron,cronexp="0 10 0 * * ?",wake-system=1,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
+
+
+#cookie获取成功后请禁用
+阿里云盘签到cookie=type=http-response,pattern=https:\/\/auth.aliyundrive.com\/v2\/account\/token,requires-body=1,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
+
+#联通签到脚本
+#定时任务每天6点和8点和执行一次❤️
+中国联通 = type=cron,cronexpr="0 6,8 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10010/10010.js
+#💝💚获取Cookie
+中国联通获取Cookie = type=http-response,pattern=^https?:\/\/act\.10010\.com\/SigninApp\/signin\/querySigninActivity.htm,requires-body=1,script-path=https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10010/10010.cookie.js
+#
+#❤️
+中国联通获取2种Cookie = type=http-response,pattern=^https?:\/\/act\.10010\.com\/SigninApp(.*?)\/signin\/daySign,requires-body=1,script-path=https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/10010/10010.cookie.js 
+#======================================#
+
+
+
+[MITM] 
+hostname= %APPEND% auth.aliyundrive.com
