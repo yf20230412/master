@@ -14,7 +14,7 @@ if ($request && $request.method != 'OPTIONS' && $request.url.indexOf('querySigni
   const tokenheaderVal = JSON.stringify($request.headers)
   if (tokenurlVal) chavy.setdata(tokenurlVal, tokenurlKey)
   if (tokenheaderVal) chavy.setdata(tokenheaderVal, tokenheaderKey)
-  chavy.msg(cookieName, `获取刷新链接: 成功`, ``)
+  chavy.msg(cookieName, `获取Cookie成功,刷新链接: 成功`, ``)
 } else if ($request && $request.method != 'OPTIONS' && $request.url.indexOf('daySign') >= 0) {
   const signurlVal = $request.url
   const signheaderVal = JSON.stringify($request.headers)
