@@ -6,6 +6,7 @@
 # chxm1023主页https://github.com/chxm1023/Script_X
 # 全网各种APP脚本配置去广告合集，主页https://yfamily.ml
 # 使用方法：先开脚本再打开App，自动会生效，如果无效就关了重开或者按一下恢复购买，在还不行就卸载App重新安装！最后还不行的话就是脚本失效了！
+# url表示脚本链接更新地址,name脚本名字,desc备注,author脚本作者,icon图标
 #=============UserScript=============#
 [URL Rewrite]
 # 酷我音乐_AdBlock
