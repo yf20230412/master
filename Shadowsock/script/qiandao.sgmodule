@@ -1,7 +1,5 @@
 #!url=https://raw.githubusercontent.com/yf20230412/master/main/Shadowsock/script/qiandao.sgmodule
 
-# 出处模版https://yfamily.ml/module/aliyun.module
-
 #!name=签到合集
 
 #!desc=联通,阿里云盘定时签到
@@ -11,6 +9,8 @@
 #!author=lowking
 
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/aliyun.png
+
+# 出处模版https://yfamily.ml/module/aliyun.module
 
 # url表示脚本链接更新地址,name脚本名字,desc备注,homepage主页,author脚本作者,icon图标
 
