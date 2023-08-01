@@ -1,4 +1,4 @@
-🎁🎁丨央视直播,#genre#
+🎁丨央视直播,#genre#
 
 CCTV1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
 CCTV2,http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw3468827325_440542616/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed
@@ -20,10 +20,6 @@ CCTV15,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390
 CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
-
-
-
-
 
 
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -311,8 +307,7 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
 
-
-💮💮丨卫视直播,#genre#
+🍊丨卫视直播,#genre#
 
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
@@ -708,22 +703,21 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
 
 
-💐💐丨港澳台,#genre#
+🍰丨港澳台,#genre#
 澳門蓮花,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 凤凰中文台,http://r.jdshipin.com/cCCzW
-凤凰资讯台,http://r.jdshipin.com/0Rp07
-
-凤凰资讯台,http://kkwk1122.top/fh.php?id=fhzx
 凤凰中文台,http://kkwk1122.top/fh.php?id=fhzw
+凤凰中文台,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰资讯台,http://r.jdshipin.com/0Rp07
+凤凰资讯台,http://kkwk1122.top/fh.php?id=fhzx
+凤凰资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 香港32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -731,14 +725,13 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
 
-👦👧丨少儿频道,#genre#
+👦丨少儿频道,#genre#
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 兔小贝儿歌,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
 儿童乐园,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
-
 金鹰卡通,http://111.20.35.103:6610/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=00
 优漫卡通,http://111.20.35.103:6610/000000001000/5574405527570022182/index.m3u8?channel-id=ystenlive&Contentid=5574405527570022182&livemode=1&stbId=00
 卡酷少儿,http://111.20.35.103:6610/000000001000/7589856436881630561/index.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=00
@@ -877,7 +870,7 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 -猫大人-,http://zzy789.xyz/bili.php?id=723
 
 
-🐆🐆丨虎牙电影,#genre#
+🐆丨虎牙电影,#genre#
 周星驰,https://live.goodiptv.club/api/huya.php?id=11342412
 微竞-琴琴nice,https://live.goodiptv.club/api/huya.php?id=913155
 阿斗归来了,https://live.goodiptv.club/api/huya.php?id=13303478
@@ -1775,7 +1768,7 @@ Adam短发 海贼王我抢了尾田的笔动画从奥哈拉屠魔,http://121.51.
 
 
 
-💃🏻💃🏻｜韩国女团,#genre#
+💃🏻｜韩国女团,#genre#
 韩国DJ Soda Remix 2021 电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
@@ -2707,7 +2700,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 
 
 
-🌺🌺丨地方台合集,#genre#
+🍒丨地方台合集,#genre#
 广东珠江超清,http://ct.whosayssowhat.top:4022/udp/239.77.0.114:5146
 广东经济超清,http://ct.whosayssowhat.top:4022/udp/239.77.0.167:5146
 广东体育超清,http://ct.whosayssowhat.top:4022/udp/239.77.0.168:5146
@@ -4935,7 +4928,7 @@ IPTV-5+,http://ct.whosayssowhat.top:4022/udp/239.77.0.176:5146
 
 
 
-🌍🌍丨日韩电视,#genre#
+ 🍟丨日韩电视,#genre#
 
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -5033,12 +5026,7 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 
 
 
-
-
-
-
-
-⛔⛔丨無碼1_520,#genre#  密码：520
+🔞🈲丨無碼1_520,#genre#  密码：520
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
@@ -5108,7 +5096,7 @@ pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
 
 
 
-🔞🔞丨歐美1_520,#genre#  密码：520
+🔞🈲丨歐美1_520,#genre#  密码：520
 BigAss,http://cdn.adultiptv.net/bigass.m3u8
 Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
 Brunette,http://cdn.adultiptv.net/brunette.m3u8
@@ -5129,7 +5117,7 @@ Threesome,http://live.redtraffic.xyz/threesome.m3u8
 
 
 
-🈲🈲丨番號1_520,#genre#  密码：520
+🔞🈲丨番號1_520,#genre#  密码：520
 AARM-046,https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/fa9172db/index.m3u8
 AARM-066,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/e61cb482/index.m3u8
 ABP-287,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/19d5be2b/index.m3u8
