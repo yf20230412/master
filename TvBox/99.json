@@ -35,10 +35,12 @@
 
 	
 "sites":[
+
 	
 { "key": "新片热播","name": "💒┃新片┃热播","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
 
-{"key": "csp_YGP","name": "💒┃新片┃速递","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},	
+
+{"key": "豆瓣","name": "💒┃豆瓣┃搜索","type": 3,"api": "http://xhww.fun:63/js/drpy1.min.js","ext": "http://smallmi.xiaohewanwan.love:63/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key":"Qtv","name":"🐧┃腾讯┃官源","type":3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable": 0},
 	
@@ -48,13 +50,12 @@
 
 {"key": "csp_SP360","name": "📺┃360┃官源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/360影视.json"},
 
-{"key": "豆瓣","name": "🚨┃豆瓣┃搜索⚙","type": 3,"api": "http://xhww.fun:63/js/drpy1.min.js","ext": "http://smallmi.xiaohewanwan.love:63/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key": "csp_SP33","name": "🐨┃三三┃解析","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},	
 
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
-{"key": "csp_appys_影探","name": "🏵┃影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://longzhiqing.lfytyl.com/api.php/app/"},
+{"key": "csp_appys_影探","name": "🏵┃影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yt3353.lfytyl.com/api.php/app/"},
 	
 {"key": "csp_Kunyu77","name": "🌈┃七七┃影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -176,7 +177,12 @@
 {"key": "csp_XBPQ_聚短视频","name": "📽️┃聚短┃视频","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.top/x/xbpq/短视频.json"},
 
 {"key":"短视频","name":"📱┃网红┃美女","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://bitbucket.org/xduo/json/raw/master/短视频聚合.json"},	
-	
+
+//{"key": "哥哥妹妹","name": "哥哥妹妹","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml","searchable": 0,"quickSearch": 0,"filterable": 0},
+
+//{"key": "CK资源","name": "CK资源","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+
+
 {"key":"csp_Bili","name":"🍇┃网络┃短剧","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.155.64.249/TVBox/XB/Bili.json"},
 
 {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
