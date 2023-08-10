@@ -13,7 +13,7 @@
 ********************************
 [rewrite_local]
 
-^https://api.gotokeep.com.+ url script-response-body https://raw.githubusercontent.com/nameking77/Qx/main/Keep.js
+^https://api.gotokeep.com.+ url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/js/Keep.js
 
 [mitm] 
 hostname = api.gotokeep.com
