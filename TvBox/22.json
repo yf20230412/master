@@ -1,154 +1,89 @@
 {
     "urls" : [
+
         
 //🌙影视优选仓①
-        
-{  "url" : "https://gitee.com/yf1688/main/raw/master/99.json" ,
-"name" : "🏩风言锋语|影视🏩"
-} ,
 
-{
-"url": "https://gitee.com/yf1688/main/raw/master/33.json",
-    
-"name": "🏩风言锋语|少儿🏩"
-},          
-
-//{"url": "https://gitee.com/yf1688/main/raw/master/33.json","name": "🏩风言锋语|18+🏩"}, 
-        
-{
-"url" : "http://饭太硬.top/tv" ,
-    
-"name" : " ❤饭太硬 ❤"
-} ,  
+//---------------------------------------------------------------------------------------------------------  
 
 
-        
-{
-"url" : "http://我不是.肥猫.love:63/接口禁止贩卖" ,
-"name" : " ❤肥猫Panda ❤"
-} ,
-        
-{
-            "url": "https://tvbox.cainisi.cf",
-            "name": " ❤菜尼丝 ❤"
-        }, 
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": " ❤小米 ❤"
-        },   
-{
-            "url":"https://slink.ltd/raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-            "name": " ❤荷城茶秀 ❤"
-        }, 
-          {
-            "url":"https://slink.ltd/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": " ❤高天流云 ❤"
-        }, 
-        
-        {
-            "url" : "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒" ,
-            "name" : " ❤月光宝盒家庭版 ❤"
-        } ,
-    {
-            "url": "http://yydsys.top/duo",
-            "name": " ❤应用多多家庭版 ❤"
-        },   
+
+{"url" : "https://gitee.com/yf1688/main/raw/master/JS/99.json" ,"name" : "🏩风言锋语|影视"} ,
+
+{"url": "https://gitee.com/yf1688/main/raw/master/JS/33.json","name": "🏩风言锋语|少儿"}, 
+       
+{"url": "https://gitee.com/yf1688/main/raw/master/JS/55.json","name": "🏩风言锋语|阿里4K"},  
+
+//{"url": "https://gitee.com/yf1688/main/raw/master/88.bmp","name": "🏩风言锋语|18+"}, 
 
 
-    {
-        "url" : "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&321&b=欧歌" ,
-         "name" :  "❤欧歌线路 ❤"
-         } ,
+
+
+
+//🌙影视主力仓② 
+//---------------------------------------------------------------------------------------------------------
+
+{"url":"http://rihou.vip:99/荷城茶秀","name": " 🚀荷城茶秀(有跑马灯)"},
+
+{"url" : "http://饭太硬.top/tv" ,"name" : "  🚀饭太硬"} ,  
+       
+{"url" : "http://我不是.肥猫.love:63/接口禁止贩卖" ,"name" : "  🚀肥猫Panda"} ,
+
+{"url": "https://tvbox.cainisi.cf","name": "  🚀菜尼丝"},
+
+{"url": "http://xhww.fun:63/小米/DEMO.json","name": "  🚀小米"},   
+ 
+{"url": "https://weixine.net/ysc.json","name":" 🚀运输车(有跑马灯)"},
      
-      {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "  ❤吾爱 ❤"
-        }, 
-          {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "❤唐三线路❤"
-        },             
-
-
-    {
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": " ❤道长线路 ❤"
-        },
-
-
-    {
-            "url": "http://8.210.232.168/xc.json",
-            "name": " ❤星辰 ❤"
-        }, 
+{"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8","name": " 🚀分享者（跑马灯）"},
         
-    {
-            "url": "https://slink.ltd/raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
-            "name": " ❤佰欣园 ❤"
-        },
 
-   {
-            "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
-            "name": "   🧡kvymin  🧡"
-        },
-    {
-            "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
-            "name": " 🧡胖鸭线路 🧡"
-        },
+
+//🌙影视备用仓③
+
+//---------------------------------------------------------------------------------------------------------
+
+{"url": "http://yydsys.top/duo","name": "💖应用多多家庭版"},
+
+{"url" : "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒" ,"name" : " 💖月光宝盒家庭版 "} ,
+
+{"url" : "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2" ,"name" :" 💖欧歌线路"} ,
+
+{"url":"https://slink.ltd/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name": "  💖高天流云"}, 
         
-    {
-            "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": " 🧡元兴线路 🧡"
-        },
+{"url": "http://yydsys.top/duo/ali","name": "💘阿里精品（需要输入Token）"},
+
+{"url": "https://pastebin.com/raw/5NHaxyGR","name": " 💖道长线路 "},
+
+{"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8","name":" 💖云星日记"},       
+
+{"url": "http://8.210.232.168/xc.json","name": " 💖星辰" }, 
                    
-          {
-            "url": "https://weixine.net/ysc.json",
-            "name":"💛运输车(有跑马灯)💛"
-        },  
-  
-{
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "💛分享者（跑马灯）💛"
-        },
-
-{
-            "url":"https://download.kstore.space/download/3313/mao/ymz",
-            "name": "  💙夜猫子（跑马灯）💙"
-        },
-        
-    {
-            "url": "http://yydsys.top/duo/ali",
-            "name": "💘阿里精品（部分需要输入Token）💘"
-        },
-
-     {
-            "url": "https://slink.ltd/raw.githubusercontent.com/lm317379829/PyramidStore/main/py.json",
-            "name": "💚霜辉月明（偏直播游戏类）💚"
-        }, 
 
 
-        
-    {"url": "https://slink.ltd/raw.githubusercontent.com/liu673cn/box/main/m.json","name": " 🖤老刘备 🖤"},
-        
-    {"url": "https://la.kstore.space/download/2863/01.txt","name": " 🖤潇洒 🖤"},   
+//🌙影视网络仓④
+//---------------------------------------------------------------------------------------------------------
 
-    {"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": " 🖤南风 🖤"},   
-    
-    {"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8","name": " 🖤云星日记 🖤"},   
-        
-    {"url": "http://miaotvs.cn/meow","name": " 🖤喵影视 🖤"},
+{"url": "https://slink.ltd/raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt","name": " 💚佰欣园线路"},
 
-    {"url": "https://源享家.ml/23424","name": " 🖤源享家 🖤"},  
-        
-    {"url": "https://slink.ltd/raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json","name": " 🖤甜蜜 🖤"},
-         
-    {"url": "https://la.kstore.space/download/2883/0110.txt","name": " 💔蚂蚁论坛 💔〕"},
-        
-    {"url": "http://home.jundie.top:81/top98.json","name": " 💔俊佬线路 💔"}
-     
-    ],
+{"url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json","name": "💚kvymin线路"},
 
-    "vip": [{
-            "url": "",
-            "name": "默认"
-        }]
+{"url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json","name": "💚胖鸭线路"},
+
+{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "💚南风线路"}, 
+
+{"url": "http://52bsj.vip:98/wuai","name": "💚吾爱线路"}, 
+
+{"url": "https://gh.t4tv.hz.cz/newtang.bmp","name": "💚唐三线路"}, 
+
+{"url": "https://la.kstore.space/download/2863/01.txt","name": "💚潇洒"},          
+
+{"url": "https://slink.ltd/raw.githubusercontent.com/lm317379829/PyramidStore/main/py.json","name": "💔霜辉月明"},
+               
+{"url":"https://download.kstore.space/download/3313/mao/ymz","name": "🖤夜猫子（跑马灯）"}    
+
+],
+
+"vip": [{"url": "","name": "默认"}]
+
 }
