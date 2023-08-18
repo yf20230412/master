@@ -81,8 +81,12 @@ function getCookie() {
             let refreshToken = data["refresh_token"]
             if (refreshToken) {
                 lk.setVal(aliYunPanRefreshTokenKey, refreshToken)
-                lk.appendNotifyInfo('🎉成功获取阿里云盘refresh_token，可以关闭相应脚本')
-            } else {
+
+                //通知refreshToken值
+                lk.msg('🎉成功获取refresh_token,可以关闭相应脚本',`token值:${refreshToken}`)
+               // lk.appendNotifyInfo('🎉成功获取阿里云盘refresh_token，可以关闭相应脚本')
+            } 
+            else {
                 lk.execFail()
                 lk.appendNotifyInfo('❌获取阿里云盘token失败，请稍后再试')
             }
