@@ -10,7 +10,7 @@ Surge 4.2.0+ 脚本配置(其他APP自行转换配置):
 
 [Script]
 # > 阿里云盘签到
-https://auth.aliyundrive.com/v2/account/token
+https://auth.alipan.com/v2/account/token
 阿里云盘签到cookie = requires-body=1,type=http-response,pattern=https:\/\/auth.aliyundrive.com\/v2\/account\/token,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
 阿里云盘签到 = type=cron,cronexp="0 10 0 * * ?",wake-system=1,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
 
@@ -18,11 +18,11 @@ https://auth.aliyundrive.com/v2/account/token
 ************************
 Quantumut X 脚本配置:
 ************************
-[Script]
+[rewrite_local]
 # > 阿里云盘签到
 ^https:\/\/auth.(aliyundrive|alipan).com\/v2\/account\/token url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/aliYunPanCheckIn.js
 [task_local]
-0 5,8 * * * https://slink.ltd/raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/aliYunPanCheckIn.js, tag=阿里云盘签到, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AliYunDrive.png, enabled=true
+0 5,8 * * * https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/aliYunPanCheckIn.js, tag=阿里云盘签到, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AliYunDrive.png, enabled=true
 
 
 [MITM]
@@ -85,11 +85,11 @@ function getCookie() {
             if (refreshToken) {
                 lk.setVal(aliYunPanRefreshTokenKey, refreshToken)
 //通知refreshToken值
- //lk.msg('🎉成功获取refresh_token,可以关闭相应脚本',`token值:${refreshToken}`)
+ lk.msg('🎉成功获取refresh_token,可以关闭相应脚本',`token值:${refreshToken}`)
                
                
                
-               lk.appendNotifyInfo('🎉成功获取阿里云盘refresh_token，可以关闭相应脚本')
+              // lk.appendNotifyInfo('🎉成功获取阿里云盘refresh_token，可以关闭相应脚本')
             } else {
                 lk.execFail()
                 lk.appendNotifyInfo('❌获取阿里云盘token失败，请稍后再试')
