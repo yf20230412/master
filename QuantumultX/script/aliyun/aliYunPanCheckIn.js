@@ -20,12 +20,12 @@ Quantumut X 脚本配置:
 ************************
 [Script]
 # > 阿里云盘签到
-^https:\/\/auth\.aliyundrive\.com\/v2\/account\/token url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/aliYunPanCheckIn.js
+^https:\/\/auth.(aliyundrive|alipan).com\/v2\/account\/token url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/aliYunPanCheckIn.js
 [task_local]
 5 0 * * * https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/aliYunPanCheckIn.js tag=阿里云盘签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want_1.png, enabled=true
 
 [MITM]
-hostname = %APPEND% auth.aliyundrive.com
+hostname = %APPEND% auth.aliyundrive.com,auth.alipan.com
 */
 const lk = new ToolKit(`阿里云盘签到`, `AliYunPanCheckIn`, {"httpApi": "ffff@10.0.0.19:6166"})
 const aliYunPanTokenKey = 'lkAliYunPanTokenKey'
@@ -117,7 +117,7 @@ function refreshToken() {
     return new Promise((resolve, _reject) => {
         const t = '获取token'
         let url = {
-            url: 'https://auth.aliyundrive.com/v2/account/token',
+            url: 'https://auth.alipan.com/v2/account/token',
             headers: {
                 "Content-Type": "application/json; charset=utf-8",
             },
@@ -160,7 +160,7 @@ function getReward(day) {
     return new Promise((resolve, _reject) => {
         const t = '领取奖励'
         let url = {
-            url: 'https://member.aliyundrive.com/v1/activity/sign_in_reward?_rx-s=mobile',
+            url: 'https://member.auth.alipan.com.com/v1/activity/sign_in_reward?_rx-s=mobile',
             headers: {
                 "Content-Type": "application/json",
                 Authorization: aliYunPanToken,
@@ -207,7 +207,7 @@ function signIn() {
         }
         const t = '签到'
         let url = {
-            url: 'https://member.aliyundrive.com/v1/activity/sign_in_list',
+            url: 'https://member.alipan.com/v1/activity/sign_in_list',
             headers: {
                 "Content-Type": "application/json",
                 Authorization: aliYunPanToken,
