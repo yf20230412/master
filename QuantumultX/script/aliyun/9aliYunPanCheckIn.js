@@ -11,18 +11,18 @@ Surge 4.2.0+ 脚本配置(其他APP自行转换配置):
 [Script]
 # > 阿里云盘签到
 https://auth.aliyundrive.com/v2/account/token
-阿里云盘签到cookie = requires-body=1,type=http-response,pattern=https:\/\/auth.aliyundrive.com\/v2\/account\/token,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
-阿里云盘签到 = type=cron,cronexp="0 10 0 * * ?",wake-system=1,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
+阿里云盘签到cookie = requires-body=1,type=http-response,pattern=https:\/\/auth.aliyundrive.com\/v2\/account\/token,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/9aliYunPanCheckIn.js
+阿里云盘签到 = type=cron,cronexp="0 10 0 * * ?",wake-system=1,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/9aliYunPanCheckIn.js
 
 
 ************************
 Quantumut X 脚本配置:
 ************************
-[Script]
+[rewrite_local]
 # > 阿里云盘签到
-^https:\/\/auth.(aliyundrive|alipan).com\/v2\/account\/token url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/aliYunPanCheckIn.js
+^https:\/\/auth.(aliyundrive|alipan).com\/v2\/account\/token url script-response-body https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/9aliYunPanCheckIn.js
 [task_local]
-5 0 * * * https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/aliYunPanCheckIn.js tag=阿里云盘签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want_1.png, enabled=true
+0 5,8 * * * https://raw.githubusercontent.com/yf20230412/master/main/QuantumultX/script/aliyun/9aliYunPanCheckIn.js tag=阿里云盘签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want_1.png, enabled=true
 
 [MITM]
 hostname = %APPEND% auth.alipan.com
@@ -84,9 +84,9 @@ function getCookie() {
 
                 //通知refreshToken值
                 lk.msg('🎉成功获取refresh_token,可以关闭相应脚本',`token值:${refreshToken}`)
-               // lk.appendNotifyInfo('🎉成功获取阿里云盘refresh_token，可以关闭相应脚本')
-            } 
-            else {
+
+ //lk.appendNotifyInfo('🎉成功获取阿里云盘refresh_token，可以关闭相应脚本')
+            } else {
                 lk.execFail()
                 lk.appendNotifyInfo('❌获取阿里云盘token失败，请稍后再试')
             }
@@ -106,6 +106,7 @@ async function all() {
     } else {
         await refreshToken()
         let hasAlreadySignIn = await signIn()
+        await joinTeam()
     }
     if (hasNeedSendNotify) {
         lk.msg(``)
@@ -146,7 +147,7 @@ function refreshToken() {
                 }
             } catch (e) {
                 lk.logErr(e)
-                lk.log(`阿里云盘返回数据：${data}`)
+                lk.log(`阿里云盘${t}返回数据：${data}`)
                 lk.execFail()
                 lk.appendNotifyInfo(`❌${t}错误，请带上日志联系作者，或稍后再试`)
             } finally {
@@ -160,7 +161,7 @@ function getReward(day) {
     return new Promise((resolve, _reject) => {
         const t = '领取奖励'
         let url = {
-            url: 'https://member.auth.alipan.com.com/v1/activity/sign_in_reward?_rx-s=mobile',
+            url: 'https://member.alipan.com/v1/activity/sign_in_reward?_rx-s=mobile',
             headers: {
                 "Content-Type": "application/json",
                 Authorization: aliYunPanToken,
@@ -187,7 +188,7 @@ function getReward(day) {
                 }
             } catch (e) {
                 lk.logErr(e)
-                lk.log(`阿里云盘返回数据：${data}`)
+                lk.log(`阿里云盘${t}返回数据：${data}`)
                 lk.execFail()
                 lk.appendNotifyInfo(`❌第${day}天${t}错误，请带上日志联系作者，或稍后再试`)
             } finally {
@@ -196,6 +197,9 @@ function getReward(day) {
         })
     })
 }
+
+                
+
 //🍒🎊💋💋💋💋🍒
 
 function doJoinTeam(joinTeamId) {
