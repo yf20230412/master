@@ -196,6 +196,104 @@ function getReward(day) {
         })
     })
 }
+//🍒🎊💋💋💋💋🍒
+
+function doJoinTeam(joinTeamId) {
+    return new Promise(async (resolve, _reject) => {
+        const t = '加入队伍'
+        let url = {
+            url: 'https://member.alipan.com/v1/activity/sign_in_team_pk?_rx-s=mobile',
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: aliYunPanToken,
+                "User-Agent": lk.userAgent
+            },
+            body: JSON.stringify({
+                id: joinTeamId,
+                team: "blue"
+            })
+        }
+        lk.post(url, async (error, _response, data) => {
+            try {
+                if (error) {
+                    lk.execFail()
+                    lk.appendNotifyInfo(`❌${t}失败，请稍后再试`)
+                } else {
+                    let dataObj = JSON.parse(data)
+                    if (!dataObj.success) {
+                        lk.execFail()
+                        lk.prependNotifyInfo(dataObj.message)
+                    }
+                }
+            } catch (e) {
+                lk.logErr(e)
+                lk.log(`阿里云盘${t}返回数据：${data}`)
+                lk.execFail()
+                lk.appendNotifyInfo(`❌${t}错误，请带上日志联系作者，或稍后再试`)
+            } finally {
+                resolve()
+            }
+        })
+    })
+}
+
+function joinTeam(layer = 0) {
+    return new Promise(async (resolve, _reject) => {
+        let firstDayOfYear = new Date(lk.now.getFullYear(), 0, 1)
+        const weekOfYear = Math.ceil((Math.round((lk.now.valueOf() - firstDayOfYear.valueOf()) / 86400000) + ((firstDayOfYear.getDay() + 1) - 1)) / 7)
+        // if (joinTeamRepeat == weekOfYear) {
+        // }
+        const t = '加入PK'
+        let url = {
+            url: 'https://member.alipan.com/v1/activity/sign_in_team?_rx-s=mobile',
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: aliYunPanToken,
+                "User-Agent": lk.userAgent
+            },
+            body: JSON.stringify({})
+        }
+        lk.post(url, async (error, _response, data) => {
+            try {
+                if (error) {
+                    lk.execFail()
+                    lk.appendNotifyInfo(`❌${t}失败，请稍后再试`)
+                } else {
+                    let dataObj = JSON.parse(data)
+                    if (dataObj.success) {
+                        let joinedTeam = dataObj?.result?.joinTeam
+                        let joinTeamId = dataObj?.result?.id
+                        if (joinedTeam && joinTeamId) {
+                            lk.appendNotifyInfo(`🎉${t}成功\n${dataObj?.result?.period}：${dataObj?.result?.joinCount}(${dataObj?.result[joinedTeam + "WinRate"]})`)
+                            lk.setVal(joinTeamRepeatKey, JSON.stringify(weekOfYear))
+                        } else {
+                            if (layer === 0) {
+                                await doJoinTeam(joinTeamId)
+                                await joinTeam(++layer)
+                            } else {
+                                lk.log(`请求加入队伍异常：${data}`)
+                            }
+                        }
+                    } else {
+                        lk.execFail()
+                        lk.prependNotifyInfo(dataObj.message)
+                    }
+                }
+            } catch (e) {
+                lk.logErr(e)
+                lk.log(`阿里云盘${t}返回数据：${data}`)
+                lk.execFail()
+                lk.appendNotifyInfo(`❌${t}错误，请带上日志联系作者，或稍后再试`)
+            } finally {
+                resolve()
+            }
+        })
+    })
+}
+
+//💋📚🚀结束💋💋🦄🐹
+
+
 
 function signIn() {
     return new Promise(async (resolve, _reject) => {
