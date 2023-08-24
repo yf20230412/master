@@ -1,7 +1,7 @@
 {
 
 // 1
-"spider": " https://gitee.com/yf1688/main/raw/master/jar/fan0824.jar;md5;c80207edebbe5019a688fd2eb653e005" , 
+"spider": " https://slink.ltd/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan0824.jar;md5;c80207edebbe5019a688fd2eb653e005" , 
 
 //2
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img" , 
@@ -78,7 +78,7 @@
 {"key":"陌陌","name":"🍄┃陌陌┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, "changeable": 1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
 
-{"key":"直播","name":"📺┃电视┃直播","type":3,"api":"https://gitee.com/yf1688/main/raw/master/TVBox.js",
+{"key":"直播","name":"📺┃电视┃直播","type":3,"api":"https://slink.ltd/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/TVBox.js",
  "ext":"韩国女团$https://download.kstore.space/download/4645/Tvbox/6666/606.txt#🔞111$https://download.kstore.space/download/4645/Tvbox/6666/600.txt#🔞222$https://download.kstore.space/download/4645/Tvbox/6666/601.txt#🔞333$https://download.kstore.space/download/4645/Tvbox/6666/602.txt#🔞444$https://download.kstore.space/download/4645/Tvbox/6666/603.txt#🔞555$https://download.kstore.space/download/4645/Tvbox/6666/604.txt#🔞666$https://download.kstore.space/download/4645/Tvbox/6666/605.txt"},
 			
 	
