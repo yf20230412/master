@@ -1,7 +1,7 @@
 {
 
 // 1
-"spider":" https://gitee.com/yf1688/main/raw/master/jar/fan0824.jar;md5;c80207edebbe5019a688fd2eb653e005" , 
+"spider": " https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan0825.jar;md5;c80207edebbe5019a688fd2eb653e005" , 
 
 //2
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img" , 
@@ -33,15 +33,15 @@
 "sites":[
 
 
-{"key": "豆瓣","name":"🔍┃豆瓣┃搜索","type": 3,"api": "https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext": "https://gitee.com/yf1688/main/raw/master/douban/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "豆瓣","name": "豆瓣┃主页","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "csp_Token","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 1,"changeable": 0,"jar": "https://gitee.com/yf1688/main/raw/master/jar/alibaba.jar"},
+{"key": "csp_Token","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 1,"changeable": 0, "jar": "https://download.kstore.space/download/4645/Tvbox/aliyun.jar;md5;332d0e5a28640ee88589390ad4a23a39"},
 
 {"key": "csp_wogg_cli","name": "💂┃玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //{"key":"csp_WoGG","name":"💂┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
-{ "key": "drpy_js_荐片","name": "💒┃荐片┃热播","type": 3,"api":"https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext":" https://gitee.com/yf1688/main/raw/master/api/荐片.js"},
+{ "key": "drpy_js_荐片","name": "💒┃荐片┃热播","type": 3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":" https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/荐片.js"},
 
 {"key":"Zhaozy","name":"🎄┃找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"},
 	
@@ -57,7 +57,7 @@
 
 {"key":"Qtv","name":"🐧┃腾讯┃官源","type":3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable": 0},
 	
-{"key": "drpy_js_奇珍异兽","name": "💋┃爱奇┃官源","type": 3,"api": "https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext": "https://gitee.com/yf1688/main/raw/master/api/qiyi.js"},
+{"key": "drpy_js_奇珍异兽","name": "💋┃爱奇┃官源","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/爱奇艺.js"},
 		
 
 //{"key": "哥哥妹妹","name": "哥哥妹妹","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml","searchable": 0,"quickSearch": 0,"filterable": 0},
