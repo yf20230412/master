@@ -1,7 +1,7 @@
 {
 
 // 1
-"spider": " https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan0824.jar;md5;c80207edebbe5019a688fd2eb653e005" , 
+"spider": " https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan0825.jar;md5;c80207edebbe5019a688fd2eb653e005" , 
 
 //2
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img" , 
@@ -45,13 +45,13 @@
       "filterable": 0
     },
 	
-{ "key": "drpy_js_荐片","name": "⌛┃荐片┃热播","type": 3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/%E8%8D%90%E7%89%87.js"},
+{ "key": "drpy_js_荐片","name": "⌛┃荐片┃热播","type": 3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/荐片.js"},
 
 {"key": "新片热播","name":"⏳┃新片┃热播","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
 
 //{"key": "豆瓣","name":"🔍┃豆瓣┃主页","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "csp_KungFu404","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/aliyun.txt"},
+{"key": "csp_KungFu404","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/aliyun.jar"},
 
 {"key": "csp_Kunyu77","name": "🌈┃七七┃影视","type": 3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -100,7 +100,7 @@
 	
 {"key":"csp_Bttoo","name":"🐹┃比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 	
-{"key":"农民影视","name":"🌾┃农民┃直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://slink.ltd/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/nongmin.json"},
+{"key":"农民影视","name":"🌾┃农民┃直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/nongmin.json"},
 	
 {"key":"csp_Vofl","name":"🐎┃Vofl┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 	
@@ -112,7 +112,7 @@
 	
 {"key":"辣辣","name":"🌶️┃辣辣┃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/", "jar": "http://我不是.肥猫.love:63/Jar/5.jar;md5;c570b052645834a1109b54421c1552f9"},
 		
-{"key":"555影视","name":"5️⃣️┃五五┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://slink.ltd/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/555.json"},
+{"key":"555影视","name":"5️⃣️┃五五┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/555.json"},
 	
 {"key": "奇奇","name":"🐕┃奇奇┃影视","type": 3,"api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"changeable": 1 },
 
