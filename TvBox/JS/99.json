@@ -39,7 +39,7 @@
 
 {"key": "豆瓣","name":"🔍┃豆瓣┃搜索","type": 3,"api": "https://slink.ltd/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext": "https://slink.ltd/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "csp_KungFu4041","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 1,"changeable": 0,"jar": "https://slink.ltd/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/aliyun.jar"},
+{"key": "csp_KungFu404","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "https://slink.ltd/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/aliyun.jar"},
 
 {"key": "csp_Kunyu77","name": "🌈┃七七┃影视","type": 3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
