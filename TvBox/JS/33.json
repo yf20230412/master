@@ -2,7 +2,7 @@
   
 //定义Jar地址
 	
-"spider": "https://gitee.com/yf1688/main/raw/master/fan.jar;md5;18b8df1e0f7813098c1e70979a264aad" , 
+"spider":" https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan0825.jar;md5;c80207edebbe5019a688fd2eb653e005" , 
 
 //壁纸地址
 
@@ -34,15 +34,16 @@
   
 "sites":[  
 
-{"key":"腾讯","name":"🎅🏻┃少儿┃腾讯","type":3,"api":"https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext":"https://gitee.com/yf1688/main/raw/master/api/qq.js"},
-	
-{"key":"芒果","name":"👼🏻┃少儿┃芒果","type":3,"api":"https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext":"https://gitee.com/yf1688/main/raw/master/api/mgtv.js"},
-	
-{"key":"奇艺","name":"🧚┃少儿┃爱奇艺","type":3,"api":"https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext":"https://gitee.com/yf1688/main/raw/master/api/iqiyi.js"},
-	
-{"key":"优酷","name":"🧜‍┃少儿┃优酷","type":3,"api":"https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext":"https://download.kstore.space/download/4645/Tvbox/youku.js"},
 
-{"key":"dr_兔小贝","name":"📚┃儿童┃启蒙","type":3,"api":"https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext":"https://gitee.com/yf1688/main/raw/master/api/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"奇艺","name":"🧚┃少儿┃爱奇艺","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/iqiyi.js"},
+	
+{"key":"芒果","name":"👼🏻┃少儿┃芒果","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/mgtv.js"},
+	
+{"key":"优酷","name":"🧜‍┃少儿┃优酷","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://download.kstore.space/download/4645/Tvbox/youku.js"},
+
+{"key":"腾讯","name":"🎅🏻┃少儿┃腾讯","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/qq.js"},
+
+{"key":"dr_兔小贝","name":"📚┃儿童┃启蒙","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"童趣","name":"🍭┃童趣┃","type":3,"api":"https://pan.shangui.cc/f/EaKzID/drpy2.min.js","ext":"https://pan.shangui.cc/f/QeX1fm/%E7%AB%A5%E8%B6%A3.js" },
   
@@ -104,7 +105,7 @@
 
 {"key":"push_agent","name":"▶┃推送┃磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 
-{"key": "csp_Token","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 1,"changeable": 0,"jar": "https://gitee.com/yf1688/main/raw/master/jar/alibaba.jar"},
+{"key": "csp_Token","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 1,"changeable": 0,"jar": "https://download.kstore.space/download/4645/Tvbox/aliyun.jar;md5;332d0e5a28640ee88589390ad4a23a39"},
 
 {"key": "AD","name": "请勿相信任何广告","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
 
@@ -119,14 +120,10 @@
 {"name": "Web聚合","type": 3,"url": "Web"},
 
 {"name":"解析聚合","type":3,"url":"Demo"},
-	
-{"name":"Json并发","type":2,"url":"Parallel"},
-	
-{"name":"Json轮询","type":2,"url":"Sequence"},
-	
-{"name":"精选1","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},	
-	
-{"name": "精选2","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+			
+{"name": "精选1","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
+{"name":"精选2","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},	
 
 {"name": "精选3","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 
@@ -144,6 +141,16 @@
 
 {"name": "精选10","url": "https://jx.bozrc.com:4433/player/?url=","showType": 1},
 
+{"name": "精选11","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+{"name": "精选12","type": 1,"url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
+
+{"name": "精选13","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+
+{"name": "精选14","type": 1,"url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
+
+{"name": "精选15","type": 1,"url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="},
+
 {"name": "腾讯","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
 
 {"name": "爱奇艺","type": 1,"url": "https://api.json.icu/api/?key=7a20743c26a46ba6c7cad98fba493d0c&url="},
@@ -156,12 +163,20 @@
 
 {"name": "360","type": 1,"url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 
-{"name": "搜狗","type": 1,"url": "http://htp.behds.cn/json/520237app7/mlzjphp111.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "FY", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "搜狗","type": 1,"url": "http://htp.behds.cn/json/520237app7/mlzjphp111.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "FY", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
 
-
-{"name": "OKjx嗅探","type": 0,"url": "https://okjx.cc/?url="}		
 ],
 	
+
+
+//
+
+  "doh": [
+           {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4", "8.8.8.8"]},
+           {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
+           {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
+           {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
+           {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}],
 
 	
     
