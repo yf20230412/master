@@ -2,7 +2,7 @@
   
 //定义Jar地址
 	
-"spider":"https://gitee.com/yf1688/main/raw/master/jar/fan0824.jar;md5;c80207edebbe5019a688fd2eb653e005" , 
+"spider":" https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan0825.jar;md5;c80207edebbe5019a688fd2eb653e005" , 
 
 //壁纸地址
 
@@ -35,15 +35,15 @@
 "sites":[  
 
 
-{"key":"奇艺","name":"🧚┃少儿┃爱奇艺","type":3,"api":"https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext":"https://gitee.com/yf1688/main/raw/master/api/iqiyi.js"},
+{"key":"奇艺","name":"🧚┃少儿┃爱奇艺","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/iqiyi.js"},
 	
-{"key":"芒果","name":"👼🏻┃少儿┃芒果","type":3,"api":"https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext":"https://gitee.com/yf1688/main/raw/master/api/mgtv.js"},
+{"key":"芒果","name":"👼🏻┃少儿┃芒果","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/mgtv.js"},
 	
-{"key":"优酷","name":"🧜‍┃少儿┃优酷","type":3,"api":"https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext":"https://download.kstore.space/download/4645/Tvbox/youku.js"},
+{"key":"优酷","name":"🧜‍┃少儿┃优酷","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://download.kstore.space/download/4645/Tvbox/youku.js"},
 
-{"key":"腾讯","name":"🎅🏻┃少儿┃腾讯","type":3,"api":"https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext":"https://gitee.com/yf1688/main/raw/master/api/qq.js"},
+{"key":"腾讯","name":"🎅🏻┃少儿┃腾讯","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/qq.js"},
 
-{"key":"dr_兔小贝","name":"📚┃儿童┃启蒙","type":3,"api":"https://gitee.com/yf1688/main/raw/master/douban/drpy1.min.js","ext":"https://gitee.com/yf1688/main/raw/master/api/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"dr_兔小贝","name":"📚┃儿童┃启蒙","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"童趣","name":"🍭┃童趣┃","type":3,"api":"https://pan.shangui.cc/f/EaKzID/drpy2.min.js","ext":"https://pan.shangui.cc/f/QeX1fm/%E7%AB%A5%E8%B6%A3.js" },
   
@@ -105,7 +105,7 @@
 
 {"key":"push_agent","name":"▶┃推送┃磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 
-{"key": "csp_Token","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 1,"changeable": 0,"jar": "https://gitee.com/yf1688/main/raw/master/jar/alibaba.jar"},
+{"key": "csp_Token","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 1,"changeable": 0,"jar": "https://download.kstore.space/download/4645/Tvbox/aliyun.jar;md5;332d0e5a28640ee88589390ad4a23a39"},
 
 {"key": "AD","name": "请勿相信任何广告","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
 
