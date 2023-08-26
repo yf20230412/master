@@ -39,7 +39,7 @@
 	
 { "key": "新片热播","name": "💒┃新片┃热播","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
 
-{"key": "豆瓣","name": "豆瓣┃主页","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "豆瓣","name": "🔍┃豆瓣┃主页","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 //
 {"key":"精工厂","name":"精工厂","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
 
