@@ -1,0 +1,75 @@
+第一步，需要将修改的文件添加到暂存区，使用命令 git add，git add 命令有很多可选参数，比较常用到的有两个，git add <path> 和 git add .，当你只是想把制定的文件添加到暂存区的时候，可以使用第一个命令，指定具体文件，当你想把所有修改的文件都添加的时候，就使用第二个命令。
+
+这里提到了一个暂存区的概念，可能难以理解，暂存区是个啥？为啥要有暂存区？
+我们可以思考这样一个问提：有时候你一次性修改了许多文件，然而其实这些文件，有些跟需求 A 有关，有些跟需求 B 有关，因为实际工作中大多数时候我们都是多个需求并行开发的，明明是两个独立的需求，你一次就把所有修改的文件全部提交上去了，那么就不能保证提交历史的清晰。所以这时候文件的选择就可以交给暂存区去做，每一次提交都是一个完整的功能开发，保证提交历史干净清晰。
+
+由于这里我们是测试项目，所以可以直接使用 git add . 命令，把刚刚修改的文件全部添加到暂存区。我这里就修改一下我的 readme 文档，然后添加。没有报错，说明添加成功。
+
+git commit 主要是将暂存区里的文件给提交到本地的版本库。git commit 命令也有很多可选参数，用到最多的是 git commit -m "message"，相当于给我们的这次提交起个名字，当然要是有意义的名字。
+这里还有个小技巧，如果当你使用某个命令不知道要加什么参数的时候，可以使用 help 命令，例如这里，使用 git commit --help，就可以跳转到官网相关文档。
+
+在使用 git commit 命令将修改从暂存区提交到本地版本库后，只剩下最后一步将本地版本库的分支推送到远程服务器上对应的分支了。git push 的一般形式为 git push的一般形式为 git push origin <远程分支名>，例如 git push origin如果该远程分支不存在，则会被新建。如果当前分支只有一个远程分支，那么命令可以直接简化成 git push。
+
+常用的命令符  (注意新命令符中的"master"改成了"main")
+
+
+重命名本地分支 
+ git branch -m master main
+
+
+重命名远程分支 
+
+git checkout main
+git push -u origin main
+
+
+删除远程分支master
+git push origin --delete master
+
+检查远程仓库配置
+ git remote -v
+
+如果远程仓库信息有误，则删除本地仓库配置，并且设置相关地址
+git remote origin
+git remote add origin xxxx
+
+
+本地上传命令符
+
+git add .                           将改动添加到暂存区
+
+git commit -m"message"    提交说明””里面随便写
+
+git push                           强制将本地更改提交到远程库
+
+
+
+将远程库同步到本地库 
+
+git pull upstream main
+
+{(前提是否设置upstream（中文叫：上游代码库）具体设置如下:输入 git remote -v，按下回车键.你将会看到你当前配置的远程仓库.再输入 git remote add upstream ""，将""替换成泥刚才的远程库的 URL仓库链接 ，即git remote add upstream yf20230412/master.git 并按下回车键。再次输入 git remote -v 你将会看到你 fork 的 URL 作为原始的地址，而原始的仓库的 URL 作为 upstream。现在，你可以保持你的 fork 与 upstream 的仓库的同步）}
+
+
+git add -A         保存所有的修改
+git add .            保存新的添加和修改，但是不包括删除
+git add -u          保存修改和删除，但是不包括新建文件
+git stash pop:     从Git栈中读取最近一次保存的内容
+
+强制推拉当然是不太好的，特别是我们进行团队协作的时候,我们正确的步骤一般都是先pull合并远端再push提交：
+git pull origin main
+get push -u origin main
+
+克隆到本地文件夹命令符
+
+git clone git@github.com:yf20230412/master.git
+
+综上所述   配置配置结果                      用                 git remote -v
+
+              检查本地是否有未提交的修改   用                 git status
+
+              本地同步远程仓库                 用                 git add .                           
+                                                                         git commit -m "message"
+                                                                          git push
+ 
+              远程仓库同步到本地              用                  git pull upstream main
