@@ -2,7 +2,7 @@
   
 //定义Jar地址
 	
-"spider":" https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan0825.jar;md5;c80207edebbe5019a688fd2eb653e005" , 
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bf1f28d65240042a470d4f80035e529f",
 
 //壁纸地址
 
@@ -34,7 +34,7 @@
   
 "sites":[  
 
-
+	
 {"key":"奇艺","name":"🧚┃少儿┃爱奇艺","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/iqiyi.js"},
 	
 {"key":"芒果","name":"👼🏻┃少儿┃芒果","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/mgtv.js"},
@@ -43,6 +43,8 @@
 
 {"key":"腾讯","name":"🎅🏻┃少儿┃腾讯","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/qq.js"},
 
+{"key": "豆豆","name": "豆瓣┃主页","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+	
 {"key":"dr_兔小贝","name":"📚┃儿童┃启蒙","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"童趣","name":"🍭┃童趣┃","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://download.kstore.space/download/4645/Tvbox/shaoer/童趣.js" },
