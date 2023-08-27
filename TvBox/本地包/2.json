@@ -1,8 +1,10 @@
-{
-  "storeHouse": [
-    {
-      "sourceName": "?·çÑÔ·æÓï©§±¾µØ²Ö¿â?",
-      "sourceUrl": "clan://localhost/·çÑÔ·æÓï/22.json"
-    }
-  ]
+
+{ 
+    
+    "storeHouse": [
+        {
+            "sourceName": "ðŸŒºé£Žè¨€é”‹è¯­â”ƒæœ¬åœ°ä»“åº“ðŸŒº",
+            "sourceUrl": "clan://localhost/é£Žè¨€é”‹è¯­/22.json"
+        }
+    ]
 }
