@@ -33,14 +33,7 @@
 	
 "sites":[
 
-	 {
-      "key": "直播转点播",
-      "name": "🐼️┃电视直播",
-      "type": 3,
-      "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
-      "ext": "http://我不是.肥猫.love:63/lives/直播仓.json",
-		 "jar": "https://download.kstore.space/download/4645/Tvbox/feim.jar"
-    },
+
 { "key": "drpy_js_荐片","name": "⌛┃荐片┃热播","type": 3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/荐片.js"},
 
 {"key": "新片热播","name":"⏳┃新片┃热播","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
@@ -84,7 +77,7 @@
 
 {"key":"陌陌","name":"🍄┃陌陌┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, "changeable": 1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
-//{"key": "直播转点播","name": "📺┃电视┃直播","type": 3,"api": https://download.kstore.space/download/4645/Tvbox/直播转点播.json","ext": "https://download.kstore.space/download/4645/Tvbox/直播仓.json","jar": "https://download.kstore.space/download/4645/Tvbox/feim.jar"},
+{"key": "直播转点播","name": "📺┃电视┃直播","type": 3,"api": https://download.kstore.space/download/4645/Tvbox/直播转点播.json","ext": "https://download.kstore.space/download/4645/Tvbox/直播仓.json","jar": "https://download.kstore.space/download/4645/Tvbox/feim.jar"},
 
 
 	
