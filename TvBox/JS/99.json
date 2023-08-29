@@ -83,7 +83,8 @@
       "name": "📺┃电视┃直播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/直播转点播.json",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/直播仓.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/直播仓.json"，
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/feim.jar"
     },
 
 
