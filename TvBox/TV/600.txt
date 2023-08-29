@@ -18,6 +18,8 @@ carib-433,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
 carib-449,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
 carib-457,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
 carib-474,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+
+🔞丨🈲無碼2,#genre#
 carib-477,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
 carib-478,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
 carib-495,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
@@ -36,6 +38,7 @@ carib-710,https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
 carib-717,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
 carib-744,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
 carib-758,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+🔞丨🈲無碼3,#genre#
 heyzo-0705,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
 heyzo-1199,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
 heyzo-1243,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
@@ -55,6 +58,7 @@ pondo-273,https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
 pondo-311,https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
 pondo-350,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
 pondo-366,https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
+🔞丨🈲無碼4,#genre#
 pondo-419,https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
 pondo-450,https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
 pondo-488,https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
