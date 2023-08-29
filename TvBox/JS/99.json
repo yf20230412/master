@@ -7,7 +7,7 @@
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img" , 
 //3
 
-"warningText": "风言锋语提示您：播放错误时，注意播放器IJK和EXO;硬解码和软解码的正确使用" , 
+"warningText": "风言锋语提示您：注意播放器IJK和EXO;硬解码和软解码的正确使用" , 
 
 
 //4	
@@ -77,7 +77,7 @@
 
 {"key":"陌陌","name":"🍄┃陌陌┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, "changeable": 1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
-{"key": "直播转点播","name": "📺┃电视┃直播","type": 3,"api":"https://download.kstore.space/download/4645/Tvbox/直播转点播2.json","ext": "https://download.kstore.space/download/4645/Tvbox/直播仓.json","jar": "https://download.kstore.space/download/4645/Tvbox/feim.jar"},
+{"key": "直播转点播","name": "📺┃电视┃直播","type": 3,"api":"https://download.kstore.space/download/4645/Tvbox/直播转点播2.json","ext": "https://download.kstore.space/download/4645/Tvbox/直播仓.json","jar": "https://download.kstore.space/download/4645/Tvbox/panda.jar"},
 
 
 	
