@@ -18,6 +18,7 @@ ABW-029,https://t11.cdn2020.com:12336/video/m3u8/2021/09/01/727bf74e/index.m3u8
 ABW-065,https://t13.cdn2020.com:12338/video/m3u8/2021/11/16/3d3ad723/index.m3u8
 ABW-103,https://t11.cdn2020.com:12336/video/m3u8/2021/09/04/e3b58ef8/index.m3u8
 ABW-108,https://t13.cdn2020.com:12338/video/m3u8/2021/11/17/6c80a8f3/index.m3u8
+🔞丨🈲番號1,#genre#
 ABW-145,https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/e825c0ac/index.m3u8
 ABW-147,https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/472fb0e4/index.m3u8
 ABW-152,https://t12.cdn2020.com:12337/video/m3u8/2021/10/27/1ad9c88e/index.m3u8
@@ -38,6 +39,7 @@ ADN-027,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/b671b544/index.m3u8
 ADN-077,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/4814caf8/index.m3u8
 ADN-086,https://t12.cdn2020.com:12337/video/m3u8/2021/10/12/91c4a75b/index.m3u8
 ADN-099,https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/e82d38f6/index.m3u8
+🔞丨🈲番號2,#genre#
 ADN-141,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/0a295389/index.m3u8
 ADN-142,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/5c637d4f/index.m3u8
 ADN-143,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/261102ea/index.m3u8
@@ -58,6 +60,7 @@ ADN-334,https://t10.cdn2020.com:12335/video/m3u8/2021/08/09/5b5bf188/index.m3u8
 ADN-336,https://t10.cdn2020.com:12335/video/m3u8/2021/08/09/d97f3244/index.m3u8
 ADN-345,https://t11.cdn2020.com:12336/video/m3u8/2021/09/21/a184bb13/index.m3u8
 ADN-349,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/03cfb8fb/index.m3u8
+🔞丨🈲番號3,#genre#
 ADN-350,https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/69cf9b87/index.m3u8
 ADN-351,https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/4b0db460/index.m3u8
 ADN-353,https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/6bd4f1de/index.m3u8
@@ -78,6 +81,7 @@ ARM-996,https://t10.cdn2020.com:12335/video/m3u8/2021/07/25/1f753f54/index.m3u8
 ATID-280,https://t10.cdn2020.com:12335/video/m3u8/2021/08/11/4cf7b86b/index.m3u8
 ATID-321,https://t5s.cdn2020.com/video/m3u8/2020/11/06/af027f1e/index.m3u8
 ATID-332,https://t5s.cdn2020.com/video/m3u8/2020/11/11/22a15817/index.m3u8
+🔞丨🈲番號4,#genre#
 ATID-383,https://t10.cdn2020.com:12335/video/m3u8/2021/08/11/b4136ffc/index.m3u8
 ATID-412,https://t5s.cdn2020.com/video/m3u8/2020/12/08/5c4f6eca/index.m3u8
 ATID-440,https://t4s.cdn2020.com/video/m3u8/2020/10/11/0ab621b0/index.m3u8
@@ -98,6 +102,7 @@ BF-611,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/57e5af50/index.m3u8
 BF-622,https://t7.cdn2020.com/video/m3u8/2021/07/07/e39a10d3/index.m3u8
 BF-635,https://t10.cdn2020.com:12335/video/m3u8/2021/07/23/bb5ef805/index.m3u8
 BF-638,https://t10.cdn2020.com:12335/video/m3u8/2021/08/08/cf654092/index.m3u8
+🔞丨🈲番號5,#genre#
 BF-644,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/359bb63f/index.m3u8
 BIJN-132,https://t6s.cdn2020.com/video/m3u8/2021/02/08/da5e623c/index.m3u8
 BIJN-201,https://t7.cdn2020.com/video/m3u8/2021/07/01/1ccecd4b/index.m3u8
@@ -118,6 +123,7 @@ CAWD-103,https://t4s.cdn2020.com/video/m3u8/2020/08/08/7e37986f/index.m3u8
 CAWD-105,https://t4s.cdn2020.com/video/m3u8/2020/09/11/6d916c65/index.m3u8
 CAWD-106,https://t4s.cdn2020.com/video/m3u8/2020/09/11/88567d77/index.m3u8
 CAWD-114,https://t4s.cdn2020.com/video/m3u8/2020/09/30/d4fadbfc/index.m3u8
+🔞丨🈲番號6,#genre#
 CAWD-115,https://t4s.cdn2020.com/video/m3u8/2020/09/30/90b04d82/index.m3u8
 CAWD-119,https://siwazywcdn2.com:5278/zhongwenzimu/GEIQT1yW/index.m3u8
 CAWD-126,https://t5s.cdn2020.com/video/m3u8/2020/11/03/7be63c6c/index.m3u8
@@ -138,6 +144,7 @@ CAWD-243,https://t10.cdn2020.com:12335/video/m3u8/2021/07/29/d9ae3635/index.m3u8
 CAWD-246,https://t10.cdn2020.com:12335/video/m3u8/2021/07/29/3b1a645d/index.m3u8
 CAWD-247,https://t10.cdn2020.com:12335/video/m3u8/2021/07/29/3673cc23/index.m3u8
 CAWD-248,https://t10.cdn2020.com:12335/video/m3u8/2021/07/29/bed37d03/index.m3u8
+🔞丨🈲番號7,#genre#
 CAWD-250,https://t11.cdn2020.com:12336/video/m3u8/2021/09/12/898145ff/index.m3u8
 CAWD-258,https://t10.cdn2020.com:12335/video/m3u8/2021/07/29/5fc1e602/index.m3u8
 CAWD-260,https://t10.cdn2020.com:12335/video/m3u8/2021/08/27/90d4c78b/index.m3u8
@@ -158,6 +165,7 @@ CAWD-314,https://t13.cdn2020.com:12338/video/m3u8/2021/12/19/44d3154f/index.m3u8
 CAWD-315,https://t13.cdn2020.com:12338/video/m3u8/2021/12/16/7c3a8501/index.m3u8
 CAWD-319,https://t13.cdn2020.com:12338/video/m3u8/2021/12/15/e1de7cf2/index.m3u8
 CAWD-321,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/07c5fd13/index.m3u8
+🔞丨🈲番號8,#genre#
 CAWD-322,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/0dedbb0a/index.m3u8
 CAWD-323,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/2d227314/index.m3u8
 CAWD-324,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/3b12f1cc/index.m3u8
@@ -177,6 +185,7 @@ CEAD-158,https://t13.cdn2020.com:12338/video/m3u8/2021/11/16/93d68e0e/index.m3u8
 CESD-210,https://t4s.cdn2020.com/video/m3u8/2020/09/03/2b51746b/index.m3u8
 CHN-186,https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/afd1cf53/index.m3u8
 CHN-190,https://t4s.cdn2020.com/video/m3u8/2020/09/09/c116481a/index.m3u8
+🔞丨🈲番號8,#genre#
 CHN-195,https://t10.cdn2020.com:12335/video/m3u8/2021/08/12/1c43a430/index.m3u8
 CJOD-030,https://t10.cdn2020.com:12335/video/m3u8/2021/07/23/afb1fba6/index.m3u8
 CJOD-261,https://t5s.cdn2020.com/video/m3u8/2020/11/03/d06465b3/index.m3u8
@@ -197,6 +206,7 @@ DASD-697,https://t4s.cdn2020.com/video/m3u8/2020/08/08/8824643d/index.m3u8
 DASD-709,https://t4s.cdn2020.com/video/m3u8/2020/08/17/b7381dca/index.m3u8
 DASD-728,https://t4s.cdn2020.com/video/m3u8/2020/09/30/ab7c73f4/index.m3u8
 DASD-754,https://t5s.cdn2020.com/video/m3u8/2020/11/21/4d8b4d4d/index.m3u8
+🔞丨🈲番號9,#genre#
 DASD-786,https://t6s.cdn2020.com/video/m3u8/2021/01/06/1b835172/index.m3u8
 DASD-819,https://siwazywcdn2.com:5278/zhongwenzimu/9EXSkId8/index.m3u8
 DASD-885,https://t10.cdn2020.com:12335/video/m3u8/2021/07/28/5e17f621/index.m3u8
@@ -217,6 +227,7 @@ DFE-054,https://t10.cdn2020.com:12335/video/m3u8/2021/07/21/1292e241/index.m3u8
 DFE-057,https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/0b9759b4/index.m3u8
 DIC-091,https://t10.cdn2020.com:12335/video/m3u8/2021/07/25/e04693dc/index.m3u8
 DLDSS-011,https://t11.cdn2020.com:12336/video/m3u8/2021/09/29/aaf701b8/index.m3u8
+🔞丨🈲番號10,#genre#
 DLDSS-017,https://t10.cdn2020.com:12335/video/m3u8/2021/07/25/71ed6ab2/index.m3u8
 DLDSS-022,https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/08e6fd70/index.m3u8
 DLDSS-027,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/1979e014/index.m3u8
@@ -237,6 +248,7 @@ DVAJ-533,https://t11.cdn2020.com:12336/video/m3u8/2021/09/21/0708c67b/index.m3u8
 DVAJ-542,https://t13.cdn2020.com:12338/video/m3u8/2021/11/18/4c7b93f0/index.m3u8
 DVAJ-553,https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/1055d7f5/index.m3u8
 DVDMS-763,https://t16.cdn2020.com:12340/video/m3u8/2022/02/14/6b7d52bd/index.m3u8
+🔞丨🈲番號11,#genre#
 EBOD-793,https://t6s.cdn2020.com/video/m3u8/2021/02/27/4a8c07b4/index.m3u8
 EBOD-829,https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
 EBOD-841,https://t10.cdn2020.com:12335/video/m3u8/2021/07/27/f68ee174/index.m3u8
@@ -257,6 +269,7 @@ FSDSS-070,https://t12.cdn2020.com:12337/video/m3u8/2021/10/22/3073de3b/index.m3u
 FSDSS-077,https://t4s.cdn2020.com/video/m3u8/2020/09/05/a64d7346/index.m3u8
 FSDSS-078,https://t4s.cdn2020.com/video/m3u8/2020/09/05/a455e139/index.m3u8
 FSDSS-081,https://t4s.cdn2020.com/video/m3u8/2020/09/22/cee4dca2/index.m3u8
+🔞丨🈲番號12,#genre#
 FSDSS-084,https://t4s.cdn2020.com/video/m3u8/2020/09/23/96da38fd/index.m3u8
 FSDSS-092,https://t4s.cdn2020.com/video/m3u8/2020/09/28/87e3622f/index.m3u8
 FSDSS-096,https://t4s.cdn2020.com/video/m3u8/2020/09/28/9451ecb4/index.m3u8
@@ -277,6 +290,7 @@ FSDSS-142,https://t6s.cdn2020.com/video/m3u8/2021/01/12/3e97be5c/index.m3u8
 FSDSS-146,https://t6s.cdn2020.com/video/m3u8/2021/01/12/87e6fc48/index.m3u8
 FSDSS-148,https://t6s.cdn2020.com/video/m3u8/2021/01/12/a2a9de40/index.m3u8
 FSDSS-177,https://t7.cdn2020.com/video/m3u8/2021/04/27/c72c57c2/index.m3u8
+🔞丨🈲番號13,#genre#
 FSDSS-179,https://siwazywcdn2.com:5278/zhongwenzimu/uS0fPCmg/index.m3u8
 FSDSS-206,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/2146f0fb/index.m3u8
 FSDSS-252,https://t10.cdn2020.com:12335/video/m3u8/2021/08/11/da60061d/index.m3u8
@@ -297,6 +311,7 @@ FSDSS-306,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/7a348dd0/index.m3u
 FSDSS-322,https://t13.cdn2020.com:12338/video/m3u8/2021/12/15/b2511c7b/index.m3u8
 FSDSS-326,https://t13.cdn2020.com:12338/video/m3u8/2021/12/15/c12bcdc3/index.m3u8
 FSDSS-330,https://t13.cdn2020.com:12338/video/m3u8/2021/12/14/fa7dce4f/index.m3u8
+🔞丨🈲番號14,#genre#
 FSDSS-331,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/e4952e56/index.m3u8
 FSDSS-335,https://t13.cdn2020.com:12338/video/m3u8/2021/12/14/4d2d85a1/index.m3u8
 FSDSS-336,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/43e3536d/index.m3u8
@@ -317,6 +332,7 @@ GVG-809,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/96effcf0/index.m3u8
 GVH-089,https://t4s.cdn2020.com/video/m3u8/2020/07/31/1164edab/index.m3u8
 GVH-103,https://t5s.cdn2020.com/video/m3u8/2020/10/31/24b330ac/index.m3u8
 GVH-239,https://t10.cdn2020.com:12335/video/m3u8/2021/08/08/71279403/index.m3u8
+🔞丨🈲番號15,#genre#
 GVH-286,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/e11ddbbb/index.m3u8
 HAR-027,https://t10.cdn2020.com:12335/video/m3u8/2021/08/24/a2f144e2/index.m3u8
 HAVD-554,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/4a6ce325/index.m3u8
@@ -337,6 +353,7 @@ HMN-019,https://t10.cdn2020.com:12335/video/m3u8/2021/07/27/e1fcaf6b/index.m3u8
 HMN-021,https://t13.cdn2020.com:12338/video/m3u8/2021/12/02/2b656c33/index.m3u8
 HMN-034,https://t10.cdn2020.com:12335/video/m3u8/2021/08/27/f41fb875/index.m3u8
 HMN-071,https://t13.cdn2020.com:12338/video/m3u8/2021/12/02/6973b460/index.m3u8
+🔞丨🈲番號16,#genre#
 HMN-072,https://siwazywcdn2.com:5278/zhongwenzimu/YES5A9zl/index.m3u8
 HMN-075,https://t13.cdn2020.com:12338/video/m3u8/2021/12/02/19350e80/index.m3u8
 HMN-076,https://t13.cdn2020.com:12338/video/m3u8/2021/12/02/43baafc4/index.m3u8
@@ -357,6 +374,7 @@ HMN-136,https://t17.cdn2020.com:12341/video/m3u8/2022/03/21/f06783f4/index.m3u8
 HMN-141,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/052b9624/index.m3u8
 HND-205,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/0b7bda51/index.m3u8
 HND-277,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/01596a03/index.m3u8
+🔞丨🈲番號17,#genre#
 HND-642,https://t6s.cdn2020.com/video/m3u8/2021/01/24/d3b7d809/index.m3u8
 HND-774,https://siwazywcdn2.com:5278/zhongwenzimu/uYyvOsg1/index.m3u8
 HND-893,https://siwazywcdn2.com:5278/zhongwenzimu/WkPiX4Gg/index.m3u8
@@ -377,6 +395,7 @@ IENF-021,https://t6s.cdn2020.com/video/m3u8/2021/02/03/5893e25f/index.m3u8
 IENF-082,https://t6s.cdn2020.com/video/m3u8/2021/02/27/cff74e4e/index.m3u8
 IENF-172,https://t13.cdn2020.com:12338/video/m3u8/2021/12/10/9a7e7443/index.m3u8
 IENF-183,https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/cedc6150/index.m3u8
+🔞丨🈲番號18,#genre#
 IESP-626,https://t13.cdn2020.com:12338/video/m3u8/2021/12/10/7d893642/index.m3u8
 IPIT-019,https://t10.cdn2020.com:12335/video/m3u8/2021/07/28/358c4696/index.m3u8
 IPX-084,https://t4s.cdn2020.com/video/m3u8/2020/08/19/7f10b27e/index.m3u8
@@ -397,6 +416,7 @@ IPX-694,https://t10.cdn2020.com:12335/video/m3u8/2021/07/27/db88c242/index.m3u8
 IPX-697,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/089e730f/index.m3u8
 IPX-699,https://t10.cdn2020.com:12335/video/m3u8/2021/08/16/3bdc9531/index.m3u8
 IPX-700,https://t10.cdn2020.com:12335/video/m3u8/2021/08/16/1e95d244/index.m3u8
+🔞丨🈲番號19,#genre#
 IPX-701,https://siwazywcdn2.com:5278/zhongwenzimu/qkcej1Ao/index.m3u8
 IPX-702,https://t10.cdn2020.com:12335/video/m3u8/2021/08/16/8223f1ed/index.m3u8
 IPX-703,https://siwazywcdn2.com:5278/zhongwenzimu/w1zPu4Mb/index.m3u8
@@ -417,6 +437,7 @@ IPX-732,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/af8f9039/index.m3u8
 IPX-733,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/76dbf65a/index.m3u8
 IPX-735,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/3fa04bf3/index.m3u8
 IPX-737,https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/4e2943bc/index.m3u8
+🔞丨🈲番號20,#genre#
 IPX-739,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/44c6b023/index.m3u8
 IPX-745,https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/c17d8dbf/index.m3u8
 IPX-746,https://siwazywcdn2.com:5278/zhongwenzimu/k8LPdH4g/index.m3u8
@@ -437,6 +458,7 @@ IPX-772,https://t13.cdn2020.com:12338/video/m3u8/2021/12/18/db203731/index.m3u8
 IPX-773,https://t13.cdn2020.com:12338/video/m3u8/2021/12/18/bd6e8fec/index.m3u8
 IPX-777,https://t13.cdn2020.com:12338/video/m3u8/2021/12/19/1e87b3a0/index.m3u8
 IPX-779,https://t13.cdn2020.com:12338/video/m3u8/2021/12/18/a2f0442a/index.m3u8
+🔞丨🈲番號21,#genre#
 IPX-780,https://t13.cdn2020.com:12338/video/m3u8/2021/12/18/a662b256/index.m3u8
 IPX-783,https://t13.cdn2020.com:12338/video/m3u8/2021/12/18/25c293a1/index.m3u8
 IPX-784,https://t13.cdn2020.com:12338/video/m3u8/2021/12/18/f3154a5b/index.m3u8
@@ -457,6 +479,7 @@ IPX-816,https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/6072e8b8/index.m3u8
 IPX-818,https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/1c2e5f58/index.m3u8
 IPX-819,https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/6c266521/index.m3u8
 IPX-820,https://t16.cdn2020.com:12340/video/m3u8/2022/02/14/472a8cad/index.m3u8
+🔞丨🈲番號22,#genre#
 IPX-824,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/8129c2ad/index.m3u8
 IPX-832,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/f96d5171/index.m3u8
 IPX-833,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/7629cfa5/index.m3u8
@@ -477,6 +500,7 @@ JUFD-619,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/506a54ce/index.m3u8
 JUFD-717,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/0493761c/index.m3u8
 JUFD-830,https://t12.cdn2020.com:12337/video/m3u8/2021/10/13/c0f7052b/index.m3u8
 JUFD-874,https://t12.cdn2020.com:12337/video/m3u8/2021/10/17/3004ce2d/index.m3u8
+🔞丨🈲番號23,#genre#
 JUFE-067,https://t12.cdn2020.com:12337/video/m3u8/2021/10/13/42528843/index.m3u8
 JUFE-104,https://siwazywcdn2.com:5278/zhongwenzimu/4TrvxJeg/index.m3u8
 JUFE-313,https://t10.cdn2020.com:12335/video/m3u8/2021/08/07/e06a4275/index.m3u8
@@ -497,6 +521,7 @@ JUL-331,https://t5s.cdn2020.com/video/m3u8/2020/10/18/d7e7d49a/index.m3u8
 JUL-341,https://t5s.cdn2020.com/video/m3u8/2020/10/18/fc0dec14/index.m3u8
 JUL-393,https://t5s.cdn2020.com/video/m3u8/2020/12/13/891a5b24/index.m3u8
 JUL-414,https://t6s.cdn2020.com/video/m3u8/2021/01/09/fda02e53/index.m3u8
+🔞丨🈲番號24,#genre#
 JUL-420,https://t6s.cdn2020.com/video/m3u8/2021/01/09/877d5f72/index.m3u8
 JUL-428,https://t6s.cdn2020.com/video/m3u8/2021/01/24/cf1b0fdb/index.m3u8
 JUL-430,https://t6s.cdn2020.com/video/m3u8/2021/02/03/80e0246d/index.m3u8
@@ -517,6 +542,7 @@ JUL-705,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/2adffa26/index.m3u8
 JUL-706,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/16c55f00/index.m3u8
 JUL-708,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/cbcb233a/index.m3u8
 JUL-731,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/821a9e5e/index.m3u8
+🔞丨🈲番號25,#genre#
 JUL-740,https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/65aae748/index.m3u8
 JUL-743,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/b889eae2/index.m3u8
 JUL-752,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/7ecc81c4/index.m3u8
@@ -537,6 +563,7 @@ JUL-839,https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/3830afc1/index.m3u8
 JUL-840,https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/b6d7a9c4/index.m3u8
 JUL-843,https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/cfd71ff7/index.m3u8
 JUL-847,https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/6d19d250/index.m3u8
+🔞丨🈲番號26,#genre#
 JUL-858,https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/c21f9e6e/index.m3u8
 JUL-860,https://t16.cdn2020.com:12340/video/m3u8/2022/02/21/e85fe720/index.m3u8
 JUL-873,https://t16.cdn2020.com:12340/video/m3u8/2022/03/02/73c47625/index.m3u8
@@ -557,6 +584,7 @@ KAWD-426,https://t11.cdn2020.com:12336/video/m3u8/2021/09/02/b610be7c/index.m3u8
 KAWD-896,https://t7.cdn2020.com/video/m3u8/2021/07/16/38718fcf/index.m3u8
 KAWD-969,https://t7.cdn2020.com/video/m3u8/2021/06/26/786bf9c7/index.m3u8
 KAWD-991,https://t10.cdn2020.com:12335/video/m3u8/2021/08/21/7760c1f7/index.m3u8
+🔞丨🈲番號27,#genre#
 KIMU-001,https://t5s.cdn2020.com/video/m3u8/2020/12/03/52308bcb/index.m3u8
 KING-046,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/e9ec4df8/index.m3u8
 KIRE-009,https://t5s.cdn2020.com/video/m3u8/2020/11/26/aa916a27/index.m3u8
@@ -577,6 +605,7 @@ MDB-725,https://t17.cdn2020.com:12341/video/m3u8/2022/03/18/25d292d3/index.m3u8
 MDBK-109,https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/4840cb69/index.m3u8
 MDBK-207,https://t13.cdn2020.com:12338/video/m3u8/2021/11/22/e9c4236b/index.m3u8
 MDBK-223,https://t16.cdn2020.com:12340/video/m3u8/2022/03/05/4c9662d9/index.m3u8
+🔞丨🈲番號28,#genre#
 MDS-898,https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/9ad88dbe/index.m3u8
 MDTE-020,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/0d78d5b9/index.m3u8
 MDTM-550,https://t10.cdn2020.com:12335/video/m3u8/2021/08/05/8735ade0/index.m3u8
@@ -597,6 +626,7 @@ MDX-0238,https://t15.cdn2020.com:12339/video/m3u8/2021/12/25/d3aa5d62/index.m3u8
 MDX-0239,https://t6s.cdn2020.com/video/m3u8/2021/02/25/9433e4c7/index.m3u8
 MDX-0240,https://t6s.cdn2020.com/video/m3u8/2021/02/25/648c8c36/index.m3u8
 MDX-0241,https://t5s.cdn2020.com/video/m3u8/2020/11/27/0147d0cd/index.m3u8
+🔞丨🈲番號29,#genre#
 MDX-0242,https://t5s.cdn2020.com/video/m3u8/2020/11/25/baa04ade/index.m3u8
 MDX-0243,https://t4s.cdn2020.com/video/m3u8/2020/09/02/4dfb363c/index.m3u8
 MDX-0244,https://t7.cdn2020.com/video/m3u8/2021/06/08/57b6136c/index.m3u8
@@ -617,6 +647,7 @@ MEYD-718,https://t13.cdn2020.com:12338/video/m3u8/2021/11/29/1f93ae45/index.m3u8
 MEYD-720,https://t13.cdn2020.com:12338/video/m3u8/2021/11/29/6a0efc0a/index.m3u8
 MEYD-722,https://t15.cdn2020.com:12339/video/m3u8/2021/12/26/b6de6d95/index.m3u8
 MEYD-726,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/b095a9b9/index.m3u8
+🔞丨🈲番號30,#genre#
 MEYD-734,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/e9a3b310/index.m3u8
 MIAA-006,https://t13.cdn2020.com:12338/video/m3u8/2021/12/02/d0c349a6/index.m3u8
 MIAA-235,https://siwazywcdn2.com:5278/zhongwenzimu/YV7xtRCQ/index.m3u8
@@ -637,6 +668,7 @@ MIAA-382,https://t7.cdn2020.com/video/m3u8/2021/04/16/db5c1ca3/index.m3u8
 MIAA-417,https://siwazywcdn2.com:5278/zhongwenzimu/f9MgVFG0/index.m3u8
 MIAA-466,https://t10.cdn2020.com:12335/video/m3u8/2021/07/30/0a23a677/index.m3u8
 MIAA-468,https://t10.cdn2020.com:12335/video/m3u8/2021/07/30/b302495a/index.m3u8
+🔞丨🈲番號31,#genre#
 MIAA-470,https://t10.cdn2020.com:12335/video/m3u8/2021/07/30/19f565dd/index.m3u8
 MIAA-471,https://t10.cdn2020.com:12335/video/m3u8/2021/08/07/f2b5c4ac/index.m3u8
 MIAA-482,https://siwazywcdn2.com:5278/zhongwenzimu/p8R5guw7/index.m3u8
@@ -657,6 +689,7 @@ MIAA-553,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/72a566c5/index.m3u8
 MIAA-557,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/16906795/index.m3u8
 MIAA-561,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/83e57fcd/index.m3u8
 MIAA-562,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/6012e749/index.m3u8
+🔞丨🈲番號32,#genre#
 MIAA-563,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/808c2e05/index.m3u8
 MIAA-564,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/b97d611d/index.m3u8
 MIAA-567,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/3980ed8c/index.m3u8
@@ -677,6 +710,7 @@ MIAE-021,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/d0b97f6d/index.m3u8
 MIAE-053,https://t17.cdn2020.com:12341/video/m3u8/2022/04/05/77be11c6/index.m3u8
 MIAE-071,https://t7.cdn2020.com/video/m3u8/2021/03/25/92710e21/index.m3u8
 MIAE-180,https://t13.cdn2020.com:12338/video/m3u8/2021/11/19/d01bb27d/index.m3u8
+🔞丨🈲番號33,#genre#
 MIAE-262,https://t7.cdn2020.com/video/m3u8/2021/05/14/e8ce774a/index.m3u8
 MIDE-784,https://t6s.cdn2020.com/video/m3u8/2021/02/05/ddf896d6/index.m3u8
 MIDE-797,https://t4s.cdn2020.com/video/m3u8/2020/07/27/89cfae5b/index.m3u8
@@ -697,6 +731,7 @@ MIDE-954,https://t10.cdn2020.com:12335/video/m3u8/2021/08/07/d38cfa76/index.m3u8
 MIDE-960,https://t10.cdn2020.com:12335/video/m3u8/2021/08/18/e8680aeb/index.m3u8
 MIDE-970,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/4f8053b0/index.m3u8
 MIDE-976,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/b4c1125f/index.m3u8
+🔞丨🈲番號34,#genre#
 MIDE-981,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/28153fb3/index.m3u8
 MIDE-983,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/5ebd616f/index.m3u8
 MIDV-011,https://t13.cdn2020.com:12338/video/m3u8/2021/12/15/689921b6/index.m3u8
@@ -707,6 +742,7 @@ MIDV-041,https://t16.cdn2020.com:12340/video/m3u8/2022/02/24/25eaff91/index.m3u8
 MIDV-042,https://t16.cdn2020.com:12340/video/m3u8/2022/02/14/f7612844/index.m3u8
 MIDV-049,https://t16.cdn2020.com:12340/video/m3u8/2022/03/02/86c50281/index.m3u8
 MIDV-057,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/469771e5/index.m3u8
+🔞丨🈲番號35,#genre#
 MIDV-058,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/eb45677f/index.m3u8
 MIDV-060,https://t16.cdn2020.com:12340/video/m3u8/2022/03/10/927aa925/index.m3u8
 MIDV-069,https://t17.cdn2020.com:12341/video/m3u8/2022/03/25/8368fd47/index.m3u8
@@ -727,6 +763,7 @@ MKMP-340,https://t10.cdn2020.com:12335/video/m3u8/2021/08/23/43a318e7/index.m3u8
 MKMP-433,https://t16.cdn2020.com:12340/video/m3u8/2022/02/18/3ff1dede/index.m3u8
 MKMP-434,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/3b0b4325/index.m3u8
 MKON-060,https://t13.cdn2020.com:12338/video/m3u8/2021/12/17/b72d43fa/index.m3u8
+🔞丨🈲番號36,#genre#
 MKON-062,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/b2ec7794/index.m3u8
 MKON-075,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/7bd4c045/index.m3u8
 MMUS-034,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/d12cbf8f/index.m3u8
@@ -747,6 +784,7 @@ MXGS-450,https://t13.cdn2020.com:12338/video/m3u8/2021/12/02/4747ce6b/index.m3u8
 MXGS-812,https://t4s.cdn2020.com/video/m3u8/2020/09/30/a6184b61/index.m3u8
 MXGS-984,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/2fb41c71/index.m3u8
 MXGS-992,https://t17.cdn2020.com:12341/video/m3u8/2022/04/06/72dedc7b/index.m3u8
+🔞丨🈲番號37,#genre#
 NACR-367,https://t5s.cdn2020.com/video/m3u8/2020/11/24/928a4176/index.m3u8
 NACR-389,https://siwazywcdn2.com:5278/zhongwenzimu/H5o3ZdkB/index.m3u8
 NACR-452,https://t15.cdn2020.com:12339/video/m3u8/2022/01/11/b0bc7ac6/index.m3u8
@@ -767,6 +805,7 @@ NNPJ-460,https://t10.cdn2020.com:12335/video/m3u8/2021/08/10/628e8e86/index.m3u8
 NNPJ-472,https://t13.cdn2020.com:12338/video/m3u8/2021/12/04/95766c15/index.m3u8
 NNPJ-490,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/9e57bb08/index.m3u8
 NNPJ-492,https://t17.cdn2020.com:12341/video/m3u8/2022/04/01/24ef6ef6/index.m3u8
+🔞丨🈲番號38,#genre#
 NSFS-044,https://t13.cdn2020.com:12338/video/m3u8/2021/12/04/2b5e46e2/index.m3u8
 NSFS-055,https://t16.cdn2020.com:12340/video/m3u8/2022/02/18/c3fc5539/index.m3u8
 NSFS-071,https://t17.cdn2020.com:12341/video/m3u8/2022/04/06/f6d81e3e/index.m3u8
@@ -787,6 +826,7 @@ PPPD-403,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/01a287eb/index.m3u8
 PPPD-412,https://t11.cdn2020.com:12336/video/m3u8/2021/09/17/2dea29ea/index.m3u8
 PPPD-422,https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/d5a453cd/index.m3u8
 PPPD-552,https://t13.cdn2020.com:12338/video/m3u8/2021/12/14/48ab9c96/index.m3u8
+🔞丨🈲番號39,#genre#
 PPPD-597,https://t12.cdn2020.com:12337/video/m3u8/2021/10/17/1d79c0ef/index.m3u8
 PPPD-776,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/ae252786/index.m3u8
 PPPD-785,https://t13.cdn2020.com:12338/video/m3u8/2021/12/16/c872890f/index.m3u8
@@ -807,6 +847,7 @@ PPPD-974,https://t13.cdn2020.com:12338/video/m3u8/2021/11/28/1270c2be/index.m3u8
 PPPD-976,https://t13.cdn2020.com:12338/video/m3u8/2021/11/28/99973039/index.m3u8
 PPPD-977,https://t13.cdn2020.com:12338/video/m3u8/2021/11/28/4b1f3cbc/index.m3u8
 PPPD-980,https://t13.cdn2020.com:12338/video/m3u8/2021/11/28/a653204d/index.m3u8
+🔞丨🈲番號40,#genre#
 PPPD-984,https://t15.cdn2020.com:12339/video/m3u8/2021/12/29/c67d6ebc/index.m3u8
 PPPD-987,https://t15.cdn2020.com:12339/video/m3u8/2021/12/28/ac03a6b7/index.m3u8
 PPPD-989,https://t15.cdn2020.com:12339/video/m3u8/2021/12/29/c830aec2/index.m3u8
@@ -827,6 +868,7 @@ PRED-350,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/d1272d7f/index.m3u8
 PRED-360,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/4de45ea3/index.m3u8
 PRED-362,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/95c349b4/index.m3u8
 PRED-365,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/890dc248/index.m3u8
+🔞丨🈲番號41,#genre#
 PRED-372,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/a46cc9aa/index.m3u8
 PRED-375,https://t16.cdn2020.com:12340/video/m3u8/2022/03/02/1e3a668d/index.m3u8
 RBD-223,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/9b65972c/index.m3u8
@@ -847,6 +889,7 @@ ROE-017,https://siwazywcdn2.com:5278/zhongwenzimu/KBi0xpSs/index.m3u8
 ROE-032,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/335cd318/index.m3u8
 ROE-037,https://t15.cdn2020.com:12339/video/m3u8/2022/01/19/42af0bc0/index.m3u8
 ROYD-021,https://t4s.cdn2020.com/video/m3u8/2020/09/28/cbe47c7a/index.m3u8
+🔞丨🈲番號42,#genre#
 ROYD-062,https://t10.cdn2020.com:12335/video/m3u8/2021/08/06/1b7de11f/index.m3u8
 ROYD-072,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/ab4bbfd6/index.m3u8
 ROYD-082,https://t16.cdn2020.com:12340/video/m3u8/2022/03/04/9b83f782/index.m3u8
@@ -867,6 +910,7 @@ SDDE-381,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/cc697acb/index.m3u8
 SDDE-623,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/e1aac4ce/index.m3u8
 SDEN-004,https://t7.cdn2020.com/video/m3u8/2021/04/19/b895431b/index.m3u8
 SDJS-120,https://t12.cdn2020.com:12337/video/m3u8/2021/10/26/f0c025d7/index.m3u8
+🔞丨🈲番號43,#genre#
 SDJS-124,https://t15.cdn2020.com:12339/video/m3u8/2022/01/19/90eacde2/index.m3u8
 SDMU-494,https://t12.cdn2020.com:12337/video/m3u8/2021/10/12/f61cb46b/index.m3u8
 SDMU-968,https://t15.cdn2020.com:12339/video/m3u8/2022/01/14/ce8ff22b/index.m3u8
@@ -887,6 +931,7 @@ SHKD-959,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/79da5eae/index.m3u8
 SHKD-974,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/8d5ef0d3/index.m3u8
 SHKD-982,https://t15.cdn2020.com:12339/video/m3u8/2022/01/15/832dd619/index.m3u8
 SNIS-162,https://t16.cdn2020.com:12340/video/m3u8/2022/02/07/35e42440/index.m3u8
+🔞丨🈲番號44,#genre#
 SNIS-312,https://t13.cdn2020.com:12338/video/m3u8/2021/12/11/360b8de2/index.m3u8
 SNIS-653,https://t5s.cdn2020.com/video/m3u8/2020/11/29/2c0e69c5/index.m3u8
 SNIS-658,https://t10.cdn2020.com:12335/video/m3u8/2021/08/11/c563f3d2/index.m3u8
@@ -907,6 +952,7 @@ SSIS-118,https://siwazywcdn2.com:5278/zhongwenzimu/5yvSxVeg/index.m3u8
 SSIS-129,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/144262e9/index.m3u8
 SSIS-135,https://t10.cdn2020.com:12335/video/m3u8/2021/08/12/bce18014/index.m3u8
 SSIS-137,https://t10.cdn2020.com:12335/video/m3u8/2021/08/12/c7078490/index.m3u8
+🔞丨🈲番號45,#genre#
 SSIS-144,https://t10.cdn2020.com:12335/video/m3u8/2021/08/25/832e4538/index.m3u8
 SSIS-145,https://t10.cdn2020.com:12335/video/m3u8/2021/08/21/ef83e449/index.m3u8
 SSIS-151,https://siwazywcdn2.com:5278/zhongwenzimu/jLdNC1HU/index.m3u8
@@ -927,6 +973,7 @@ SSIS-202,https://t12.cdn2020.com:12337/video/m3u8/2021/10/26/c0dcbd7e/index.m3u8
 SSIS-212,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/c40943bb/index.m3u8
 SSIS-213,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/fde62b3e/index.m3u8
 SSIS-214,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/622f3d9c/index.m3u8
+🔞丨🈲番號46,#genre#
 SSIS-215,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/9f1cd206/index.m3u8
 SSIS-218,https://t12.cdn2020.com:12337/video/m3u8/2021/11/05/4a5d3d95/index.m3u8
 SSIS-226,https://t12.cdn2020.com:12337/video/m3u8/2021/11/05/13855f9e/index.m3u8
@@ -947,6 +994,7 @@ SSIS-273,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/7492e618/index.m3u8
 SSIS-274,https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/da8d8552/index.m3u8
 SSIS-276,https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/c673a6fd/index.m3u8
 SSIS-280,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/71518e15/index.m3u8
+🔞丨🈲番號47,#genre#
 SSIS-285,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/e94594fb/index.m3u8
 SSIS-292,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/ddbc06bc/index.m3u8
 SSIS-299,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/2b09cb68/index.m3u8
@@ -967,6 +1015,7 @@ SSNI-012,https://t6s.cdn2020.com/video/m3u8/2021/01/13/d05bea99/index.m3u8
 SSNI-032,https://t10.cdn2020.com:12335/video/m3u8/2021/07/24/00ecb15d/index.m3u8
 SSNI-065,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/874c5d96/index.m3u8
 SSNI-347,https://t17.cdn2020.com:12341/video/m3u8/2022/04/06/3129edd7/index.m3u8
+🔞丨🈲番號48,#genre#
 SSNI-576,https://t6s.cdn2020.com/video/m3u8/2021/02/25/82dff29e/index.m3u8
 SSNI-595,https://t12.cdn2020.com:12337/video/m3u8/2021/10/19/4e0d89be/index.m3u8
 SSNI-658A,https://siwazywcdn2.com:5278/zhongkouwei/nwba4LUx/index.m3u8
@@ -987,6 +1036,7 @@ SSNI-832,https://siwazywcdn2.com:5278/zhongwenzimu/WMkiBKyw/index.m3u8
 SSNI-833,https://t4s.cdn2020.com/video/m3u8/2020/09/06/169a9a85/index.m3u8
 SSNI-834,https://t4s.cdn2020.com/video/m3u8/2020/09/05/b9c9ac0e/index.m3u8
 SSNI-838,https://t4s.cdn2020.com/video/m3u8/2020/07/30/6a0f9a9d/index.m3u8
+🔞丨🈲番號49,#genre#
 SSNI-840,https://t4s.cdn2020.com/video/m3u8/2020/08/14/21c71718/index.m3u8
 SSNI-866,https://t4s.cdn2020.com/video/m3u8/2020/09/24/15914a9c/index.m3u8
 SSNI-872,https://t4s.cdn2020.com/video/m3u8/2020/10/02/1b6076c4/index.m3u8
@@ -1007,6 +1057,7 @@ SSNI-953,https://t13.cdn2020.com:12338/video/m3u8/2021/11/16/d690ec1e/index.m3u8
 SSNI-959,https://t6s.cdn2020.com/video/m3u8/2021/01/26/d3b0301f/index.m3u8
 SSNI-970,https://t6s.cdn2020.com/video/m3u8/2021/03/07/ee3ae27c/index.m3u8
 SSNI-971,https://t6s.cdn2020.com/video/m3u8/2021/03/07/d80ec2c6/index.m3u8
+🔞丨🈲番號50,#genre#
 SSNI-985,https://siwazywcdn2.com:5278/zhongwenzimu/ob12qUCg/index.m3u8
 SSNI-989,https://siwazywcdn2.com:5278/zhongwenzimu/qiSH8T3J/index.m3u8
 SSPD-165,https://t5s.cdn2020.com/video/m3u8/2020/11/20/a0b46135/index.m3u8
@@ -1027,6 +1078,7 @@ STARS-265,https://t4s.cdn2020.com/video/m3u8/2020/10/14/c8e82dca/index.m3u8
 STARS-266,https://t6s.cdn2020.com/video/m3u8/2021/03/10/1e9063a3/index.m3u8
 STARS-267,https://t5s.cdn2020.com/video/m3u8/2020/10/30/2e46bd4e/index.m3u8
 STARS-268,https://t5s.cdn2020.com/video/m3u8/2020/11/15/3d807364/index.m3u8
+🔞丨🈲番號51,#genre#
 STARS-277,https://t4s.cdn2020.com/video/m3u8/2020/09/26/3d735072/index.m3u8
 STARS-278,https://t4s.cdn2020.com/video/m3u8/2020/10/14/677042c9/index.m3u8
 STARS-287,https://t5s.cdn2020.com/video/m3u8/2020/11/29/c174713f/index.m3u8
@@ -1047,6 +1099,7 @@ STARS-419,https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/cd8af00a/index.m3u
 STARS-431,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/3549ebc6/index.m3u8
 STARS-435,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/0ba77daf/index.m3u8
 STARS-439,https://t13.cdn2020.com:12338/video/m3u8/2021/11/24/7daf83bd/index.m3u8
+🔞丨🈲番號52,#genre#
 STARS-441,https://t16.cdn2020.com:12340/video/m3u8/2022/02/12/9f432147/index.m3u8
 STARS-445,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/5f5b43be/index.m3u8
 STARS-449,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/30678f6e/index.m3u8
@@ -1066,6 +1119,7 @@ TYOD-282,https://t10.cdn2020.com:12335/video/m3u8/2021/08/08/a1e0e239/index.m3u8
 TYOD-313,https://t6s.cdn2020.com/video/m3u8/2021/01/26/7559eadf/index.m3u8
 TYOD-349,https://t6s.cdn2020.com/video/m3u8/2021/02/21/3744f278/index.m3u8
 UMD-737,https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
+🔞丨🈲番號53,#genre#
 URE-059,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/cd710bb9/index.m3u8
 USBA-032,https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/419c982e/index.m3u8
 VAGU-087,https://t4s.cdn2020.com/video/m3u8/2020/08/03/09448c29/index.m3u8
@@ -1087,6 +1141,7 @@ VENX-111,https://t17.cdn2020.com:12341/video/m3u8/2022/03/16/8d55dd9c/index.m3u8
 VMEYD-627,https://t5s.cdn2020.com/video/m3u8/2020/10/17/ea223348/index.m3u8
 VRTM-457,https://t7.cdn2020.com/video/m3u8/2021/04/08/88622f1a/index.m3u8
 VRTM-511,https://t5s.cdn2020.com/video/m3u8/2020/10/16/db15f88e/index.m3u8
+🔞丨🈲番號54,#genre#
 VRTM-516,https://t4s.cdn2020.com/video/m3u8/2020/09/30/64fb3dac/index.m3u8
 WAAA-077,https://t7.cdn2020.com/video/m3u8/2021/06/30/3b855a40/index.m3u8
 WAAA-087,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
@@ -1107,6 +1162,7 @@ XRW-536,https://t10.cdn2020.com:12335/video/m3u8/2021/08/12/7f6e0393/index.m3u8
 XVSR-566,https://t5s.cdn2020.com/video/m3u8/2020/12/16/aaf06750/index.m3u8
 XVSR-586,https://siwazywcdn2.com:5278/zhongwenzimu/BS2qJGta/index.m3u8
 XVSR-596,https://t10.cdn2020.com:12335/video/m3u8/2021/08/14/136a5115/index.m3u8
+🔞丨🈲番號55,#genre#
 XVSR-610,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/ee9c2367/index.m3u8
 XVSR-612,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/edecc33f/index.m3u8
 XVSR-628,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/6b178ebf/index.m3u8
