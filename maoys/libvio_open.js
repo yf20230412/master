@@ -1,5 +1,5 @@
 // 自动从 地址发布页 获取&跳转url地址
-import { load, _ } from './lib/cat.js';
+import { load, _ } from 'https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/cat.js';
 
 var key = 'libvio';
 var HOST = 'https://libvio.app'; // 地址发布页

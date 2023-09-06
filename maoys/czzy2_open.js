@@ -1,4 +1,4 @@
-import { Crypto, load, _ } from './lib/cat.js';
+import { Crypto, load, _ } from 'https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/cat.js';
 
 let key = 'czzy';
 let url = 'https://cz01.me';

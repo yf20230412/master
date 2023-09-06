@@ -1,4 +1,4 @@
-import { load, _ } from "assets://js/lib/cat.js";
+import { load, _ } from "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/cat.js";
 
 let key = "世纪DJ音乐网";
 let HOST = "http://m.dj0898.com";

@@ -1,5 +1,5 @@
 // 修复 Windows版 播放转圈圈
-import { load, _ } from './lib/cat.js';
+import { load, _ } from 'https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/cat.js';
 
 let key = 'duboku';
 let HOST = 'https://www.duboku.tv';

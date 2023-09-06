@@ -1,5 +1,5 @@
 import { _ } from './lib/cat.js';
-import { findBestLCS } from './lib/similarity.js';
+import { findBestLCS } from 'https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/similarity.js';
 
 const http = async function (url, options = {}) {
     if (options.method == 'POST' && options.data) {

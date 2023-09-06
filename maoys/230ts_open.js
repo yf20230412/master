@@ -1,5 +1,5 @@
 // 网站搜索异常
-import { load, _ } from './lib/cat.js';
+import { load, _ } from 'https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/cat.js';
 
 let key = '爱上你听书网';
 let HOST = 'https://wap.230ts.net';

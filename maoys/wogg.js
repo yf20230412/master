@@ -1,5 +1,5 @@
 import {load, _, Uri} from './lib/cat.js';
-import {log} from './lib/utils.js';
+import {log} from 'https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/utils.js';
 import {initAli, detailContent, playContent}  from './lib/ali.js';
 
 let siteKey = '';

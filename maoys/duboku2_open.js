@@ -1,4 +1,4 @@
-import { Crypto, load, _, jinja2 } from './lib/cat.js';
+import { Crypto, load, _, jinja2 } from 'https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/cat.js';
 
 let key = 'duboku';
 let url = 'https://u.duboku.io';

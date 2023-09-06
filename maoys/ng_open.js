@@ -1,4 +1,4 @@
-import { Crypto, jinja2, _ } from './lib/cat.js';
+import { Crypto, jinja2, _ } from 'https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/cat.js';
 
 let key = '南瓜影视';
 let HOST = 'http://ys.changmengyun.com';

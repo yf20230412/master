@@ -1,4 +1,4 @@
-import { Crypto, _ } from './lib/cat.js';
+import { Crypto, _ } from 'https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/cat.js';
 
 let key = 'mtsp';
 let main = 'http://mt88.pw';

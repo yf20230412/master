@@ -1,4 +1,4 @@
-import { load, _ } from './lib/cat.js';
+import { load, _ } from 'https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/cat.js';
 let key = '🐰兔小贝';
 let HOST = 'https://www.tuxiaobei.com';
 let siteKey = '';

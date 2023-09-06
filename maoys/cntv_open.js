@@ -1,5 +1,5 @@
 // 无搜索功能
-import { _ } from './lib/cat.js';
+import { _ } from 'https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/cat.js';
 let key = '视聚场';
 let HOST = 'http://api.cntv.cn';
 let siteKey = '';

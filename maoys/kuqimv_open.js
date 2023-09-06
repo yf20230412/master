@@ -1,5 +1,5 @@
 // 修正：分类改静态 (网站频繁变动分类)
-import { load, _ } from "assets://js/lib/cat.js";
+import { load, _ } from "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/maoys/lib/cat.js";
 
 let key = "酷奇MV";
 let HOST = "https://www.kuqimv.com";
