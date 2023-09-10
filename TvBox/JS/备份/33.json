@@ -109,7 +109,7 @@
 
 //电视
 
-{ "key": "drpy_js_荐片","name": "⌛┃荐片┃热播","type": 3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/荐片.js"},
+{"key": "新片热播","name":"⏳┃新片┃热播","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
 
 {"key":"Qtv","name":"🐧┃腾讯┃解析","type":3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable": 0},
 	
