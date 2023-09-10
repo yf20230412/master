@@ -1,4 +1,4 @@
-$image_directory = "https://ghproxy.net/raw.githubusercontent.com/yf20230412/master/main/TvBox/img/"; //设定图片目录
+$image_directory = "https://ghproxy.net/github.com/yf20230412/master/main/TvBox/img/"; //设定图片目录
 
 $image_type = array(".jpg",".gif",".png"); //设定图片类型
 
