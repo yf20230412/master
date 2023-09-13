@@ -151,7 +151,7 @@
 	
 {"key":"csp_Anime1","name":"🐔┃日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 		    	        	
-{"key": "csp_XPath_企鹅体育","name": "🐧┃企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://download.kstore.space/download/4645/Tvbox/%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.js","jar":"http://我不是.肥猫.love:63/Jar/pandaQ230803.jar;md5;F3186F44835CD46EF458744D797BD9CC"},
+{"key": "csp_XPath_企鹅体育","name": "🐧┃企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://download.kstore.space/download/4645/Tvbox/%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.js","jar":"https://download.kstore.space/download/4645/Tvbox/pandaQ230823.jar;md5;094b4d3625d42893f683cc2e95311153"},
 
 {"key": "csp_XYQHiker_‍dyx","name": "🧲┃磁力4k┃慎用","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/4k.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/4K%E7%A3%81%E5%8A%9B.jar;md5;B880BBAD2845D16CFB86CCA0331B2621"},
    
