@@ -3,7 +3,7 @@
 	
 //定义Jar地址
 	
-"spider": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan918.jar;md5;ed5d521ad71063b99b06e9ad4c7f9bca" , 
+"spider": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan920.jar;md5;fabe518913a31b346f22adf3f302c6b3" , 
 
 //壁纸地址
 
@@ -94,6 +94,14 @@
 {"key":"久久热在线","name":"久久热在线","type":0,"api":"https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"zp100","name":"乐播","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+
+{"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+{"key":"*水蜜桃","name":"*水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+{"key":"*色窝资源","name":"*色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},	
+
+{"key":"*老鸭资源","name":"*老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},	
 
 {"key":"zp123","name":"色猫资源（慢）","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 
