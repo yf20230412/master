@@ -97,7 +97,7 @@
   
 {"key":"py_czxx","name":"🅱️┃初中┃教育","type":3,"api":"py_czxx","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/初中.py"  },
 
-{"key": "MTV转点播","name": "🎶┃万首┃MTV","type": 3,"playerType": 2,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/music/音乐转点播.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/music/MTV.txt"},
+{"key": "MTV转点播","name": "🎶┃万首┃MTV","type": 3,"playerType": 2,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/music/音乐转点播.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/music/MTV2.txt"},
    
 {"key": "MV_vod","name": "🤳┃字母┃点歌台","type": 1,"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod"},
 	
