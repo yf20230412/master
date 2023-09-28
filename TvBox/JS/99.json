@@ -55,7 +55,7 @@
   
 {"key": "cps_aliyunpan","name": "👩‍🔬┃玩偶┃妹妹", "type": 1,"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影","电视剧","综艺","动漫"]},
 
-{"key": "探探","name":"💐┃影探┃4K","type": 3, "playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "vip.lyyytv.cn"},
+{"key": "毛驴","name": "🍓毛驴┃App","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
 	
 {"key": "csp_Kunyu77","name": "🌈┃七七┃影视","type": 3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
