@@ -1,13 +1,13 @@
 {
 
 // 1
-"spider": " https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan928.jar;md5;b25d0e7f7c87f31aa886b78fe43a7d4c" , 
+"spider": " https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan929.jar;md5;9d742bf942adf729cadceba23f83ebd8" , 
 
 //2
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img" , 
 //3
 
-"warningText": "风言锋语提示您：注意播放器IJK和EXO;硬解码和软解码的正确使用" , 
+"warningText": "风言锋语提示您：观看《玩偶哥哥》4K源请按提示扫描登录阿里token" , 
 
 
 //4	
@@ -49,15 +49,13 @@
 
 {"key": "csp_SP360","name":"📀┃360┃官源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/360ys.js"},
 				   	
-{"key": "csp_KungFu404","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/aliyun.jar;md5;332d0e5a28640ee88589390ad4a23a39"},
-
-{"key":"csp_WoGG","name":"💂┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd$$$http://www.wogg.xyz:2052/"},
+{"key":"csp_WoGG","name":"💂┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
 
 {"key": "姐姐","name": "👩‍⚕️┃玩偶┃姐姐","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://dytt996.com/api.php/app/"},
   
 {"key": "cps_aliyunpan","name": "👩‍🔬┃玩偶┃妹妹", "type": 1,"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影","电视剧","综艺","动漫"]},
 
-{"key": "探探","name":"💐┃影探┃4K","type": 3, "playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "vip.lyyytv.cn"},
+{"key": "毛驴","name": "🍓毛驴┃App","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
 	
 {"key": "csp_Kunyu77","name": "🌈┃七七┃影视","type": 3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -255,6 +253,8 @@
 			
 {"key":"软件教程","name":"👨‍🏫┃软件┃教程","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/软件教程.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 
+{"key": "csp_KungFu404","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/aliyun.jar;md5;332d0e5a28640ee88589390ad4a23a39"},
+	
 {"key": "AD","name": "请勿相信任何广告","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
 
 {"key": "cc","name": "公众号【风言锋语88】","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
