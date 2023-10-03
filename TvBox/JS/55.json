@@ -95,6 +95,18 @@
 	
 {"name":"超级嗅探","type":3,"url":"Web"},
 
+{"name":"秒开","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url="},
+	
+{"name":"爱酷","type":1,"url":"https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="},
+	
+{"name":"77","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url="},
+	
+{"name":"叉车","type":1,"url":"http://cache.json.icu/1804857380.php?url="},
+	
+{"name":"影领","type":1,"url":"http://json.itcxo.cn/api/?key=yOf0ntpu00xdbjnFjo&url="},
+	
+{"name":"蓝鹰","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url="},
+	
 {"name":"精选1","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},	
 	
 {"name":"精选2","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
