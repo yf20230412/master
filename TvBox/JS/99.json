@@ -1,34 +1,34 @@
 {
 
-// 1
+
 "spider": " https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan102.jar;md5;8960305db3cdfcb9842298cc39959c11" , 
 
-//2
+
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img" , 
-//3
+
 
 "warningText": "风言锋语提示您：观看《玩偶哥哥》4K源请按提示扫描登录阿里token" , 
 
 
-//4	
-"lives":[
-	{
-	   "name":"live",
-		"type":0,
-		"url":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/TV/612.txt",
-		"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
-	},
-	{
-		"group":"redirect",
-    "channels":[{
-    "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5Lm5ldC9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veWYyMDIzMDQxMi9tYXN0ZXIvbWFpbi9UdkJveC9UVi82MTIudHh0"]
-    }]
-	}
-        ],
 
-//5
+"lives":[
+{
+"name":"live",
+"type":0,
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/TV/612.txt",
+"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"group":"redirect",
+"channels":[{
+"name":"redirect",
+"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5Lm5ldC9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veWYyMDIzMDQxMi9tYXN0ZXIvbWFpbi9UdkJveC9UVi82MTIudHh0"]
+}]
+}
+],
+
+
 
 	
 "sites":[
@@ -262,7 +262,7 @@
         
                 
         	
-//6
+
 
 	
 "parses": [
@@ -312,16 +312,17 @@
 {"name":"精选14","type": 0,"url": "https://jx.777jiexi.com/player/?url="}	
 ],
 
-//
 
-  "doh": [
+
+"doh": [
            {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4", "8.8.8.8"]},
            {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
            {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
            {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
-           {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}],
+           {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}
+],
    
-//7
+
 "rules":[
 	
 {"host":"*","rule":["default.365yg.com"]},
@@ -333,20 +334,16 @@
 {"host":"*","rule":["huoshan.com","/item/video/"]},
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]},
-
 {"name": "量子","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name": "非凡","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},	
 {"name": "抖音","hosts": ["douyin.com"],"regex": ["is_play_url="]}
 ],
 	
     
-
-//8
-
 "flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","FY","fy", "FeiYun","feiyun","飞云","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","ltnb","rx","CL4K","xfyun","wuduzy","优酷","优 酷","优酷视频","西瓜",
 	"乐视","芒果","腾讯", "腾 讯","腾讯视频","芒果TV","芒 果 T V","爱奇艺","奇艺","爱 奇 艺", "搜狐","搜 狐","搜狐视频","哔哩哔哩","哔哩"],
 
-//9
+
 
 "ijk":[
 {"group":"软解码","options":[
@@ -386,13 +383,6 @@
 ],
 
 	
+"ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
 
-
-//10
-  "ads": [
-    "wan.51img1.com",
-    "iqiyi.hbuioo.com",
-    "vip.ffzyad.com",
-    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-  ]
 }
