@@ -100,9 +100,7 @@
 {"key":"csp_Vofl","name":"🐎┃Vofl┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 	
 {"key":"csp_Auete","name":"🏝┃奥特┃直连","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-	
-//{"key":"csp_Dy1010","name":"🦀┃双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-	
+		
 {"key":"csp_zxzj","name":"🦚┃在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 	
 {"key":"辣辣","name":"🌶️┃辣辣┃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/", "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/5.jar;md5;c570b052645834a1109b54421c1552f9"},
