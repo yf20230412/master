@@ -1,1 +1,0 @@
-```htmljavascript">window.onload=function(){window.location.href="https://ghproxy.net/raw.githubusercontent.com/yf20230412/master/main/TvBox/img/12.jpg";}```
