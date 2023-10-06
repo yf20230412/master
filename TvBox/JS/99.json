@@ -60,6 +60,25 @@
 {"key": "csp_Kunyu77","name": "🌈┃七七┃影视","type": 3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Czsapp","name":"👨‍💼┃厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable": 1},
+
+	
+
+{"key":"drpy_js_两个BT","name":"1080P站-A","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/lib/两个BT.js"},
+	
+{"key":"厂长","name":"1080P站-B","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/lib/cz.json"},
+	
+{"key":"YYCMSA","name":"1080P站-C","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yycms.77ev.cn/api.php/app/"},
+	
+{"key":"me_qq","name":"1080P站-D","type":1,"playerType":2,"api":"http://119.91.31.224:89/itvbox/qq.php","searchable":1,"quickSearch":1},
+	
+{"key":"yc","name":"4KHDR站-A","type":3,"playerType":1,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.shangui.cc/f/p5RUL/tk.php","jar":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/lib/xry.jar"},
+	
+{"key":"索尼","name":"4KHDR站-B","type":1,"playerType":2,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]},
+	
+{"key":"PanSou","name":"4KHDR站-C","type":3,"playerType":1,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
+	
+{"key":"PanSearch","name":"4KHDR站-D","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
+	
 	
 {"key": "贱贱","name": "🐭┃贱贱┃p2p","type": 3,"playerType": "1","api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/jp.js"},
 
@@ -282,6 +301,8 @@
 {"name":"影领","type":1,"url":"http://json.itcxo.cn/api/?key=yOf0ntpu00xdbjnFjo&url="},
 	
 {"name":"蓝鹰","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url="},
+
+{"name":"4K视界","type":1,"url":"http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url="},		
 	
 {"name":"精选1","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},	
 	
