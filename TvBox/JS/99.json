@@ -256,7 +256,7 @@
 
 {"key": "csp_KungFu404","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/aliyun.jar;md5;332d0e5a28640ee88589390ad4a23a39"},
 	
-{"key": "AD","name": "请勿相信任何广告","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
+{"key": "AD","name": "请勿相信任何广告","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key": "cc","name": "公众号【风言锋语88】","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 
@@ -275,9 +275,7 @@
 {"name":"超级并发","type":2,"url":"Parallel"},
 	
 {"name":"秒开","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url="},
-	
-{"name":"爱酷","type":1,"url":"https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="},
-	
+		
 {"name":"77","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url="},
 	
 {"name":"叉车","type":1,"url":"http://cache.json.icu/1804857380.php?url="},
