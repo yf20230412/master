@@ -1,7 +1,7 @@
 {
 
 
-"spider": " https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan1013.jar;md5;e60ee56ecb22ea3575471e7dd9e0c338",
+"spider": " https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan1020.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
 	
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img" , 
 	
@@ -29,10 +29,10 @@
 
 {"key": "csp_Czsapp","name": "👨‍💼┃厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.cz01.pro/"},
 	
-{"key": "Mino","name": "👻Mino┃App","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,
+{"key": "Mino","name": "👻┃Mino┃App","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,
 "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"},
    
-{"key": "橘子","name": "🍊橘子┃App","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,
+{"key": "橘子","name": "🍊┃橘子┃App","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,
 "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="}, 	  
 	
 {"key":"Qtv","name":"🐧┃腾讯┃官源","type":3,"playerType":2,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/music/腾讯.js"},
@@ -64,7 +64,9 @@
 {"key":"陌陌","name":"🍄┃陌陌┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, "changeable": 1,"ext":"https://www.kuin.one/api.php/app/"},
 	
 {"key": "直播转点播","name": "📺┃电视┃直播","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/直播转点播2.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/直播仓.json"},
-				
+
+{"key": "应用商店","name": "🏪┃应用┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/java/custom_spider.jar","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/market.json"},
+	
 {"key": "闪电资源","name": " 🌩┃闪电┃云播","type": 1,"api": "http://sdzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 	
 {"key": "csp_xml_享看","name":"💭┃享看┃云播","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://xkanzy10.com/api.php/provide/vod"},
@@ -276,6 +278,8 @@
 {"name":"蓝鹰","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url="},
 
 {"name":"视界","type":1,"url":"http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url="},
+
+{"name": "官解","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=","ext": {"flag": ["qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "xigua","bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}} },
 	
 {"name":"精选1","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},	
 	
