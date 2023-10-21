@@ -27,7 +27,7 @@
 
 {"key":"csp_WoGG","name":"💂┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
 
-{"key": "csp_Czsapp","name": "👨‍💼┃厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.cz01.pro/"},
+{"key": "csp_Czsapp","name": "👨‍💼┃厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czz9.com/"},
 	
 {"key": "Mino","name": "👻┃Mino┃App","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,
 "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"},
@@ -116,7 +116,7 @@
       "playerType": 2,
       "api": "csp_XBPQ",
       "changeable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/xiaom.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/xiaom_XBPQ.jar;md5;d043db482b513572cbc6531d337c711b",  
       "ext": {
         "站名": "乐猪影视",
         "主页url": "http://www.lezhutv.com/",
@@ -154,7 +154,7 @@
       "name":"🍒┃莱米┃BPQ",
       "type": 3,
       "changeable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/xiaom.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/xiaom_XBPQ.jar;md5;d043db482b513572cbc6531d337c711b",  
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -215,6 +215,35 @@
 	
 {"key":"csp_Anime1","name":"🐔┃日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 
+{
+  "key":"csp_XBPQ_短剧网",
+  "name":" 🍒┃短剧┃网网",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/xiaom_XBPQ.jar;md5;d043db482b513572cbc6531d337c711b",  
+  "ext":{
+  "分类url":"https://www.duanju5.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html",
+  "分类":"逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng"
+ }
+ },
+ {
+      "key": "csp_XBPQ_aoaotv",
+      "name": "🍒┃嗷嗷┃短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/xiaom_XBPQ.jar;md5;d043db482b513572cbc6531d337c711b",  
+      "ext": {
+        "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "短剧$20"
+      }
+    },
+	
 {"key": "MTV转点播","name": "🎶┃万首┃MTV","type": 3,"playerType": 2,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/music/音乐转点播.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/JS/music/MTV2.txt"},
    
 {"key": "MV_vod","name": "🤳┃字母┃点歌台","type": 1,"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod"},
