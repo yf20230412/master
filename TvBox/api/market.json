@@ -1,15 +1,81 @@
 [
 {
-    "name": "不显示",
+    "name": "说明",
     "list": [
       {
-        "name": "不显示",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/226.png",
-        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/226.png"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/226.jpg",
+        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/226.jpg"
       }
     ]
   },
-	
+
+ {
+    "name": "应用商店",
+    "list": [
+      {
+        "name": "甲壳虫adb助手",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/apk/甲壳虫adb助手.apk",
+        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/229.png",
+        "version": "v1.30"
+      },
+     {
+        "name": "小盒精灵",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/apk/小盒精灵.apk",
+        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/230.png",
+        "version": "v1.4.1"
+      },
+     {
+        "name": "fastnat内网穿透",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/apk/fastnat.apk",
+        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/231.png",
+        "version": "v1.0.0"
+      },
+     {
+        "name": "KSWEB服务器",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/apk/KSWEB.apk",
+        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/232.png",
+        "version": "v3.987"
+      },
+
+ {
+        "name": "ES文件浏览器_电视优化版",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/apk/ES文件浏览器.apk",
+        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/233.png",
+        "version": "v4.2.3.31"
+      },	
+
+ {
+        "name": "小白文件管理器TV版",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/apk/小白文件管理器.apk",
+        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/234.png",
+        "version": "v1.0"
+      },
+ {
+        "name": "M浏览器手机版",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/apk/M浏览器.apk",
+        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/237.png",
+        "version": "v3.0.4"
+      },	
+ {
+        "name": "MBox手机版",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/apk/小白文件管理器.apk",
+        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/235.png",
+        "version": "v0.6"
+      },
+ {
+        "name": "影视仓手机版",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/apk/影视仓手机版.apk",
+        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/236.png",
+        "version": "v2.0.6"
+      }	,		
+ {
+        "name": "影视仓TV版",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/apk/影视仓TV版.apk",
+        "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/236.png",
+        "version": "v5.0.11"
+      }			
+	 ]
+  },
   {
     "name": "正式版",
     "list": [
@@ -212,8 +278,14 @@
             {
                 "name": "风言锋语88",
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/本地包/风言锋语88.zip",
-                "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/202.png"
+                "icon": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/227.png"
             },
+           {
+               "name": "香雅情",
+               "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip",
+              "icon": "https://i.imgs.ovh/2023/10/20/2IO0D.jpeg"
+            },
+			
             {
                 "name": "watson",
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1019.zip",
