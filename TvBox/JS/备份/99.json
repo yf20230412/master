@@ -71,7 +71,7 @@
 
 {"key":"陌陌","name":"🍄┃陌陌┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, "changeable": 1,"ext":"https://www.kuin.one/api.php/app/"},
 	
-{"key":"555影视","name":"5️⃣️┃三五┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/555.json"},
+{"key":"555影视","name":"5️⃣️┃三五┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/555.json"},
 
 {"key":"快看","name": "👀┃快看┃影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},		
 	
@@ -87,7 +87,7 @@
 	
 {"key":"百度资源","name":"🔍┃百度┃云播","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["大陆剧","战争片","动作片","喜剧片"]},	
 
-{"key": "毛驴","name": "🍓┃毛驴┃App","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
+{"key": "毛驴","name": "🍓┃毛驴┃直连","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
 	
 {"key":"csp_DiDuan","name":"🐬┃低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 	
@@ -103,7 +103,7 @@
 
 {"key": "率率","name": "💡┃率率┃直连","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"changeable": 1,"categories": ["国产剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","战争片","恐怖片","剧情片","国产动漫","日韩动漫","欧美动漫","大陆综艺","日韩综艺"]},
 	
-{"key":"辣辣","name":"🌶️┃辣辣┃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/", "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/xiaom_XBPQ.jar;md5;d043db482b513572cbc6531d337c711b"},
+{"key":"辣辣","name":"🌶️┃辣辣┃App","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/", "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/xiaom_XBPQ.jar;md5;d043db482b513572cbc6531d337c711b"},
 				
 {"key":"csp_Bttoo","name":"🐹┃哈喽┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v1/"},
 		    					
@@ -215,9 +215,9 @@
         "分类": "短剧$20"
       }
     },
-{"key": "MTV转点播","name": "🎶┃万首┃MTV","type": 3,"playerType": 2,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/音乐转点播.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/MTV2.txt"},
+{"key": "MTV转点播","name": "🎸┃万首┃MTV","type": 3,"playerType": 2,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/音乐转点播.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/MTV2.txt"},
    
-{"key": "MV_vod","name": "🤳┃字母┃点歌台","type": 1,"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod"},
+{"key": "MV_vod","name": "🎸┃字母┃点歌台","type": 1,"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod"},
 
 {"key":"Dm84","name":"🦸┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -247,7 +247,7 @@
 
 {"key": "磁力熊","name": "🐻┃磁力熊┃慎用","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/磁力熊.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 	
-{"key": "dr_pgdj","name": "🍎┃苹果┃dj","type": 3,"playerType": 2,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/苹果DJ.js"},	
+{"key": "dr_pgdj","name": "🎸┃苹果┃音乐","type": 3,"playerType": 2,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/douban/drpy1.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/苹果DJ.js"},	
 	
 {"key":"Zhaozy","name":"🎄┃找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
 	

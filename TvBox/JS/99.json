@@ -103,7 +103,7 @@
 
 {"key": "率率","name": "💡┃率率┃直连","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"changeable": 1,"categories": ["国产剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","战争片","恐怖片","剧情片","国产动漫","日韩动漫","欧美动漫","大陆综艺","日韩综艺"]},
 	
-{"key":"辣辣","name":"🌶️┃辣辣┃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/", "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/xiaom_XBPQ.jar;md5;d043db482b513572cbc6531d337c711b"},
+{"key":"辣辣","name":"🌶️┃辣辣┃App","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/", "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/xiaom_XBPQ.jar;md5;d043db482b513572cbc6531d337c711b"},
 				
 {"key":"csp_Bttoo","name":"🐹┃哈喽┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.miniku.cc/xgapp.php/v1/"},
 		    					
