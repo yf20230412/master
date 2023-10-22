@@ -6,8 +6,6 @@
 
 "warningText": "风言锋语提示您：观看《玩偶哥哥》4K源请按提示扫描登录阿里token" , 
 	
-//定义直播源地址,clan://TVBox/live.txt需要转换成Base 64编码,粘贴到txt&ext后面
-
  "lives": [	
     {
       "name": "live",
