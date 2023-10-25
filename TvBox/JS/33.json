@@ -1,6 +1,6 @@
 {
   	
-"spider":" https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan1023.jar;md5;60a9856a6deb7dcff27f3056626bbb5a",
+"spider":" https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan1025.jar;md5;c0a0999c670692bb297b38981fe6de9b",
 
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img" , 
 
@@ -172,17 +172,21 @@
 
 "parses": [
 	
-{"name":"超级聚合","type":3,"url":"Demo"},
+{"name":"解析聚合","type":3,"url":"Demo"},
 	
-{"name":"超级嗅探","type":3,"url":"Web"},
+{"name":"Web聚合","type":3,"url":"Web"},
 
-{"name":"超级轮询","type":2,"url":"Sequence"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
 	
-{"name":"超级并发","type":2,"url":"Parallel"},
+{"name":"Json并发","type":2,"url":"Parallel"},
 			
 {"name":"77","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url="},
 
 {"name":"玉米","type":1,"url":"https://jxjson.cf/json.php?url=","ext":{"flag":["YuMi","YuMi-vip"]}},
+
+{"name": "稻香","type": 1,"url": "http://42.157.128.109:2323/CH/app/tv.php?url=","ext": {"flag": ["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header": {"User-Agent": "okhttp/3.12.0"}}},
+
+{"name": "左岸","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext": {"flag": ["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header": {"User-Agent": "okhttp/3.12.0"}}},
 	
 {"name":"精选1","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 	
