@@ -235,8 +235,8 @@
 {"name":"言","type":1,"url":"https://jxjson.cf/json.php?url=","ext":{"flag":["YuMi","YuMi-vip"]}},
 
 {"name": "锋","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="},
-	
-{"name": "语","type": 1,"url": "http://42.157.128.109:2323/CH/app/tv.php?url=","ext": {"flag": ["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header": {"User-Agent": "okhttp/3.12.0"}}},
+
+{"name": "语","type": 0,"url": "https://jx.zhanlangbu.com/?url="},	
 
 {"name": "祝","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext": {"flag": ["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header": {"User-Agent": "okhttp/3.12.0"}}},
 	
