@@ -56,7 +56,7 @@
 
 {"key":"觅视频","name":"🗽┃觅视频┃App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"},
 	
-{"key":"Qtv","name":"🐧┃腾讯┃官源","type":3,"playerType":2,"api":"./lib/drpy1.min.js","ext":"./js/腾讯.js"},
+{"key":"drpy_js_腾云驾雾","name":"🐧┃腾讯┃官源","type":3,"playerType":2,"api":"./lib/drpy1.min.js","ext":"./js/腾讯.js"},
 
 {"key":"drpy_js_百忙无果","name":"🥭┃芒果┃官源","type":3,"playerType":2,"api":"./lib/drpy1.min.js","ext":"./js/百忙无果.js"},
 	
