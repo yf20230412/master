@@ -84,7 +84,7 @@
 
 {"key": " 在线┃直播1","name": "📺┃竞技┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 	
-{"key": "应用商店","name": "🏪┃应用┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"jar": "./jar/fm.jar","ext": "https://slink.ltd/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/js/market.json"},
+{"key": "应用商店","name": "🏪┃应用┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/jar/fm.jar","ext": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/js/market.json"},
 
  {"key": "alist","name": "🍰┃小鸭┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/alist.json"},
 	
