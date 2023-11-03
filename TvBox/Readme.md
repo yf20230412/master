@@ -1,7 +1,7 @@
 
 # **<font color=#ff0000>前言</font>**
 
-###  <table><tr><td bgcolor=yellow>**1. tvbox配置：**</td></tr></table>  
+##   `1.tvbox配置`：
    
 （1）0707.json  Fengmi影视多线配置接口,仅适用于Fengmi影视；
 
