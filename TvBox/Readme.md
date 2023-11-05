@@ -1,13 +1,17 @@
 
 # **<font color=#ff0000>前言</font>**
 
+
+
 ###   1.tvbox配置：
    
-（1）99.json  影视仓；
+ #### （1）99.json  影视仓；
 
-（2）88.json  成人仓；
+ #### （2）88.json  成人仓；
 
-（3）33.json  少儿仓。
+ #### （3）33.json  少儿仓。
+
+ 
 
 ###  2. APP推荐: 
 
@@ -20,6 +24,8 @@
 （4）皮皮虾版本  发布频道：https://t.me/pipixiawerun 支持直播回放，支持弹幕；
 
 （5）新版猫影视   项目地址：https://github.com/catvod/CatVodOpen 界面简洁，支持多平台。
+
+
 
 ###  3. TVBox各路大佬配置（排名不分先后）：
 
@@ -73,6 +79,18 @@
 
 （25）好人：https://xhdwc.tk/0
 
+（26）荷城茶秀：http://45.125.46.184:8083/荷城茶秀.json
+
+（27）业余多仓：http://111.67.195.139/yydf/duocangjk.json
+
+（28）蜂蜜：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
+
+（29）猫爪：https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json
+
+（30）道长：https://pastebin.com/raw/5NHaxyGR
+
+
+
 ### 4. 随机轮换壁纸：
 
 （1）https://bing.img.run/rand.php
@@ -96,6 +114,8 @@
 （10）http://api.btstu.cn/sjbz/?lx=suiji
 
 （11）https://pictures.catvod.eu.org/
+
+
 
 ### 自用仓库，如果喜欢，请Fork自用，谢谢！
 
@@ -129,6 +149,7 @@
 * "click": "ddys tv;#vjsp > button"
 
 * "categories":[" [自定义资源列表]”
+* 
 ### `vip高清1_1234,#genre#  密码：1234`
 
 
