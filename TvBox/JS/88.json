@@ -120,8 +120,6 @@
 {"key":"*老鸭资源","name":"💋┃老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},	
 
 {"key":"zp123","name":"💋┃色猫资源","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-
-{"key":"csp_SMB目录","name":"网络共享","type":3,"api":"csp_Smb4nas","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.com/raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/smb.jar;md5;0ebaae84cd3d8a284c59734bb02f91dd","ext":"smb://MAIBENBEN:123@192.168.1.9/"},
 	
 {"key":"csp_XYQHiker_土拨鼠搜索","name":"🔍┃土拨鼠┃搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/土拨鼠搜.json"},
 
@@ -141,7 +139,7 @@
 
 {"key": "csp_Token","name":"📚┃阿里┃Token设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt", "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/aliyun.jar;md5;332d0e5a28640ee88589390ad4a23a39"},	
 	
-{"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
+{"key": "cc","name": "请勿相信任何广告","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 ], 
     
