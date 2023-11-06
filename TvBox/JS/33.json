@@ -1,6 +1,6 @@
 {
   	
-"spider":" https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan1105.jar;md5;36be398d2b59b2c365aa18f593b198ab",
+"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/fan1106.jar;md5;d65490382102d8e7d3bdbde44ca602f5",
 
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img" , 
 
@@ -137,26 +137,20 @@
 {"name":"祝","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 	
 {"name":"您","type":1,"url":"https://jxjson.cf/json.php?url=","ext":{"flag":["YuMi","YuMi-vip"]}},
+	
+{"name":"️观","type":0,"url":"https://www.pangujiexi.com/pangu/?url="},
+	
+{"name":"影","type":0,"url":"https://vip.lianfaka.com/vip/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
-{"name":"观","type": 1,"url": "https://jx.777jiexi.com/player/?url="},
-		
-{"name":"影","type": 0,"url": "https://jx.zhanlangbu.com/?url="},	
-	
-{"name":"️愉","type":0,"url":"https://www.pangujiexi.com/pangu/?url="},
-	
-{"name":"快","type":0,"url":"https://vip.lianfaka.com/vip/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"愉","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},		
 
-{"name":"😈","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},		
+{"name":"快","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
+	
+{"name":"！👿","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://www.xyflv.cc/"}}},
+	
+{"name":"阖家","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 
-{"name":"播放","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
-	
-{"name":"失败","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
-	
-{"name":"手动","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://www.xyflv.cc/"}}},
-	
-{"name":"更换","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
-
-{"name":"解析","url":"http://api.wpsseo.cn/?v=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"幸福","url":"http://api.wpsseo.cn/?v=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 	
 {"name":"🎀","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}}
 			
