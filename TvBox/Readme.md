@@ -1,8 +1,8 @@
 
 # **<font color=#ff0000>前言</font>**
+----
 
-
-
+----
 ###   1.tvbox配置：
    
  #### （1）99.json  影视仓；
@@ -11,7 +11,7 @@
 
  #### （3）33.json  少儿仓。
 
- 
+---- 
 
 ###  2. APP推荐: 
 
@@ -26,7 +26,7 @@
 （5）新版猫影视   项目地址：https://github.com/catvod/CatVodOpen 界面简洁，支持多平台。
 
 
-
+----
 ###  3. TVBox各路大佬配置（排名不分先后）：
 
 （1）唐三：https://gh.t4tv.hz.cz/newtang.bmp
@@ -89,7 +89,7 @@
 
 （30）道长：https://pastebin.com/raw/5NHaxyGR
 
-
+----
 
 ### 4. 随机轮换壁纸：
 
@@ -116,23 +116,49 @@
 （11）https://pictures.catvod.eu.org/
 
 
-
+----
 ### 自用仓库，如果喜欢，请Fork自用，谢谢！
 
 ### 尽自己所能更新，不保证配置的有效性和时效性。
 
+----
+
+
+### 点播站位
+| changeable | 1    | 是否换源 | 0：关闭；1：启用        |
+| recordable | 1    | 是否记录| 0：关闭；1：启用        |
+| playerType | none | 播放器  | 0：系統；1：IJK；2：EXO |
+| timeout    | 15   | 播放超时 | 单位：秒             |
+| header     | none | 标头   | 格式：json          |
+| playUrl     | none | 指定解析   | 格式：https://          |
+### 直播站位
+
+| 栏位名称       | 预设值   | 说明    | 其他               |
+|------------|-------|-------|------------------|
+| ua         | none  | 用户代理  |                  |
+| referer    | none  | 参照地址  |                  |
+| epg        | none  | 节目地址  |                  |
+| logo       | none  | 台標地址  |                  |
+| pass       | false | 是否免密碼 |                  |
+| boot       | false | 是否自啟動 |                  |
+| playerType | none  | 播放器   | 0：系統；1：IJK；2：EXO |
+| timeout    | 15    | 播放超时  | 单位：秒             |
+| header     | none  | 标头    | 格式：json          |
+| playUrl     | none | 指定解析   | 格式：https://          |
 
 
 
 # <table><tr><td bgcolor=yellow>**json内资源格式参数介绍**</td></tr></table>
+----
 
-* {"key'"."key_ [资源名称] ",
+```json 
+* {"key'".//"key_ [资源名称] ",
 
-* "name'":"资源名称",
+* "name'"://"资源名称",
 
 * "type":0,
 
-* "api*":"csp_ [jar内文件名称] ",
+* "api*":"csp_",// [jar内文件名称] 
 
 * "searchable":1,
 
@@ -140,17 +166,21 @@
 
 * "filterable":O,
 
-* "jar":" [jar文件地址] ",
+* "jar":"  ",//[jar文件地址]
 
-* "ext":" [txt json文件地址] "，
+* "md5": " ", //md5值，可以不填。写了加载能快几秒
 
-* "playUrl": " [播放解析地址] ",
+* "ext":" "，// [txt json文件地址]
+
+* "playUrl": " ", //[播放解析地址]
 
 * "click": "ddys tv;#vjsp > button"
 
 * "categories":[" [自定义资源列表]”
-* 
+```
+----
+  
 ### `vip高清1_1234,#genre#  密码：1234`
-
+----
 
 
