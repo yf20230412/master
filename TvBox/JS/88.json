@@ -23,7 +23,7 @@
 
 {"key": "豆豆","name": "🔍┃豆瓣┃主页","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "新片热播","name":"⏳┃新片┃热播","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "playerType": 2, "playUrl": "https://jx.xmflv.com/?url=","categories": ["连续剧","动漫"]},
+{"key": "新片热播","name":"⏳┃新片┃热播","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"changeable": 0,"categories": ["连续剧","动漫"]},
 	
 {"key":"csp_WoGG","name":"💂┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd$$$关"},
 	
@@ -155,8 +155,8 @@
 	
 {"name":"言","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 	
-{"name":"锋","type":1,"url":"https://www.qiaoji8.com/tvbox/json.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
-
+{"name": "锋","type": 1,"url": "https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
+	
 {"name":"语","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 	
 {"name":"祝","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
