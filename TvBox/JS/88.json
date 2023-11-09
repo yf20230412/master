@@ -120,10 +120,6 @@
 {"key":"*老鸭资源","name":"💋┃老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},	
 
 {"key":"zp123","name":"💋┃色猫资源","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-	
-{"key":"csp_XYQHiker_土拨鼠搜索","name":"🔍┃土拨鼠┃搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/api/土拨鼠搜.json"},
-
-{"key":"Gitcafe","name":"🔍┃小纸条┃阿里","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/Java/HCCX_XBPQ.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a","ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 
 {"key":"Zhaozy","name":"🔍┃找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd$$$fanty$$$qqq111"},
 	
