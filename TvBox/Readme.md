@@ -7,7 +7,7 @@
    
 > #### （1）99.json  影视仓；
 
-> #### （2）88.json  成人仓；
+> #### （2）88.json  动漫仓；
 
 > #### （3）33.json  少儿仓。
 
@@ -156,23 +156,23 @@
 
 * "name'"://"资源名称",
 
-* "type":0,
+* "type":0,//这里对应爬虫类型，XML=0、JSON=1、自定义爬虫=3
 
-* "api*":"csp_",// [jar内文件名称] 
+* "api*":"csp_",//jar内文件名称,对应API类型
 
-* "searchable":1,
+* "searchable":1,//是否搜索 关闭=0,打开=1
 
-* "quickSeach":1,
+* "quickSeach":1,/是否快速搜索，也就是详情页的快速搜索 关闭=0,打开=1
 
-* "filterable":O,
+* "filterable":O, //是否参与筛选 关闭=0
 
 * "jar":"  ",//[jar文件地址]
 
 * "md5": " ", //md5值，可以不填。写了加载能快几秒
 
-* "ext":" "，// [txt json文件地址]
+* "ext":" "，//txt、json文件地址,扩展信息
 
-* "playUrl": " ", //[播放解析地址]
+* "playUrl": " ", //播放解析地址
 
 * "click": "ddys tv;#vjsp > button"
 
