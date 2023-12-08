@@ -155,25 +155,70 @@ rules:
 
 比如我们在电脑访问 www.youtube.com 那么规则是怎么走的呢，可以看一下
 
-![图片一](https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/clash1.png)
+！[图片一](https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/clash1.png)
 
 分组由上到下是 国外媒体 -> 国内媒体 -> 微软服务 -> 电报服务 -> 苹果服务 -> 全球直连 -> 全球拦截 -> 漏网之鱼，那么看一看 youtube.com 这条规则加在那个分组里
 
- >**- DOMAIN-SUFFIX,youtube.com,🌍 国外媒体**
+ >- DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
  
  可以看到 youtube 是在 国外媒体分组里，那么在这里要看国外媒体选择的是那个节点
  
- ![图片二](https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/clash2.png)
+ ！[图片二](https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/clash2.png)
  
  可以看到国外媒体选择的是 香港2-5 这个节点，选择是的延迟最低的节点，所以 youtube 走的是这个代理。
  
 假如我们把  - DOMAIN-SUFFIX,youtube.com,🌍 国外媒体 这一条规则拿掉，访问 youtube.com 还是没有问题的，那是什么情况呢？我们再来看下配置文件，找到最后一条
 
->**- MATCH,🐟 漏网之鱼**
+>- MATCH,🐟 漏网之鱼
 
 也就是如果里面规则都没有找到的话，到了最后一条就是直接用代理，我们把这一条再去掉，刷新配置文件，这时候再访问 youtube.com 就访问不了
 
-### 四、总结
+
+### 四、自定义转换配置
+
+方法一：
+
+直接替换订阅链接到下面的链接中
+
+```json
+
+https://api.dler.io/sub?target=clash&new_name=true&url=你的订阅链接（URL编码）&config=ACL4SSR_Online_Full.ini文件（URL编码）
+
+```
+
+URL编码转换工具
+
+- [x] https://tool.ip138.com/urlencode/
+
+- [x] https://www.urlencoder.org/
+
+将https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini 规则链接转 URLEncode 
+
+变成：https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full.ini
+
+将你的订阅节点：https://9c4be001.no-xxxx 转 URLEncode 
+变成：https%3A%2F%2F9c4be001.no-xxxx
+
+示例：
+
+>https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2F9c4be001.no-xxxx&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full.ini
+
+将链接导入clash即可
+
+方法二：
+订阅转换站(可自行搭建引用我的配置文件，也可以使用下方转换站)
+
+https://wyatt323.github.io/  
+
+或
+
+https://acl4ssr-sub.github.io/
+
+也可以自行搭建nginx容器后将前端文件放入对应文件夹，后端和规则配置我已经在文件中写好了
+
+出处：https://github.com/Wyatt323/OpenClash-Rules/tree/main
+
+### 五、总结
 
 clash 客户端通过配置文件配置节点的信息与分流规则，这里面的组，可以理解成过滤网，由上到下。规则组的规则呢，则是在 rules 里面配置的，rules 通过配置 DOMAIN-SUFFIX，IP-CIDR，IP-CIDR6 等信息来配置当前请求应该还是不应该走代理
 
