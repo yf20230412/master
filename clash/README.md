@@ -218,7 +218,18 @@ https://acl4ssr-sub.github.io/
 
 出处：https://github.com/Wyatt323/OpenClash-Rules/tree/main
 
-### 五、总结
+
+### 五、快速转换节点
+
+#### [ACL4SSR_Online_Full.ini文件规则传送门](https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/clash/config/ACL4SSR_Online_Full.ini)
+
+```json
+
+https://api.dler.io/sub?target=clash&new_name=true&url=此处替换你的订阅链接,链接需转码（URL编码）&config=https%3A%2F%2Fghproxy.net%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fyf20230412%2Fmaster%2Fmain%2Fclash%2Fconfig%2FACL4SSR_Online_Full.ini
+
+```
+
+### 六、总结
 
 clash 客户端通过配置文件配置节点的信息与分流规则，这里面的组，可以理解成过滤网，由上到下。规则组的规则呢，则是在 rules 里面配置的，rules 通过配置 DOMAIN-SUFFIX，IP-CIDR，IP-CIDR6 等信息来配置当前请求应该还是不应该走代理
 
