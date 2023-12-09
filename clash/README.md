@@ -155,7 +155,7 @@ rules:
 
 比如我们在电脑访问 www.youtube.com 那么规则是怎么走的呢，可以看一下
 
-！[图片一](https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/clash1.png)
+![图片一](https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/clash1.png)
 
 分组由上到下是 国外媒体 -> 国内媒体 -> 微软服务 -> 电报服务 -> 苹果服务 -> 全球直连 -> 全球拦截 -> 漏网之鱼，那么看一看 youtube.com 这条规则加在那个分组里
 
@@ -163,7 +163,7 @@ rules:
  
  可以看到 youtube 是在 国外媒体分组里，那么在这里要看国外媒体选择的是那个节点
  
- ！[图片二](https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/clash2.png)
+ ![图片二](https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/TvBox/img/clash2.png)
  
  可以看到国外媒体选择的是 香港2-5 这个节点，选择是的延迟最低的节点，所以 youtube 走的是这个代理。
  
