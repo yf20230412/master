@@ -196,3 +196,8 @@
 ```json
  https://api.dler.io/sub?target=clash&new_name=true&url=节点转码后替换此处&config=https%3A%2F%2Fghproxy.net%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fyf20230412%2Fmaster%2Fmain%2Fclash%2Fconfig%2FACL4SSR_Online_Full.ini
 ```
+## Star History
+
+[[![Star History Chart](https://api.star-history.com/svg?repos=imsyy/home&type=Date)](https://star-history.com/#imsyy/home&Date)
+
+<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://imsyy.top/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2023-%E7%84%A1%E5%90%8D-red"></a>](https://star-history.com/#imsyy/home&Date)https://star-history.com/#imsyy/home&Date
