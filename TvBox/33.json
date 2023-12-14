@@ -18,28 +18,28 @@
       "key": "奇艺",
       "name": "🧚┃少儿┃爱奇艺",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./douban/drpy1.min.js",
       "ext": "./lib/iqiyi.js"
     },
     {
       "key": "芒果",
       "name": "👼🏻┃少儿┃芒果",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./douban/drpy1.min.js",
       "ext": "./lib/mgtv.js"
     },
     {
       "key": "优酷",
       "name": "🤾‍♀️‍┃少儿┃优酷",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./douban/drpy1.min.js",
       "ext": "./lib/youku.js"
     },
     {
       "key": "腾讯",
       "name": "🏂┃少儿┃腾讯",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./douban/drpy1.min.js",
       "ext": "./lib/qq.js"
     },
     {
@@ -100,7 +100,7 @@
       "key": "dr_兔小贝",
       "name": "📚┃儿童┃启蒙",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./douban/drpy1.min.js",
       "ext": "./lib/兔小贝.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -110,7 +110,7 @@
       "key": "童趣",
       "name": "🍭┃童趣┃",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./douban/drpy1.min.js",
       "ext": "./lib/童趣.js"
     },
     {
