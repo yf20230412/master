@@ -259,7 +259,7 @@
       "name": "🐭┃贱贱┃p2p",
       "type": 3,
       "playerType": "1",
-      "api": "./lib/drpy1.min.js",
+      "api": "./douban/drpy1.min.js",
       "ext": "./lib/荐片.js"
     },
     {
