@@ -863,7 +863,7 @@
 	  "name":"🐧┃腾讯┃官源",
 	  "type":3,
 	  "playerType":2,
-	  "api":"./lib/drpy1.min.js",
+	  "api":"./douban/drpy1.min.js",
 	  "ext":"./lib/腾云驾雾.js"
    },
 
@@ -872,7 +872,7 @@
 	  "name":"🥭┃芒果┃官源",
 	  "type":3,
 	  "playerType":2,
-	  "api":"./lib/drpy1.min.js",
+	  "api":"./douban/drpy1.min.js",
 	  "ext":"./lib/百忙无果.js"
   },
 	
@@ -881,7 +881,7 @@
 	  "name":"💝┃爱奇┃官源",
 	  "type":3,
 	  "playerType":2,
-	  "api":"./lib/drpy1.min.js",
+	  "api":"./douban/drpy1.min.js",
 	  "ext":"./lib/奇珍异兽.js"
   },
 	
@@ -890,7 +890,7 @@
 	  "name":"⛽┃优酷┃官源",
 	  "type":3,
 	  "playerType":2,
-	  "api":"./lib/drpy1.min.js",
+	  "api":"./douban/drpy1.min.js",
 	  "ext":"./lib/优衣酷.js"
   },	  
   {
