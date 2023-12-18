@@ -54,6 +54,57 @@
       "ext": "./lib/天天开心.json"
     },
     {
+      "key": "csp_新视觉",
+      "name": "🌸┃新视觉┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/新视觉.json"
+    },	
+    {
+      "key": "csp_电影先生",
+      "name": "👨┃电影┃先生",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/电影先生.json"
+    },
+    {
+      "key": "csp_影视工场",
+      "name": "🏗┃影视┃工场",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/影视工场.json"
+    },		  
+    {
+      "key": "csp_臭蛋蛋",
+      "name": "🐣┃臭蛋蛋┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/臭蛋蛋.json"
+    },
+    {
+      "key": "csp_超前",
+      "name": "🥇┃超前┃点播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/超前B站.json"
+    },
+	  
+    {
       "key": "csp_黑狐影视",
       "name": "🦊┃黑狐┃影视",
       "type": 3,
@@ -73,16 +124,7 @@
       "filterable": 1,
       "ext": "./lib/Free影视.json"
     },	  
-    {
-      "key": "csp_超前",
-      "name": "🥇┃超前┃点播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/超前B站.json"
-    },
+
     {
       "key": "csp_骚火",
       "name": "🔥┃骚火┃影视",
@@ -191,29 +233,7 @@
       "changeable": 1,
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
     },
-	  
-    {
-      "key": "csp_XYQHiker_影视工场",
-      "name": "🏗┃影视┃工场",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/ttkx.jar;md5;abbb96e6409112492430dd6521d66df",
-      "ext": "./lib/影视工场.json"
-    },
-    {
-      "key": "csp_XYQHiker_臭蛋蛋影视",
-      "name": "🐣┃臭蛋蛋┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/ttkx.jar;md5;abbb96e6409112492430dd6521d66df",
-      "ext": "./lib/臭蛋蛋影视.json"
-    },	  
+	    
     {
       "key": "csp_真不卡",
       "name": "⏰┃真不卡┃影视",
@@ -327,6 +347,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/米爱影视.json"
+    },	
+    {
+      "key": "csp_独播库",
+      "name": "🍧┃独播库┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/独播库.json"
+    },		  
+    {
+      "key": "csp_dsxys",
+      "name": "👨‍🦲┃大师兄┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/dsxys.json"
     },	  
     {
       "key": "555影视",
