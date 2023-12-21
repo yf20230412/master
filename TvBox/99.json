@@ -478,7 +478,12 @@
     "name":"☁┃圣云┃云播",
     "type":1,
     "api":"http://www.ttkx.site/api.php/provide/vod/"
-    },    
+    },   
+	  
+{"key":"快云资源","name":"☁┃快云┃云播","type":1,"api":"https://kuaiyun-api.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
+	
+{"key":"jszy","name":"☁┃极速┃云播","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","伦理片","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+	  
     {
       "key": "闪电资源",
       "name": "☁┃闪电┃云播",
@@ -486,7 +491,7 @@
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
-    },
+    },  
     {
       "key": "csp_xml_享看",
       "name": "☁┃享看┃云播",
