@@ -76,6 +76,17 @@
     "ext":"./lib/天天开心.json"
 },
 {
+    "key":"玩偶表哥",
+    "name":"🧸┃玩偶┃表哥",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "jar":"./lib/玩偶表哥.jar;md5;0ab5d5c3db5f5d26ea4f44d2278b87ac",
+    "ext":"./lib/玩偶表哥.json"
+},
+{
     "key":"攻阁",
     "name":"🔫┃攻阁┃App",
     "type":3,
