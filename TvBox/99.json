@@ -7,6 +7,22 @@
 
 	
     "lives":[
+
+{
+    "name":"live",
+    "type":0,
+    "url":"./lib/612.txt",
+    "playerType":1,
+    "ua":"okhttp/3.15",
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
+}
+],
+
+
+	
+    "sites":[
+
 {
     "key": "酷狗",
 	   "name": "🎵┃酷狗┃音乐",
@@ -22,20 +38,6 @@
     "type":3,
     "api":"csp_Local"
 },
-{
-    "name":"live",
-    "type":0,
-    "url":"./lib/612.txt",
-    "playerType":1,
-    "ua":"okhttp/3.15",
-    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo":"https://epg.112114.xyz/logo/{name}.png"
-}
-],
-
-
-	
-    "sites":[
 {
     "key":"豆豆",
     "name":"🔍┃豆瓣┃主页",
