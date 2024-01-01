@@ -8,6 +8,21 @@
 	
     "lives":[
 {
+	"key": "酷狗",
+	"name": "🎵┃酷狗┃音乐",
+	"type": 3,
+	"api": "csp_Kugou",
+	"searchable": 1,
+	"changeable": 0,
+	"jar":"./lib/pg.jar"
+},
+{
+    "key":"Local",
+    "name":"📺┃本地┃视频",
+    "type":3,
+    "api":"csp_Local"
+},
+{
     "name":"live",
     "type":0,
     "url":"./lib/612.txt",
@@ -346,6 +361,15 @@
     "ext":"./lib/TVB云播.json"
 },
 {
+    "key":"csp_DiDuan",
+    "name":"🐬┃低端┃直连",
+    "type":3,
+    "api":"csp_Ddrk",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0
+},
+{
     "key":"贱贱",
     "name":"🐭┃贱贱┃p2p",
     "type":3,
@@ -654,25 +678,6 @@
     "quickSearch":1,
     "changeable":1,
     "ext":"https://www.maolvys.com/"
-},
-{
-    "key":"csp_DiDuan",
-    "name":"🐬┃低端┃直连",
-    "type":3,
-    "api":"csp_Ddrk",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0
-},
-{
-    "key":"csp_Lib",
-    "name":"🌟┃利播┃直连",
-    "type":3,
-    "api":"csp_Libvio",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext":"https://www.libvio.fun/"
 },
 {
     "key":"农民影视",
