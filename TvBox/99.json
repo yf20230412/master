@@ -467,14 +467,14 @@
     "ext":"./lib/米爱影视.json"
 },
 {
-    "key":"csp_独播库",
-    "name":"🍧┃独播库┃影视",
+    "key":"555影视",
+    "name":"5️⃣️┃三五┃影视",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./lib/独播库.json"
+    "ext":"./lib/555.json"
 },
 {
     "key":"csp_dsxys",
@@ -487,16 +487,6 @@
     "ext":"./lib/dsxys.json"
 },
 {
-    "key":"555影视",
-    "name":"5️⃣️┃三五┃影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./lib/555.json"
-},
-{
     "key":"快看",
     "name":"👀┃快看┃影视",
     "type":3,
@@ -504,6 +494,16 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
+},
+{
+    "key":"csp_独播库",
+    "name":"🍧┃独播库┃影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"./lib/独播库.json"
 },
 {
     "key":"cjzy_暴风资源",
@@ -893,7 +893,7 @@
 },
 {
     "key":"喜马拉雅",
-    "name":"📚️┃听书┃喜马拉雅",
+    "name":"📚️┃听书┃拉雅",
     "type":3,
     "api":"./douban/drpy1.min.js",
     "ext":"./lib/ximalaya.js"
