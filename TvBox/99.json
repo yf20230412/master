@@ -344,6 +344,14 @@
     "ext":"FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
 },
 {
+    "key":"贱贱",
+    "name":"🐭┃贱贱┃p2p",
+    "type":3,
+    "playerType":"1",
+    "api":"./douban/drpy1.min.js",
+    "ext":"./lib/荐片.js"
+},
+{
     "key":"csp_真不卡",
     "name":"⏰┃真不卡┃影视",
     "type":3,
@@ -381,14 +389,6 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0
-},
-{
-    "key":"贱贱",
-    "name":"🐭┃贱贱┃p2p",
-    "type":3,
-    "playerType":"1",
-    "api":"./douban/drpy1.min.js",
-    "ext":"./lib/荐片.js"
 },
 {
     "key":"直播转点播",
