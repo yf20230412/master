@@ -230,7 +230,7 @@
 	
 {"key":"drpy_js_斗鱼直播","name":"🐠┃斗鱼┃直播","type":3,"api":"./douban/drpy1.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/斗鱼直播.js"},
 	
-{"key":"drpy_js_有声小说吧","name":"🎧┃有声┃小说","type":3,"api":"./douban/drpy1.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/有声小说.js"},
+{"key":"drpy_js_JRKAN直播","name":"📺┃JRKAN┃直播","type":3,"api":"./douban/drpy1.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/JRKAN直播.js"},
 
 {"key": "短视频","name": "📽️┃聚短┃视频","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/短视频.json"},	
 
