@@ -65,7 +65,7 @@
 
 {"key":"墨鸦影视","name":"🦜┃墨鸦┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/墨鸦影视.json"},
 
-{"key":"爱看影视","name":"💞┃爱看┃影视","type":3,"playerType":"2","api":"./lib/drpy1.min.js","ext":"./lib/爱看影视.json"},
+{"key":"爱看影视","name":"💞┃爱看┃影视","type":3,"playerType":"2","api":"./douban/drpy1.min.js","ext":"./lib/爱看影视.json"},
 
 {"key":"csp_可可影视","name":"🎩┃可可┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
 
@@ -100,7 +100,7 @@
 },
 
 
-{"key":"贱贱","name":"🧲┃贱贱┃p2p","type":3,"playerType":"1","api":"./lib/drpy1.min.js","ext":"./lib/荐片.js"},
+{"key":"贱贱","name":"🧲┃贱贱┃p2p","type":3,"playerType":"1","api":"./douban/drpy1.min.js","ext":"./lib/荐片.js"},
 
 {"key":"csp_真不卡","name":"⏰┃不卡┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/真不卡影视.json"},
 
@@ -174,15 +174,15 @@
 
 {"key":"csp_非凡资源","name":"🧛‍♂️┃非凡┃资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
-{"key":"芒果","name":"👼🏻┃少儿┃芒果","type":3,"api":"./lib/drpy1.min.js","ext":"./lib/mgtv.js"},
+{"key":"芒果","name":"👼🏻┃少儿┃芒果","type":3,"api":"./douban/drpy1.min.js","ext":"./lib/mgtv.js"},
 	
-{"key":"奇艺","name":"🧚┃少儿┃爱奇艺","type":3,"api":"./lib/drpy1.min.js","ext":"./lib/iqiyi.js"},
+{"key":"奇艺","name":"🧚┃少儿┃爱奇艺","type":3,"api":"./douban/drpy1.min.js","ext":"./lib/iqiyi.js"},
 
-{"key":"优酷","name":"🤾‍♀️‍┃少儿┃优酷","type":3,"api":"./lib/drpy1.min.js","ext":"./lib/youku.js"},
+{"key":"优酷","name":"🤾‍♀️‍┃少儿┃优酷","type":3,"api":"./douban/drpy1.min.js","ext":"./lib/youku.js"},
 
-{"key":"腾讯","name":"🏂┃少儿┃腾讯","type":3,"api":"./lib/drpy1.min.js","ext":"./lib/qq.js"},
+{"key":"腾讯","name":"🏂┃少儿┃腾讯","type":3,"api":"./douban/drpy1.min.js","ext":"./lib/qq.js"},
 
-{"key":"dr_兔小贝","name":"📚┃儿童┃启蒙","type":3,"api":"./lib/drpy1.min.js","ext":"./lib/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"dr_兔小贝","name":"📚┃儿童┃启蒙","type":3,"api":"./douban/drpy1.min.js","ext":"./lib/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
 	
 {"key":"小学","name":"📚┃小学┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lib/少儿教育.json"},
 
@@ -198,21 +198,21 @@
 
 {"key":"csp_123","name":"🎦┃z123┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/123短剧网.json"},
 
-{"key":"js_i275听书","name":"📚️┃听书┃i275","type":3,"api":"./lib/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/i275.js"},
+{"key":"js_i275听书","name":"📚️┃听书┃i275","type":3,"api":"./douban/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/i275.js"},
 
-{"key":"js_博看听书","name":"📚️┃听书┃博看","type":3,"api":"./lib/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/bokan.js"},
+{"key":"js_博看听书","name":"📚️┃听书┃博看","type":3,"api":"./douban/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/bokan.js"},
 
-{"key":"js_海洋听书","name":"📚️┃听书┃海洋","type":3,"api":"./lib/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/sea.js"},
+{"key":"js_海洋听书","name":"📚️┃听书┃海洋","type":3,"api":"./douban/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/sea.js"},
 
-{"key":"js_六月听书","name":"📚️┃听书┃六月","type":3,"api":"./lib/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/6yue.js"},
+{"key":"js_六月听书","name":"📚️┃听书┃六月","type":3,"api":"./douban/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/6yue.js"},
 
-{"key":"js_听书网","name":"📚️┃听书┃天天","type":3,"api":"./lib/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tingshu.js"},
+{"key":"js_听书网","name":"📚️┃听书┃天天","type":3,"api":"./douban/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tingshu.js"},
 
-{"key":"js_有声小说","name":"📚️┃听书┃有声","type":3,"api":"./lib/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/yousheng.js"},
+{"key":"js_有声小说","name":"📚️┃听书┃有声","type":3,"api":"./douban/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/yousheng.js"},
 
-{"key":"js_中华听书网","name":"📚️┃听书┃中华","type":3,"api":"./lib/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/zhonghua.js"},
+{"key":"js_中华听书网","name":"📚️┃听书┃中华","type":3,"api":"./douban/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/zhonghua.js"},
 
-{"key":"喜马拉雅","name":"📚️┃听书┃拉雅","type":3,"api":"./lib/drpy1.min.js","ext":"./lib/ximalaya.js"},
+{"key":"喜马拉雅","name":"📚️┃听书┃拉雅","type":3,"api":"./douban/drpy1.min.js","ext":"./lib/ximalaya.js"},
 
 {"key":"MTV转点播","name":"🎸┃万首┃MTV","type":3,"playerType":2,"api":"./lib/音乐转点播.js","ext":"./txt/MTV2.txt"},
 
@@ -226,11 +226,11 @@
 
 {"key":"csp_Anime1","name":"🐔┃日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"drpy_js_虎牙直播","name":"🐯┃虎牙┃直播","type":3,"api":"./lib/drpy1.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/虎牙直播.js"},
+{"key":"drpy_js_虎牙直播","name":"🐯┃虎牙┃直播","type":3,"api":"./douban/drpy1.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/虎牙直播.js"},
 	
-{"key":"drpy_js_斗鱼直播","name":"🐠┃斗鱼┃直播","type":3,"api":"./lib/drpy1.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/斗鱼直播.js"},
+{"key":"drpy_js_斗鱼直播","name":"🐠┃斗鱼┃直播","type":3,"api":"./douban/drpy1.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/斗鱼直播.js"},
 	
-{"key":"drpy_js_有声小说吧","name":"🎧┃有声┃小说","type":3,"api":"./lib/drpy1.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/有声小说.js"},
+{"key":"drpy_js_有声小说吧","name":"🎧┃有声┃小说","type":3,"api":"./douban/drpy1.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/有声小说.js"},
 
 {"key": "短视频","name": "📽️┃聚短┃视频","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/短视频.json"},	
 
