@@ -40,17 +40,17 @@
 
 {"key":"一起看","name":"👭┃一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"csp_zxzj","name":"🚦┃在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
+{"key":"csp_zxzj","name":"📡┃在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 	
 {"key":"csp_WoGG","name":"💖┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
 
-{"key": "玩我哥哥","name":"💖┃玩我┃哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/ttkx.jar","ext":"./lib/玩我哥哥.json"},
+{"key": "影视车","name":"💖┃玩偶┃车姐","type":3,"api":"csp_csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg筛选.json"},	
 
-{"key": "玩偶运输车","name":"💖┃玩偶┃车姐","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/ttkx.jar","ext":"./lib/运输车.json"},	
+{"key":"玩偶表哥","name":"💖┃玩偶┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg筛选.json"},
 	
-{"key":"csp_天天开心","name":"💖┃天天┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/天天开心.json"},
+{"key":"csp_天天开心","name":"💖┃天天┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/天天开心.json"},	
 
-//{"key":"玩偶表哥","name":"🧸┃玩偶┃表哥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/玩偶表哥.jar;md5;0ab5d5c3db5f5d26ea4f44d2278b87ac","ext":"./lib/玩偶表哥.json"},
+//{"key": "玩我哥哥","name":"💖┃玩我┃哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/ttkx.jar","ext":"./lib/玩我哥哥.json"},
 
 {"key":"萌米","name":"👀┃萌米┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
 "ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
@@ -66,6 +66,10 @@
 {"key":"墨鸦影视","name":"🦜┃墨鸦┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/墨鸦影视.json"},
 
 {"key":"爱看影视","name":"💞┃爱看┃影视","type":3,"playerType":"2","api":"./douban/drpy1.min.js","ext":"./lib/爱看影视.json"},
+
+{"key":"csp_sxys","name":"🕊️┃神仙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/神仙影视.json"},
+
+{"key":"兄弟","name":"👬┃兄弟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/兄弟影视.json"},	
 
 {"key":"csp_可可影视","name":"🎩┃可可┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
 
@@ -83,9 +87,9 @@
 
 {"key":"csp_黑狐影视","name":"🦊┃黑狐┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/黑狐影视.json"},
 
-{"key":"csp_Free","name":"🌻┃Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/Free影视.json"},
+{"key":"csp_Free","name":"👌┃Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/Free影视.json"},
 
-{"key":"csp_骚火","name":"🔥┃骚火┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/骚火影视.json"},
+{"key":"csp_骚火","name":"👙┃骚火┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/骚火影视.json"},
 
 {"key":"csp_xBPQ_玖八","name":"🍷┃玖八┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/98影视.json"},
 
