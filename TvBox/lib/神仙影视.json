@@ -16,7 +16,7 @@
 	
     "线路标题": "<span>&&</small>[替换:神仙专线>>🌺风言锋语88接口🌺#</span><small>>>共]+集",
 	
-    "分类url":"http://kdy.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类url":"http://kdy.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
 	
     "分类":"电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
 
