@@ -4,7 +4,7 @@
     "list": [
       {
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/img/zsm.jpg",
-        "icon": "hhttps://download.kstore.space/download/4645/Tvbox/myks/img/zsm.jpg"
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/zsm.jpg"
       }
     ]
   },
@@ -12,12 +12,26 @@
   {
     "name": "手机应用商店",
     "list": [
+
+ {
+        "name": "影视手机最新版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视手机32位.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
+        "version": "v2.2.4_32位py"
+      },
+
+ {
+        "name": "影视手机最新版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视手机64位.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
+        "version": "v2.2.4_64位py"
+      },	
 		
  {
         "name": "影迷手机版",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影迷.apk",
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/250.png",
-        "version": "v2.3.5"
+        "version": "v2.4.1"
       },
  {
         "name": "EasyBox手机版",
@@ -29,7 +43,7 @@
         "name": "MBox手机版",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/MBox.apk",
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/235.png",
-        "version": "v1.0.0"
+        "version": "v1.0.9"
       },		
  {
         "name": "影音壳子手机版",
@@ -37,13 +51,6 @@
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/252.png",
         "version": "v1.6.8"
       },
- {
-        "name": "影视手机版",
-        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视手机.apk",
-        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
-        "version": "v9.9.9_64位java"
-      },
-
 {
         "name": "海阔视界手机版",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/海阔视界.apk",
@@ -128,7 +135,7 @@
         "name": "甲壳虫adb助手",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/甲壳虫adb助手.apk",
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/229.png",
-        "version": "v1.30"
+        "version": "v1.31"
       },
 		
      {
@@ -143,6 +150,13 @@
   {
     "name": "电视应用商店",
     "list": [
+
+ {
+        "name": "影视TV32位最新版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视TV32位.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
+        "version": "v2.2.4_32位py"
+      },		
  {
         "name": "OneTV电视版",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/OneTV.apk",
@@ -156,10 +170,10 @@
         "version": "v2.0.7_32位java"
       },		
  {
-        "name": "萱萱影视TV版",
-        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/萱萱影视5010.apk",
+        "name": "影视仓TV版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视仓TV版.apk",
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/258.png",
-        "version": "v5.0.10"
+        "version": "v5.0.22"
       },				
  {
         "name": "TVBox黑盒电视版",
@@ -168,16 +182,10 @@
         "version": "v20231101-0006_takagen99"
       },			
  {
-        "name": "电视家去广告VIP版",
-        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/电视家.apk",
-        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/246.png",
-        "version": "v3.10.25"
-      },
- {
-        "name": "秒看直播去广告",
-        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/秒看直播.apk",
+        "name": "LEOTV电视直播",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/LEOTV电视.apk",
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/247.png",
-        "version": "v7.9.5"
+        "version": "v1.0.0"
       },
      {
         "name": "小盒精灵",
@@ -224,13 +232,19 @@
         "version": "v5.0.6"
       },		
  {
-        "name": "影视电视版",
+        "name": "影视TV版",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视电视.apk",
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
         "version": "v9.9.9_32位java"
       },
  {
-        "name": "影视电视安卓4版",
+        "name": "影视手机版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视手机.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
+        "version": "v9.9.9_64位java"
+      },		
+ {
+        "name": "影视TV安卓4版",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视安卓4.apk",
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
         "version": "v9.9.9_32位java"
