@@ -42,11 +42,11 @@
 	
 {"key":"csp_天天开心","name":"💖┃天天┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/天天开心.json"},	
 
-//{"key":"玩偶表哥","name":"💖┃玩偶┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg筛选.json"},	
+{"key": "wwgg","name":"💖┃玩我┃哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XY.jar","ext":"./lib/玩我哥哥.json"},	
 
-//{"key": "wwgg","name":"💖┃玩我┃哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XY.jar","ext":"./lib/玩我哥哥.json"},	
+{"key": "yscal","name":"💖┃玩偶┃车姐","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XY.jar","ext":"./lib/运输车.json"},	
 
-//{"key": "yscal","name":"💖┃玩偶┃车姐","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XY.jar","ext":"./lib/运输车.json"},	
+//{"key":"玩偶表哥","name":"💖┃玩偶┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg筛选.json"},		
 	
 {"key":"萌米","name":"🎑┃萌米┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
 "ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
