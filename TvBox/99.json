@@ -24,7 +24,7 @@
 
 {"key":"豆豆","name":"🔍┃豆瓣┃主页","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key": "YGP","name":"🎬┃新片┃预告","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},	
+{"key":"网盘配置","name":"📝┃网盘┃配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
 
 {"key":"csp_厂长","name":"🏭️┃厂长┃资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cz.json"},
 
@@ -46,6 +46,8 @@
 
 {"key": "yscal","name":"💖┃玩偶┃车姐","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XY.jar","ext":"./lib/运输车.json"},	
 
+//{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/Download/风言锋语88/风言锋语/token.txt$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg筛选.json"},
+	
 //{"key":"玩偶表哥","name":"💖┃玩偶┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg筛选.json"},		
 	
 {"key":"萌米","name":"🎑┃萌米┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
@@ -221,11 +223,7 @@
 
 {"key":"push_agent","name":"📲┃手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
 
-{"key":"csp_KungFu404","name":"📚┃阿里┃Token设置","type":3,"api":"csp_KungFu404","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt","jar":"./lib/aliyun.jar;md5;332d0e5a28640ee88589390ad4a23a39"},
-
 {"key":"Aid","name":"🚑┃急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
-
-{"key":"软件教程","name":"👨‍🏫┃软件┃教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/软件教程.json","jar":"./lib/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 
 {"key":"直播转点播","name":"📺┃电视┃直播","type":3,"api":"./lib/直播转点播2.js","ext":"./lib/直播仓.json"},
 
@@ -235,7 +233,7 @@
 	
 {"key": "酷狗","name":"🎵┃酷狗┃音乐","type":3,"api":"csp_Kugou","searchable":1,"changeable":0,"jar":"./lib/pg.jar"},
 
-{"key":"应用商店","name":"🏪┃应用┃商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"./lib/fm.jar","ext":"./lib/market.json"},
+{"key":"应用商店","name":"🏪┃应用┃商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"./lib/pg.jar","ext":"./lib/market.json"},
 
 {"key":"alist","name":"💾┃小鸭┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/alist.json"},
 	
