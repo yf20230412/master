@@ -40,20 +40,20 @@
 	
 {"key":"csp_WoGG","name":"💖┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},	
 	
-{"key":"csp_天天开心","name":"💖┃天天┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/天天开心.json"},	
-
-{"key": "wwgg","name":"💖┃玩我┃哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XY.jar","ext":"./lib/玩我哥哥.json"},	
-
-{"key": "yscal","name":"💖┃玩偶┃车姐","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XY.jar","ext":"./lib/运输车.json"},	
-
-//{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/Download/风言锋语88/风言锋语/token.txt$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg筛选.json"},
+{"key":"影视车","name":"💖┃运输┃车姐","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$https://www.weixine.net/$$$null$$$关$$$./lib/wogg筛选.json"},
 	
-//{"key":"玩偶表哥","name":"💖┃玩偶┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg筛选.json"},		
+{"key":"玩偶表哥","name":"💖┃玩偶┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$https://wobge.run.goorm.io$$$null$$$关$$$./lib/wogg筛选.json"},
+
+{"key":"团长资源","name":"💖┃网盘┃团长","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1,"jar":"./lib/pg.jar","timeout":30,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$null$$$关"},
+
+//{"key": "wwgg","name":"💖┃玩我┃哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XY.jar","ext":"./lib/玩我哥哥.json"},	
+
+//{"key": "yscal","name":"💖┃玩偶┃车姐","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XY.jar","ext":"./lib/运输车.json"},		
 	
 {"key":"萌米","name":"🎑┃萌米┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
 "ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
 
-{"key": "耐看","name": "👀┃耐看┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/耐看影视.json"},
+{"key":"策驰影视","name":"🚅┃策驰┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/策驰影视.json"},
 	
 {"key":"圣城影视","name":"🌉┃圣城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/圣城影视.json"},
 	
@@ -63,7 +63,15 @@
 
 {"key":"爱看影视","name":"💞┃爱看┃影视","type":3,"playerType":"2","api":"./douban/drpy1.min.js","ext":"./lib/爱看影视.json"},
 
-{"key":"csp_sxys","name":"🕊️┃神仙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/神仙影视.json"},
+{"key":"csp_天天开心","name":"😁┃开心┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/天天开心.json"},	
+	
+{"key":"csp_sxys","name":"🕊️┃神仙┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/神仙影视.json"},
+
+{"key":"开心HK影视","name":"🍹┃HK┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/开心HK影视.json"},	
+
+{"key": "耐看","name": "👀┃耐看┃自营","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/耐看影视.json"},
+	
+{"key":"酷茶影视","name":"🍵┃酷茶┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/酷茶影视.json"},
 
 {"key":"兄弟","name":"👬┃兄弟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/兄弟影视.json"},	
 
@@ -101,6 +109,10 @@
 
 {"key":"csp_DiDuan","name":"🐬┃低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
+{"key":"csp_Lib","name":"🔷┃Lib┃直连","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/"},
+
+{"key":"csp_Bttoo","name":"🍄┃比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+	
 {"key":"csp_XBPQ新大米","name":"🌾┃大米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.dmdy6.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
 
 {"key":"csp_米爱影视","name":"🦒┃米爱┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/米爱影视.json"},
