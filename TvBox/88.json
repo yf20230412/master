@@ -46,7 +46,7 @@
     "searchable":1,
     "quickSearch":1,
     "changeable":0,
-    "ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
+    "ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
 },
 {
     "key":"一起看",
@@ -530,7 +530,7 @@
     "quickSearch":1,
     "filterable":0,
     "changeable":0,
-    "ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
+    "ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
 },
 {
     "key":"YiSo",
@@ -540,7 +540,7 @@
     "searchable":1,
     "quickSearch":1,
     "changeable":0,
-    "ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"
+    "ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
 },
 {
     "key":"PanSou",
@@ -551,7 +551,7 @@
     "quickSearch":1,
     "filterable":0,
     "changeable":0,
-    "ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"
+    "ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
 },
 {
     "key":"UpYun",
@@ -562,7 +562,7 @@
     "quickSearch":1,
     "filterable":0,
     "changeable":0,
-    "ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"
+    "ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
 },
 {
     "key":"PanSearch",
@@ -572,7 +572,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"
+    "ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
 },
 {
     "key":"七夜",
@@ -583,7 +583,7 @@
     "quickSearch":1,
     "filterable":0,
     "changeable":0,
-    "ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"
+    "ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
 },
 {
     "key":"csp_Token",
@@ -593,7 +593,7 @@
     "searchable":1,
     "filterable":1,
     "changeable":0,
-    "ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt",
+    "ext":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "jar":"./lib/aliyun.jar;md5;332d0e5a28640ee88589390ad4a23a39"
 },
 {

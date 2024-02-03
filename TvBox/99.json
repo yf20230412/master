@@ -38,13 +38,13 @@
 
 {"key":"csp_zxzj","name":"📡┃在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 	
-{"key":"csp_WoGG","name":"💖┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},	
+{"key":"csp_WoGG","name":"💖┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},	
 	
-{"key":"影视车","name":"💖┃运输┃车姐","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$https://www.weixine.net/$$$null$$$关$$$./lib/wogg筛选.json"},
+{"key":"影视车","name":"💖┃运输┃车姐","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/TVBox/token.txt$$$https://www.weixine.net/$$$null$$$关$$$./lib/wogg筛选.json"},
 	
-{"key":"玩偶表哥","name":"💖┃玩偶┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$https://wobge.run.goorm.io$$$null$$$关$$$./lib/wogg筛选.json"},
+{"key":"玩偶表哥","name":"💖┃玩偶┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/TVBox/token.txt$$$https://wobge.run.goorm.io$$$null$$$关$$$./lib/wogg筛选.json"},
 
-{"key":"团长资源","name":"💖┃网盘┃团长","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1,"jar":"./lib/pg.jar","timeout":30,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt$$$null$$$关"},
+{"key":"团长资源","name":"💖┃网盘┃团长","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1,"jar":"./lib/pg.jar","timeout":30,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt$$$null$$$关"},
 
 //{"key": "wwgg","name":"💖┃玩我┃哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XY.jar","ext":"./lib/玩我哥哥.json"},	
 
@@ -221,19 +221,19 @@
 
 {"key":"csp_trj","name":"🪜┃唐人┃墙外","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"changeable":1},
 	
-{"key":"Zhaozy","name":"🔍┃找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd$$$fanty$$$qqq111"},
+{"key":"Zhaozy","name":"🔍┃找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd$$$fanty$$$qqq111"},
 
-{"key":"YiSo","name":"🔍┃易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
+{"key":"YiSo","name":"🔍┃易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
-{"key":"PanSou","name":"🔍┃盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
+{"key":"PanSou","name":"🔍┃盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
-{"key":"UpYun","name":"🔍┃Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
+{"key":"UpYun","name":"🔍┃Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
-{"key":"PanSearch","name":"🔍┃盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
+{"key":"PanSearch","name":"🔍┃盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
-{"key":"七夜","name":"🔍┃七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
+{"key":"七夜","name":"🔍┃七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
-{"key":"push_agent","name":"📲┃手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/风言锋语88/风言锋语/token.txt+4k|auto|fhd"},
+{"key":"push_agent","name":"📲┃手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
 {"key":"Aid","name":"🚑┃急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 
