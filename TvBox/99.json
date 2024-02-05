@@ -15,7 +15,16 @@
     "ua":"okhttp/3.15",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
-}		
+},
+{
+    "name": "IPV6",
+    "type": 0,
+    "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "playerType": 1,
+    "ua": "okhttp/3.15",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+}			
 ],
 
 
@@ -24,7 +33,7 @@
 
 {"key":"豆豆","name":"🔍┃豆瓣┃主页","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"网盘配置","name":"📝┃网盘┃配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
+{"key":"网盘配置","name":"📝┃网盘┃配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./lib/pg.jar;md5;a4641d44614be4500b314841116b55a4","ext":"./lib/tokenm.json"},
 
 {"key":"csp_厂长","name":"🏭️┃厂长┃资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cz.json"},
 
@@ -40,11 +49,11 @@
 	
 {"key":"csp_WoGG","name":"💖┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},	
 	
-{"key":"影视车","name":"💖┃运输┃车姐","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/TVBox/token.txt$$$https://www.weixine.net/$$$null$$$关$$$./lib/wogg筛选.json"},
+{"key":"影视车","name":"💖┃运输┃车姐","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"jar":"./lib/pg.jar;md5;a4641d44614be4500b314841116b55a4","ext":"http://127.0.0.1:9978/file/TVBox/token.txt$$$https://www.weixine.net/$$$null$$$关$$$./lib/wogg筛选.json"},
 	
-{"key":"玩偶表哥","name":"💖┃玩偶┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/pg.jar","ext":"http://127.0.0.1:9978/file/TVBox/token.txt$$$https://wobge.run.goorm.io$$$null$$$关$$$./lib/wogg筛选.json"},
+{"key":"玩偶表哥","name":"💖┃玩偶┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/pg.jar;md5;a4641d44614be4500b314841116b55a4","ext":"http://127.0.0.1:9978/file/TVBox/token.txt$$$https://wobge.run.goorm.io$$$null$$$关$$$./lib/wogg筛选.json"},
 
-{"key":"团长资源","name":"💖┃网盘┃团长","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1,"jar":"./lib/pg.jar","timeout":30,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt$$$null$$$关"},
+{"key":"团长资源","name":"💖┃网盘┃团长","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1,"jar":"./lib/pg.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt$$$null$$$关"},
 
 //{"key": "wwgg","name":"💖┃玩我┃哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XY.jar","ext":"./lib/玩我哥哥.json"},	
 
@@ -243,9 +252,9 @@
 
 {"key":"Local","name":"📺┃本地┃视频","type":3,"api":"csp_Local"},
 	
-{"key": "酷狗","name":"🎵┃酷狗┃音乐","type":3,"api":"csp_Kugou","searchable":1,"changeable":0,"jar":"./lib/pg.jar"},
+{"key": "酷狗","name":"🎵┃酷狗┃音乐","type":3,"api":"csp_Kugou","searchable":1,"changeable":0,"jar":"./lib/pg.jar;md5;a4641d44614be4500b314841116b55a4"},
 
-{"key":"应用商店","name":"🏪┃应用┃商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"./lib/pg.jar","ext":"./lib/market.json"},
+{"key":"应用商店","name":"🏪┃应用┃商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"./lib/pg.jar;md5;a4641d44614be4500b314841116b55a4","ext":"./lib/market.json"},
 
 {"key":"alist","name":"💾┃小鸭┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/alist.json"},
 	
