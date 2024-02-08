@@ -96,6 +96,36 @@
     ]
 },
 {
+	"key":"乐播"
+    "name":"乐播云"
+    "type":1
+    "api":"https://lbapi9.com/api.php/provide/vod/at/json"
+},    
+{
+	"key":"雪豹"
+    "name":"雪豹云"
+    "type":1
+    "api":"https://api.xbapi.cc/api.php/provide/vod/at/json/"
+},        
+{
+	"key":"鸡坤"
+    "name":"鸡坤云"
+    "type":1
+    "api":"https://jkunzyapi.com/api.php/provide/vod/at/json"
+},        
+{
+	"key":"滴滴"
+    "name":"司机云"
+    "type":1
+    "api":"https://api.apilyzy.com/api.php/provide/vod/"
+},   
+{
+	"key":"老鸭"
+    "name":"老鸭云"
+    "type":1
+    "api":"https://api.apilyzy.com/api.php/provide/vod/"
+},		
+{
     "key":"kkzy.me",
     "name":"成人1",
     "type":1,
