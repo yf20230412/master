@@ -55,6 +55,8 @@
 
 {"key":"网盘配置","name":"📝┃网盘┃配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./lib/ok.jar;md5;543a6558b7e3e8b27dcb4da466d43038","style":{"type":"rect","ratio":1.43}},
 
+{"key":"天天弹幕版","name":"⛅️┃天天┃App","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/ok.jar;md5;543a6558b7e3e8b27dcb4da466d43038","ext":{"danmu":false},"timeout":10},
+
 {"key":"csp_厂长","name":"🏭️┃厂长┃资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cz.json"},
 
 {"key":"csp_Kunyu77","name":"🌈┃七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
