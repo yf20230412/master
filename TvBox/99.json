@@ -4,7 +4,7 @@
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
-"warningText":"风言锋语提示您：观看《玩偶哥哥》4K源请按提示扫描登录阿里token",
+"warningText":"《风言锋语88》提示您：观看带💖的阿里4K资源，请按提示扫描登录阿里token",
 
 "lives":[
 {
@@ -87,6 +87,10 @@
 
 {"key":"耐看","name":"👀┃耐看┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/耐看影视.json"},
 
+{"key":"业余采集A","name":"🍂┃业余┃自营","type":1,"api":"http://ys.540734621.xyz/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["电视剧","电影","短剧","动漫","综艺","记录片","体育"]},	
+	
+{"key":"cokemv影视","name":"👑┃coke┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cokemv影视.json"},
+	
 {"key":"996影视","name":"🍭┃九六┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/996影视.json"},
 
 {"key":"策驰影视","name":"🚅┃策驰┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/策驰影视.json"},
