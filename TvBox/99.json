@@ -63,8 +63,6 @@
 
 {"key":"一起看","name":"👭┃一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"csp_zxzj","name":"📡┃在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
-
 {"key":"csp_WoGG","name":"💖┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
 
 {"key":"运输车弹幕版","name":"💖┃运输┃车姐","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1,"jar":"./lib/ok.jar;md5;543a6558b7e3e8b27dcb4da466d43038","ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark_cookie.txt","site":"https://www.weixine.net","danmu":true},"timeout":35},
@@ -283,7 +281,7 @@
 
 {"key":"在线┃直播1","name":"📺┃竞技┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"Local","name":"📺┃本地┃视频","type":3,"api":"csp_Local"},
+{"key":"Local","name":"💻┃本地┃视频","type":3,"api":"csp_Local"},
 
 {"key":"酷狗","name":"🎵┃酷狗┃音乐","type":3,"api":"csp_Kugou","searchable":1,"changeable":0,"jar":"./lib/ok.jar;md5;543a6558b7e3e8b27dcb4da466d43038"},
 
