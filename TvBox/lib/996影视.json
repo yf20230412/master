@@ -38,7 +38,7 @@
 
     "分类url":"https://cs1369.com/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catepg}/year/{year}.html;akx",
  
-    "分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4"
+    "分类":"电视剧$2#电影$1#动漫$3#爽文短剧$4"
 		
     } 
 

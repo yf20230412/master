@@ -52,7 +52,7 @@
     
     "分类url":"http://www.ttkx.site:81/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html",
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#动画$35",
+    "分类":"电视剧$2#电影$1#综艺$3#动漫$4#短剧$5#动画$35",
     
     "筛选":{
     "1":[

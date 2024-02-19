@@ -54,7 +54,7 @@
     
     "分类url":"https://www.cecidy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak",
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+    "分类":"电视剧$2#电影$1#综艺$3#动漫$4",
     
     "筛选":{
     "1":[

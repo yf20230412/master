@@ -50,7 +50,7 @@
     
     "分类url":"https://www.miai9.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$32",
+    "分类":"电视剧$2#电影$1#综艺$3#动漫$4#纪录片$32",
     
     "筛选":{
     "1":[

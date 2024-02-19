@@ -18,6 +18,6 @@
 	
     "分类url":"http://kdy.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
 	
-    "分类":"电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
+    "分类":"电视剧$21#电影$20#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
 
 }
