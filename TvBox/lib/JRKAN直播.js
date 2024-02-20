@@ -19,6 +19,7 @@ var rule = {
     searchable:0,
     quickSearch:0,
     class_name:'全部',
+    tab_rename:{'道长在线':'公众号：风言锋语88'},
     class_url:'/',
     //class_url:'?live',
     headers:{

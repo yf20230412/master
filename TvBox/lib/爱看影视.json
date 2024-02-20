@@ -34,8 +34,8 @@ var rule = {
     },
     detailUrl:'/voddetail/fyid/',
     searchUrl: '/vodsearch/**----------fypage---/',
-    class_name:'电影&连续剧&综艺&动漫&日韩剧&美剧&港台剧&纪录片',
-    class_url:'1&2&3&4&15&16&14&20',
+    class_name:'连续剧&电影&综艺&动漫&日韩剧&美剧&港台剧&纪录片',
+    class_url:'2&1&3&4&15&16&14&20',
     play_parse:true,
     lazy:`js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);

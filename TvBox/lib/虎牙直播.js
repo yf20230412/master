@@ -5,6 +5,7 @@ var rule = {
     url:'/cache.php?m=LiveList&do=getLiveListByPage&gameId=fyfilter&tagAll=0&page=fypage',
     class_name:'娱乐&网游&单机&手游',
     class_url:'8&1&2&3',
+    tab_rename:{'道长在线':'公众号：风言锋语88'},
     detailUrl:'https://m.huya.com/fyid',//二级详情拼接链接(json格式用)
     filterable: 1,
     filter_url: '{{fl.cateId}}',
