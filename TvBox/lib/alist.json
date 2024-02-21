@@ -86,23 +86,27 @@
       "server": "http://9527.coms.ee:38667/"
     },
     {
-      "name": "ECVE",
+      "name": "🌷ECVE",
       "server": "https://pan.ecve.cn"
     },
     {
-      "name": "觸光",
+      "name": "☀️觸光",
       "server": "https://pan.ichuguang.com"
-    },
+    },    
     {
-      "name": "七米藍",
+      "name": "🌊七米蓝",
       "server": "https://al.chirmyram.com"
-    },
+    }, 
     {
-      "name": "神族九帝",
+      "name": "🐉神族九帝",
       "server": "https://alist.shenzjd.com"
     },
     {
-      "name": "梓澪",
+      "name": "✨星梦",
+      "server": "https://pan.bashroot.top"
+    },	  
+    {
+      "name": "🌱梓澪",
       "server": "https://zi0.cc"
     }
   ]
