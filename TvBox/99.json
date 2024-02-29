@@ -17,6 +17,15 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
 },
 {
+    "name":"18_live",
+    "type":0,
+    "url":"./lib/18.m3u",
+    "playerType":1,
+    "ua":"okhttp/3.15",
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
+},	
+{
     "name":"YueChan_IPV6",
     "type":0,
     "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
@@ -75,7 +84,7 @@
 
 {"key":"土豆网盘弹幕","name":"💖┃土豆┃网盘","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"jar":"./lib/ok.jar;md5;543a6558b7e3e8b27dcb4da466d43038","ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark_cookie.txt","site":"https://aliz.lvdoui.top","danmu":true},"timeout":35},
 
-{"key":"csp_爱看影院","name":"👓┃爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/爱看影院.json"},
+{"key":"阿里合集","name":"💖┃阿里┃合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"jar":"./lib/ok.jar;md5;147cd947f01b58c007beb37a168466bd","ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":"./lib/阿里集合.json"}},
 	
 {"key":"csp_天天开心","name":"🥰️┃开心┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/天天开心.json"},
 	
@@ -88,6 +97,10 @@
 {"key":"业余采集A","name":"🍂┃业余┃自营","type":1,"api":"http://ys.540734621.xyz/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["电视剧","电影","短剧","动漫","综艺","记录片","体育"]},	
 
 {"key":"小胡","name":"📯┃小胡┃自营","type":3,"playerType":2,"api":"./douban/drpy1.min.js","ext":"./lib/小胡.js"},
+
+{"key": "Fangniu4k","name": "🐮┃放牛┃自营","type": 3,"api": "csp_Fangniu4k","jar":"./lib/放牛.jar","searchable": 1,"changeable": 0},	
+
+{"key":"csp_爱看影院","name":"👓┃爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/爱看影院.json"},
 	
 {"key":"cokemv影视","name":"👑┃coke┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cokemv影视.json"},
 	
@@ -211,9 +224,9 @@
 
 {"key":"兴趣培养","name":"📚┃兴趣┃培养","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lib/兴趣培养.json"},
 
-{"key":"短剧","name":"🎦┃短剧┃在线","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://duanju.one"},
-
 {"key":"csp_短剧","name":"🎦┃短剧┃网网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/短剧网.json"},
+
+{"key":"drpy_js_短剧TV","name":"🎦┃短剧┃TV","type":3,"api":"./douban/drpy1.min.js","ext":"./lib/短剧TV.js"},	
 
 {"key":"js_i275听书","name":"📚️┃听书┃i275","type":3,"api":"./douban/drpy1.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/i275.js"},
 
