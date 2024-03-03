@@ -60,6 +60,8 @@
 
 {"key":"drpy_js_豆瓣","name":"🔥┃豆瓣┃热播","type":3,"api":"./douban/drpy1.min.js","ext":"./lib/doudou.js"},
 
+{"key":"豆瓣预告","name":"🎬┃豆瓣┃预告","type":3,"api":"csp_XBPQ","playerType": 2,"ext":"./lib/豆瓣预告.json"},
+	
 {"key":"路飞搜索","name":"🔍┃路飞┃搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/路飞搜索.js"},
 
 {"key":"csp_厂长","name":"🏭️┃厂长┃资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cz.json"},
@@ -100,6 +102,8 @@
 
 {"key": "Fangniu4k","name": "🐮┃放牛┃自营","type": 3,"api": "csp_Fangniu4k","jar":"./lib/放牛.jar","searchable": 1,"changeable": 0},	
 
+{"key":"drpy_js_影探","name":"📽️┃影探┃App","type":3,"api":"./douban/drpy1.min.js","ext":"./lib/影探.js"},
+	
 {"key":"csp_爱看影院","name":"👓┃爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/爱看影院.json"},
 	
 {"key":"cokemv影视","name":"👑┃coke┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cokemv影视.json"},
