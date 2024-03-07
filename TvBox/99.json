@@ -68,8 +68,6 @@
 
 {"key":"网盘配置","name":"📝┃网盘┃配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./lib/ok.jar;md5;543a6558b7e3e8b27dcb4da466d43038","style":{"type":"rect","ratio":1.43}},
 
-{"key":"天天弹幕版","name":"⛅️┃天天┃App","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/ok.jar;md5;543a6558b7e3e8b27dcb4da466d43038","ext":{"danmu":false},"timeout":10},
-
 {"key":"csp_Kunyu77","name":"🌈┃七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"南瓜","name":"🎃┃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -99,20 +97,22 @@
 {"key":"业余采集A","name":"🍂┃业余┃自营","type":1,"api":"http://ys.540734621.xyz/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["电视剧","电影","短剧","动漫","综艺","记录片","体育"]},	
 
 {"key":"小胡","name":"📯┃小胡┃自营","type":3,"playerType":2,"api":"./douban/drpy1.min.js","ext":"./lib/小胡.js"},
-
-{"key": "Fangniu4k","name": "🐮┃放牛┃自营","type": 3,"api": "csp_Fangniu4k","jar":"./lib/放牛.jar","searchable": 1,"changeable": 0},	
-
-{"key":"drpy_js_影探","name":"📽️┃影探┃App","type":3,"api":"./douban/drpy1.min.js","ext":"./lib/影探.js"},
 	
 {"key":"csp_爱看影院","name":"👓┃爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/爱看影院.json"},
 	
 {"key":"cokemv影视","name":"👑┃coke┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cokemv影视.json"},
+
+{"key":"csp_乐福影视","name":"🧧┃乐福┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/乐福影视.json"},
+
+{"key":"csp_奇优","name":"👒┃奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/奇优.json"},
+
+{"key":"csp_Free","name":"👌┃Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/Free影视.json"},
+
+{"key":"csp_北川影视","name":"🍄┃北川┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/北川影视.json"},
 	
 {"key":"996影视","name":"🍭┃九六┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/996影视.json"},
 
 {"key":"策驰影视","name":"🚅┃策驰┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/策驰影视.json"},
-
-{"key":"圣城影视","name":"🌉┃圣城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/圣城影视.json"},
 
 {"key":"威士影视","name":"🍷┃威士┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/威士影视.json"},
 
@@ -123,8 +123,6 @@
 {"key":"兄弟影视","name":"👬┃兄弟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/兄弟影视.json"},
 
 {"key":"可可影视","name":"🎩┃可可┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
-
-{"key":"csp_奇优","name":"👒┃奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/奇优.json"},
 
 {"key":"csp_新视觉","name":"🌸┃视觉┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/新视觉.json"},
 
@@ -137,8 +135,6 @@
 {"key":"csp_超前","name":"🥇┃超前┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/超前B站.json"},
 
 {"key":"csp_黑狐影视","name":"🦊┃黑狐┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/黑狐影视.json"},
-
-{"key":"Free影视","name":"👌┃Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/Free影视.json"},
 
 {"key":"98影视","name":"🍷┃玖八┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/98影视.json"},
 
@@ -164,6 +160,8 @@
 
 {"key":"csp_米爱影视","name":"🦒┃米爱┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/米爱影视.json"},
 
+{"key":"圣城影视","name":"🌉┃圣城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/圣城影视.json"},
+	
 {"key":"555影视","name":"5️⃣️┃三五┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
 
 {"key":"疯狗影视","name":"🦮┃疯狗┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/疯狗影视.json"},
