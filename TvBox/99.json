@@ -90,8 +90,6 @@
 	
 {"key":"csp_爱看影院","name":"👓┃爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/爱看影院.json"},
 
-{"key":"csp_速映影视","name":"🏄🏼‍┃速映┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/速映影视.json"},
-
 {"key":"csp_达达龟","name":"🐢┃达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/达达龟.json"},
 	
 {"key":"cokemv影视","name":"👑┃coke┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cokemv影视.json"},
@@ -105,9 +103,7 @@
 {"key":"csp_北川影视","name":"🍄┃北川┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/北川影视.json"},
 	
 {"key":"996影视","name":"🍭┃九六┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/996影视.json"},
-
-{"key":"策驰影视","name":"🚅┃策驰┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/策驰影视.json"},
-
+	
 {"key":"威士影视","name":"🍷┃威士┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/威士影视.json"},
 
 {"key":"csp_爱看动漫","name":"💞┃爱看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/爱看动漫.json"},
@@ -142,6 +138,10 @@
 
 {"key":"热播之家","name":"☀┃热播┃之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/热播之家.json"},
 
+{"key":"策驰影视","name":"🚅┃策驰┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/策驰影视.json"},
+
+{"key":"csp_速映影视","name":"🏄🏼‍┃速映┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/速映影视.json"},
+	
 {"key":"橘子","name":"🍊┃橘子┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,
 "ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
 },
