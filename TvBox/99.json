@@ -85,7 +85,7 @@
 
 {"key":"drpy_js_影探","name":"🕵🏼‍♂️┃影探┃App","type":3,"timeout":15,"playerType":2,"api":"./lib/drpy1.min.js","ext":"./lib/影探.js"},
 
-{"key":"玩偶哥哥","name":"💖┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://ghproxy.net/gist.githubusercontent.com/yf20230412/a6d9e20965e7c5aa9daa12075d662772/raw/6005+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+{"key":"玩偶哥哥","name":"💖┃玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 
 {"key":"神仙影视","name":"🕊️┃神仙┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/神仙影视.json"},
 
@@ -295,19 +295,19 @@
 
 {"key":"csp_trj","name":"🪜┃唐人┃墙外","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"Zhaozy","name":"🔍┃找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/gist.githubusercontent.com/yf20230412/a6d9e20965e7c5aa9daa12075d662772/raw/6005+4k|auto|fhd$$$fanty$$$qqq111"},
+{"key":"Zhaozy","name":"🔍┃找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd$$$fanty$$$qqq111"},
 
-{"key":"YiSo","name":"🔍┃易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://ghproxy.net/gist.githubusercontent.com/yf20230412/a6d9e20965e7c5aa9daa12075d662772/raw/6005+4k|auto|fhd"},
+{"key":"YiSo","name":"🔍┃易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
-{"key":"PanSou","name":"🔍┃盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/gist.githubusercontent.com/yf20230412/a6d9e20965e7c5aa9daa12075d662772/raw/6005+4k|auto|fhd"},
+{"key":"PanSou","name":"🔍┃盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
-{"key":"UpYun","name":"🔍┃Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/gist.githubusercontent.com/yf20230412/a6d9e20965e7c5aa9daa12075d662772/raw/6005+4k|auto|fhd"},
+{"key":"UpYun","name":"🔍┃Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
-{"key":"PanSearch","name":"🔍┃盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.net/gist.githubusercontent.com/yf20230412/a6d9e20965e7c5aa9daa12075d662772/raw/6005+4k|auto|fhd"},
+{"key":"PanSearch","name":"🔍┃盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
-{"key":"七夜","name":"🔍┃七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/gist.githubusercontent.com/yf20230412/a6d9e20965e7c5aa9daa12075d662772/raw/6005+4k|auto|fhd"},
+{"key":"七夜","name":"🔍┃七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
-{"key":"push_agent","name":"📲┃手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/gist.githubusercontent.com/yf20230412/a6d9e20965e7c5aa9daa12075d662772/raw/6005+4k|auto|fhd"},
+{"key":"push_agent","name":"📲┃手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"},
 
 {"key":"Aid","name":"🚑┃急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 
