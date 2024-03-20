@@ -67,6 +67,8 @@
 
 {"key":"csp_厂长","name":"🏭️┃厂长┃资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"timeout":15,"ext":"./lib/厂长.json"},	
 
+{"key":"csp_Token","name":"📚┃阿里┃Token设置","type":3,"api":"csp_KungFu404","searchable":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt","jar":"./lib/aliyun.jar;md5;332d0e5a28640ee88589390ad4a23a39"},
+	
 {"key":"网盘配置","name":"📝┃网盘┃配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./lib/18pg.jar;md5;c2af7a4a1ad5c7249d283343ac819250","ext":"./lib/tokenm.json","style":{"type":"rect","ratio":1.43}},
 
 {"key":"南瓜","name":"🎃┃南瓜┃App","type":3,"playerType":2,"api":"./lib/drpy1.min.js","ext":"./lib/南瓜.js"},
@@ -155,10 +157,10 @@
 "ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
 },
 
-{"key":"荐片","name":"🐭┃贱贱┃p2p","type":3,"playerType":"1","api":"./lib/drpy1.min.js","ext":"./lib/荐片.js"},
-
 {"key":"drpy_js_美益达","name":"💄┃美益达┃影视","type":3,"api":"./lib/drpy1.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/美益达.js"},
 
+{"key":"荐片","name":"🐭┃贱贱┃p2p","type":3,"playerType":"1","api":"./lib/drpy1.min.js","ext":"./lib/荐片.js"},
+	
 {"key":"drpy_js_6V新版磁力","name":"🧲┃6V新版┃磁力","type":3,"api":"./lib/drpy1.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/6V新版磁力.js"},
 
 {"key":"drpy_js_4KHDR","name":"🧲┃4KHDR┃磁力","type":3,"api":"./lib/drpy1.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/4KHDR磁力.js"},
@@ -287,6 +289,10 @@
 
 {"key":"短视频","name":"📽️┃聚短┃视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/短视频.json"},
 
+{"key":"Pandalivetv","name": "👙┃韩国┃美女","type": 3,"api":"csp_WexPandalivetv","jar":"./lib/王二.jar","searchable":0,"changeable":0},
+
+{"key":"Yinyuetai","name":"🎸┃音悦台┃MV","type":3,"api":"csp_WexYinyuetai","jar":"./lib/王二.jar","searchable":1,"changeable":0},
+	
 {"key":"csp_Bili","name":"🅱️┃哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/Bili.json"},
 
 {"key":"相声小品","name":"🅱️┃相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/Blixs.json"},
