@@ -5,7 +5,7 @@ muban.首图2.二级.tabs = '.stui-pannel_hd:eq(0) h3';
 var rule= {
     title:'白嫖影视',
     模板:'首图2',
-    host:'https://www.baipiaoys.cc',
+    host:'https://www.baipiaoys.com:9092',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
     // url:'/show/id/fyclass/page/fypage.html',
     url: '/show/id/fyfilter.html',
