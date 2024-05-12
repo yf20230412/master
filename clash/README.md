@@ -192,16 +192,16 @@ URL编码转换工具
 
 - [x] https://www.urlencoder.org/
 
-将https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini 规则链接转 URLEncode 
+将https://raw.githubusercontent.com/yf20230412/master/main/clash/config/2023_Online_Full.ini 规则链接转 URLEncode 
 
-变成：https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full.ini
+变成：https%3A%2F%2Fraw.githubusercontent.com%2Fyf20230412%2Fmaster%2Fmain%2Fclash%2Fconfig%2F2023_Online_Full.ini
 
 将你的订阅节点：https://9c4be001.no-xxxx 转 URLEncode 
 变成：https%3A%2F%2F9c4be001.no-xxxx
 
 示例：
 
->https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2F9c4be001.no-xxxx&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full.ini
+>https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2F9c4be001.no-xxxx&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyf20230412%2Fmaster%2Fmain%2Fclash%2Fconfig%2F2023_Online_Full.ini
 
 将链接导入clash即可
 
@@ -221,12 +221,11 @@ https://acl4ssr-sub.github.io/
 
 ### 五、快速转换节点
 
-## **ACL4SSR_Online_Full.ini文件规则[传送门](https://ghproxy.net/https://raw.githubusercontent.com/yf20230412/master/main/clash/config/ACL4SSR_Online_Full.ini)**
+## **ACL4SSR_Online_Full.ini文件规则[传送门](https://raw.githubusercontent.com/yf20230412/master/main/clash/config/2023_Online_Full.ini)**
 
 ```json
 
-https://api.dler.io/sub?target=clash&new_name=true&url=此处替换你的订阅链接,链接需转码（URL编码）&config=https%3A%2F%2Fghproxy.net%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fyf20230412%2Fmaster%2Fmain%2Fclash%2Fconfig%2FACL4SSR_Online_Full.ini
-
+https://api.dler.io/sub?target=clash&new_name=true&url=此处替换你的订阅链接,链接需转码（URL编码）&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyf20230412%2Fmaster%2Fmain%2Fclash%2Fconfig%2F2023_Online_Full.ini
 ```
 
 ### 六、总结
