@@ -22,13 +22,6 @@
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
         "version": "手机_64位py版"
       },
-
- {
-        "name": "《影视仓》",
-        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视仓_短视频.apk",
-        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/236.png",
-        "version": "手机_短视频版"
-      },	
  {
         "name": "《EasyBox》",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/EasyBox.apk",
@@ -46,6 +39,12 @@
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/MBox.apk",
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/235.png",
         "version": "手机_1.1.0版"
+      },	
+ {
+        "name": "《影视仓》",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视仓_短视频.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/236.png",
+        "version": "手机_短视频版"
       },			
  {
         "name": "《影视仓》",
@@ -53,7 +52,12 @@
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/258.png",
         "version": "手机_游戏版"
       },			
-		
+ {
+        "name": "《影视仓》",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视仓TV版.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/258.png",
+        "version": "TV_5.0.30版"
+      },			
  {
         "name": "《ok影视》",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视TV版.apk",
@@ -65,13 +69,7 @@
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视安卓4x版.apk",
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
         "version": "TV_安卓4x版"
-      },			
- {
-        "name": "《影视仓》",
-        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视仓TV版.apk",
-        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/258.png",
-        "version": "TV_5.0.30版"
-      }				
+      }			
 	    ]
   },
 
@@ -125,12 +123,31 @@
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/229.png",
         "version": "手机版"
       },		
+ {
+        "name": "ES文件浏览器_电视优化版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/ES文件浏览器.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/233.png",
+        "version": "TV版"
+      },	
+
+ {
+        "name": "小白文件管理器TV版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/小白文件管理器.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/234.png",
+        "version": "TV版"
+      },	
      {
         "name": "fastnat内网穿透",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/fastnat.apk",
-        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/231.png",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/666.jpg",
         "version": "手机版"
-      },		
+      },	
+ {
+        "name": "LocalSend文件传输",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/LocalSend.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/666.jpg",
+        "version": "TV版"
+      },				
  {
         "name": "野草助手",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/野草助手.apk",
@@ -144,12 +161,6 @@
         "version": "TV版"
       },		
  {
-        "name": "LocalSend文件传输",
-        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/LocalSend.apk",
-        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/666.jpg",
-        "version": "TV版"
-      },	
- {
         "name": "当贝桌面",
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/当贝桌面.apk",
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/777.jpg",
@@ -160,20 +171,8 @@
         "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/开机启动.apk",
         "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/777.jpg",
         "version": "TV版"
-      },		
- {
-        "name": "ES文件浏览器_电视优化版",
-        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/ES文件浏览器.apk",
-        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/233.png",
-        "version": "TV版"
-      },	
-
- {
-        "name": "小白文件管理器TV版",
-        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/小白文件管理器.apk",
-        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/234.png",
-        "version": "TV版"
-      }				
+      }		
+				
 	    ]
   },
 	
