@@ -1,35 +1,19 @@
 {
-		
+
+	
     "spider":"./lib/18pg.jar",
 	
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 	
     "warningText":"《风言锋语88》提示您：观看带💖的阿里4K资源，请按提示扫描登录阿里token",
-	
+
+	"logo":"https://download.kstore.space/download/img/999.JPG",
 	
     "lives":[
 {
     "name":"xiaoyu_live",
     "type":0,
     "url":"./lib/612.txt",
-    "playerType":1,
-    "ua":"okhttp/3.15",
-    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-{
-    "name":"YueChan_IPV6",
-    "type":0,
-    "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
-    "playerType":1,
-    "ua":"okhttp/3.15",
-    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-{
-    "name":"APTV_IPV6",
-    "type":0,
-    "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
     "playerType":1,
     "ua":"okhttp/3.15",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -43,18 +27,19 @@
     "ua":"okhttp/3.15",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
-}	
+}
 ],
-
-
-	
     "sites":[
+		
 {
-    "key":"drpy_js_豆瓣",
-    "name":"🔍┃豆瓣┃主页",
-    "type":3,
-    "api":"./douban/drpy1.min.js",
-    "ext": "./lib/doudou.js"
+	"key":"豆豆",
+	"name":"公众号🔥【风言锋语88】",
+	"type":3,
+	"api":"csp_DouDou",
+	"jar":"./lib/fyfy.jar",
+	"searchable":0,
+	"quickSearch":0,
+	"filterable":0
 },
 {
     "key":"贱贱",
@@ -64,9 +49,9 @@
     "quickSearch":1,
     "changeable":1,
     "playerType":"1",
-    "api":"./douban/drpy1.min.js",
+    "api":"./douban/drpy2.min.js",
     "jar":"./lib/fyfy.jar",
-    "ext":"./lib/荐片.js"
+    "ext":"./js/荐片.js"
 },
 {
     "key":"csp_WoGG",
@@ -81,20 +66,27 @@
     "aliToken":"TVBox/token.txt",
     "quarkCookie":"TVBox/cookie.txt",
     "from":"4k|auto|fhd",
-    "siteUrl":"https://api.wogg.xyz/",
+    "siteUrl":"https://www.wogg.link/",
     "danMu":"弹"
     }
 },
-{
-    "key":"一起看",
-    "name":"👭┃一起┃App",
-    "type":3,
-    "api":"csp_YQKan",
-    "jar":"./lib/fyfy.jar",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1
-},
+{ 
+    "key": "x",
+    "name": "💋┃xx合集",
+    "type": 3,
+    "changeable": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "jar": "./lib/fyfy.jar",    
+    "style": {"ratio": 1.7},
+    "ext":{
+    "搜索url":"https://xpdhj.fun/xpdhj/vod/search/page/{pg}/wd/{wd}.html",
+    "分类":"仓库资源$1#AVXXC$2#AV奥斯卡$3#115资源$4",
+    "分类url": "https://xpdhj.fun/xpdhj/vod/type/id/{cateId}/page/{catePg}.html"
+    }
+},		
 {
     "key":"csp_xBPQ_超清",
     "name":"💋┃香蕉超清",
@@ -950,17 +942,6 @@
 }
 },		
 {
-    "key":"csp_Alist1",
-    "name":"💋┃Alist┃网盘",
-    "type":3,
-    "api":"csp_AList",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":0,
-    "changeable":0,
-    "ext":"./18/luohanguo.json"
-},
-{
     "key":"MissAV",
     "name":"💋┃MissAV(vpn)",
     "type":3,
@@ -980,31 +961,22 @@
     "quickSearch":1,
     "filterable":1,
     "changeable":0
-},
-{
-    "key":"PikPakShare1",
-    "name":"💋┃PikPak分享(vpn)",
-    "type":3,
-    "api":"csp_PikPakShare",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":0,
-    "filterable":0,
-    "timeout":60,
-    "ext":"./18/tokenm.json$$$./18/pikpakclass.a.json$$$./18/pikpakclass.a.json.txt.gz"
-},
-{
-    "key":"PikPakShare",
-    "name":"💋┃PikPak分享2(vpn)",
-    "type":3,
-    "api":"csp_PikPakShare",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":0,
-    "filterable":0,
-    "timeout":60,
-    "ext":"./18/tokenm.json$$$./18/pikpakclass.a1.json$$$./18/pikpakclass.a1.json.txt.gz"
 },	
+{
+	"key":"米搜",
+	"name":"🔍┃米搜┃搜索",
+	"type":3,
+	"api":"csp_MIPanSo",
+	"jar":"./lib/fyfy.jar",
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":0,
+	"ext":{
+		"pan":"quark",
+		"quarkCookie":"TVBox/cookie.txt",
+		"from":"4k|auto|fhd"
+	}
+},		
 {
     "key":"夸搜",
     "name":"🔍┃夸搜┃搜索",
@@ -1013,13 +985,13 @@
     "searchable":1,
     "quickSearch":1,
     "changeable":0,
-    "jar":"./fyfy.jar",
+    "jar":"./lib/fyfy.jar",
     "ext":{
     "pan":"quark",
     "quarkCookie":"TVBox/cookie.txt",
     "from":"4k|auto|fhd"
     }
-},		
+},	
 {
     "key":"YiSo",
     "name":"🔍┃易搜┃搜索",
@@ -1102,17 +1074,17 @@
 
 	
 "parses":[
-{"name":"解析聚合","type":3,"url":"Demo"},	
+{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
-{"name":"风","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
-{"name":"言","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
-{"name":"锋","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},	
-{"name":"语","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"️88","type":0,"url":"https://www.pangujiexi.com/pangu/?url="},	
-{"name":"祝您","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"观影","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"愉快","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"🎀","type":0,"url":"https://jx.jsonplayer.com/player/?url="}
+{"name":"风","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"言","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"️锋","type":0,"url":"https://www.pangujiexi.com/pangu/?url="},
+{"name":"语","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"88","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"祝您","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"观影","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://www.xyflv.cc/"}}},
+{"name":"愉快","type":1,"url":"http://jx.xn--od1aq39b.net:8899/api/?key=uxD8rsV2ISvNHowx5i&url=","ext":{"flag":["YuMi","SMD","FYNB","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/3.12.11"}}},
+{"name":"🎀","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}}
 ],
 
 	
