@@ -2,7 +2,7 @@
   "spider": "./lib/fyfy.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "《风言锋语88》提示您：接口免费请勿付费购买",
-  "logo": "https://download.kstore.space/download/4645/img/999.jpg",
+  "logo": "https://download.kstore.space/download/4645/img/588.gif",
   "lives": [
     {
       "name": "xiaoyu_live",
@@ -905,18 +905,6 @@
       "ext": "./lib/博看.js"
     },
     {
-      "key": "js_海洋听书",
-      "name": "📚️┃听书┃海洋",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "./lib/海洋.js"
-    },
-    {
       "key": "js_六月听书",
       "name": "📚️┃听书┃六月",
       "type": 3,
@@ -927,30 +915,6 @@
         "ratio": 1
       },
       "ext": "./lib/六月.js"
-    },
-    {
-      "key": "js_听书网",
-      "name": "📚️┃听书┃天天",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "./lib/听书.js"
-    },
-    {
-      "key": "js_有声小说",
-      "name": "📚️┃听书┃有声",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "./lib/有声.js"
     },
     {
       "key": "js_中华听书网",
@@ -1245,13 +1209,20 @@
       "filterable": 1
     },
     {
+      "key":"酷狗",
+      "name":"🐶┃酷狗┃音乐",
+      "type":3,
+      "api": "csp_Kugou",
+      "searchable": 1,
+      "changeable": 0
+    },	 	  
+    {
       "key": "应用商店",
       "name": "🏪┃应用┃商店",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "jar": "./lib/18pg.jar",
       "ext": "./lib/market.json"
     },
     {
