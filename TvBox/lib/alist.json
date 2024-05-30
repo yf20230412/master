@@ -77,9 +77,14 @@
 {
   "vodPic": "https://d.kstore.space/download/4645/Tvbox/myks/img/227.png",
   "drives": [
+  
+  {
+      "name": "🌺小雅",
+      "server": "https://alist.891218.xyz/💃小雅"
+    },
     {
-      "name": "🦆鸭鸭",
-      "server": "http://shicheng.wang:555/"
+      "name": "🍒资源小站",
+      "server": "https://pan.ecve.cn/"
     },
     {
       "name": "🔞罗汉果",

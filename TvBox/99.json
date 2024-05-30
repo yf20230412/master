@@ -28,25 +28,26 @@
       "key": "豆豆",
       "name": "公众号🔥【风言锋语88】",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "csp_Douban",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+	  "ext":"./lib/douban.json"
     },
+    {
+      "key": "豆瓣预告",
+      "name": "🎬┃电影┃预告",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "ext": "./lib/豆瓣预告.json"
+    },	  
     {
       "key": "drpy_js_厂长资源",
       "name": "🏭️┃厂长┃资源",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/厂长资源.js"
-    },
-    {
-      "key": "豆瓣预告",
-      "name": "🎬┃豆瓣┃预告",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 2,
-      "ext": "./lib/豆瓣预告.json"
     },
     {
       "key": "路飞搜索",
@@ -141,20 +142,10 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/凌云影视.js"
     },
-{
-      "key": "网盘配置",
-      "name": "📝┃网盘┃配置",
-      "type": 3,
-      "api": "csp_Wexconfig",
-      "searchable": 0,
-      "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716905178909/wex.txt",
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-      }
-    },
+{"key":"登录","name":"☁️┃云盘┃登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	
+{"key":"弹幕配置","name":"⚙️┃网盘┃配置","type":3,"api":"csp_Config","jar":"./lib/wppz.jar","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},	
+
 	{
       "key":"玩偶哥哥",
       "name":"💖┃玩偶┃网盘",
@@ -462,12 +453,12 @@
     },
     {
       "key": "荐片",
-      "name": "🐭┃贱贱┃p2p",
+      "name": "🐭┃贱贱┃慎用",
       "type": 3,
-      "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/荐片.js"
-    },	  
+      "playerType": "2",
+      "api": "csp_Jianpian",
+      "ext": "./lib/jp.json"
+    },
     {
       "key": "csp_TVB",
       "name": "🌤┃TVB┃云播",
