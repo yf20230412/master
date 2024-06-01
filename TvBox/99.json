@@ -77,10 +77,14 @@
       "quickSearch": 1,
       "changeable": 1
     },
+
+{"key": "河马影视","name": "🦄┃河马┃影视","type": 3,"api": "csp_XBPQ","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./lib/河马影视.json"},
+
+{"key": "韩剧兔","name":"🥬┃韩剧┃兔兔","type": 3,"api": "csp_XBPQ","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./lib/韩剧兔.json"},	  
 	  
 {"key":"Wexshandian","name":"⚡️┃闪电┃秒播","type":3,"api":"csp_Wexshandian","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716905178909/wex.txt","searchable":1,"changeable":1},
 
-{"key":"WexTiantianys","name":"🌤️┃明天┃秒播","type":3,"api":"csp_WexTiantianys","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716905178909/wex.txt","searchable":1,"changeable":1},
+{"key":"WexTiantianys","name":"🌤️┃明日┃秒播","type":3,"api":"csp_WexTiantianys","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716905178909/wex.txt","searchable":1,"changeable":1},
 
 {"key":"Wexjiohub","name":"🎉┃啾啾┃影视","type":3,"api":"csp_Wexjiohub","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716905178909/wex.txt","searchable":1,"changeable":1},
 
@@ -142,6 +146,11 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/凌云影视.js"
     },
+
+{"key": "韩小圈","name": "🍩┃韩小┃圈圈","type": 3,"api": "csp_HanXiaoQuan","jar":"./lib/wppz.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key": "天天弹幕版","name": "⛅️┃天天┃蓝光","type": 3,"api": "csp_TianTian","jar": "./lib/wppz.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
+	  
 {"key":"登录","name":"☁️┃云盘┃登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	
 {"key":"弹幕配置","name":"⚙️┃网盘┃配置","type":3,"api":"csp_Config","jar":"./lib/wppz.jar","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},	

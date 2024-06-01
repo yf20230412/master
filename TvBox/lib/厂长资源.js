@@ -1,10 +1,12 @@
-var rule={
-	title:'厂长资源',
-	// host:'https://czspp.com', 
-	host:'https://www.czzy.site',
-	//https://cz01.pw
-	//https://cz01.tv重定位到https://www.czzy77.com/
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,"h3&&li&&a&&href");log(HOST);',
+// 地址发布页 https://www.czzy.site
+// 地址发布页 https://cz01.vip
+// 地址发布页 https://cz01.tv
+var rule = {
+    title: '厂长资源',
+    host: 'https://www.czys.top/',
+    // host:'https://www.czzy.site',
+    // host:'https://cz01.tv',
+     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = html.match(/推荐访问<a href="(.*)"/)[1];print("厂长跳转地址 =====> " + HOST)',
 	url:'/fyclassfyfilter',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}{{fl.class}}{{fl.area}}/page/fypage',
