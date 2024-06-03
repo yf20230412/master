@@ -3,28 +3,42 @@
     "作者":"风言锋语88",
     
     "站名":"可可影视",
+    
+    "首页": "电视剧$40",
 
-    "主页url":"https://www.keke8.app/",	
+    "主页url":"https://www.keke13.com:51111/",	
 
-    "简介":"公众号《风言锋语88》提醒您:请勿相信影片中的广告，以免上当受骗🥇+class=\"detail-desc\">&&</p>",
+    "简介":"公众号《风言锋语88》提醒您:请勿相信影片中的广告，以免上当受骗🥇┃+class=\"detail-desc\">&&</p>",
     
     "影片年代":"detail-tags-item\">&&</a>",
 
-    "影片类型":"detail-tags-item\">&&立即播放",
+    "影片状态": "detail-info-row-main\">&&</div>",
     
     "导演":"导演：&&</a>",
     
     "主演":"演员：&&</a></div>",
       
-    "数组":"<a&&class=\"module-item",
+    "数组":"<a&&class=\"module-item",    
 	
-    "图片":"data-original=\"&&\"",
+    "图片":"data-original=\"&&\"[替换:/vod1/>>https://61.147.93.252:15002/vod1/]",
     
     "标题":"title=\"&&\"",
     
     "副标题":"v-item-bottom\">&&</span>",
     
     "链接":"href=\"&&\"",
+    
+    "搜索url": "https://www.keke13.com:51111/search?os=pc&k={wd}",
+       
+    "搜索数组": "<a&&class=\"tags\"",
+    
+    "搜索图片": "data-original=\"&&\"[替换:/vod1/>>https://61.147.93.252:15002/vod1/]",
+    
+    "搜索标题": "class=\"title\">&&</div>",
+    
+    "搜索副标题": "search-result-item-header\">&&</div>",
+    
+    "搜索链接": "href=\"&&\"",
 		
     "线路数组":"javascript:void&&</a>",
     
@@ -36,7 +50,7 @@
     
     "播放列表":"<a&&</a>",
 
-    "分类url":"https://www.keke8.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catepg}.html;;akx",
+    "分类url":"https://www.keke13.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catepg}.html[https://www.keke12.com:51111/show/{cateId}------.html][https://www.keke13.com:51111/show/{cateId}------.html];;ak",
  
     "分类":"电视剧$2#电影$1#综艺记录$4#动漫$3#短剧$6",
 

@@ -12,7 +12,7 @@
     
     "主演":"主演：&&</div>",
     
-    "影片类型":"class=\"btn-important&&立即播放",
+    "影片类型":"class=\"slash\">&&</div>",
     
     "影片状态":"集数：&&</div>",
     
@@ -26,6 +26,18 @@
     
     "链接":"href=\"&&\"",
     
+    "搜索url": "/vod-s/-------------.html?txtKeywords={wd}",
+       
+    "搜索数组": "module-item-pic\">&&module-item\">",
+    
+    "搜索链接": "href=\"&&\"",
+    
+    "搜索图片": "data-src=\"&&\"",
+    
+    "搜索标题": "title=\"&&\"",
+    
+    "搜索副标题": ">&&</a>",
+      
     "线路数组":"data-dropdown-value=&&</div>[不包含：夸克]",
     
     "线路标题":"🌺风言锋语88🌺+<span>&&</small>[替换:</span><small>>>线路共]+集",
