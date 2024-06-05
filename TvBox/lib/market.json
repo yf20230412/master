@@ -143,8 +143,8 @@
         "version": "手机版"
       },	
  {
-        "name": "LocalSend文件传输",
-        "url": "https://download.kstore.space/download/4645/apk/LocalSend.apk",
+        "name": "欢视助手tv版",
+        "url": "https://download.kstore.space/download/4645/apk/欢视助手tv版.apk",
         "icon": "https://download.kstore.space/download/4645/img/666.jpg",
         "version": "TV版"
       },				
@@ -177,13 +177,21 @@
   },
 	
 	{
-        "name": "本地包（默认在Download文件夹内）",
+        "name": "本地包（默认在根目录Download文件夹内）",
         "list": [
             {
                 "name": "TVBox本地包",
                 "url": "https://cn.kstore.space/download/4645/zip/风言锋语88.zip",
                 "icon": "https://download.kstore.space/download/4645/img/227.png",
-				 "version": "v20240518更新"
-            } ]
+				 "version": "v20240606更新"
+            },
+            {
+                "name": "嗅探X5离线TV版",
+                "url": "https://cn.kstore.space/download/4645/apk/X5离线版.apk",
+                "icon": "https://download.kstore.space/download/4645/img/555.jpg",
+				 "version": "请放置根目录TV文件夹内"
+            } 
+            
+            ]
     }
 ]
