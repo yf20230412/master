@@ -303,6 +303,19 @@
         "ratio": 1.43
       }
     },
+/*
+    {
+      "key": "玩偶",
+      "name": "玩偶┃云盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "https://download.kstore.space/download/4645/json/wogg.json"
+      },	
+*/
     {
       "key": "玩偶哥哥",
       "name": "💖┃玩偶┃网盘💖",
