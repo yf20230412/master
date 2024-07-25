@@ -125,13 +125,12 @@
 
 
 ### 点播站位
-|------------|-------|-------|------------------|
 | changeable | 1    | 是否换源 | 0：关闭；1：启用        |
 | recordable | 1    | 是否记录| 0：关闭；1：启用        |
 | playerType | none | 播放器  | 0：系統；1：IJK；2：EXO |
-| timeout    | 15   | 播放超时 | 单位：秒             |
-| header     | none | 标头   | 格式：json          |
-| playUrl     | none | 指定解析   | 格式：https://          |
+| timeout    | 15   | 播放超时 | 单位：秒               |
+| header     | none | 标头   | 格式：json              |
+| playUrl     | none | 指定解析   | 格式：https://   |
 ### 直播站位
 
 | 栏位名称       | 预设值   | 说明    | 其他               |
