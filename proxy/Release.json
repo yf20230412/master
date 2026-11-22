@@ -1,59 +1,80 @@
-[
-    {
-        "value": "https://gh-proxy.com"
-    },
-    {
-        "value": "shturl.cc/mHkkNi5FH"
-    },
-    {
-        "value": "https://wget.la"
-    },
-    {
-        "value": "https://gh.2015888.xyz"
-    },
-    {
-        "value": "https://gh-fast.2015888.xyz"
-    },
-    {
-        "value": "shturl.cc/cpTW1cJw0xIiN"
-    },
-    {
-        "value": "shturl.cc/4RclXz1FPZcVBg"
-    },
-    {
-        "value": "shturl.cc/iocIyoetFodz9dzhoj"
-    },
-    {
-        "value": "https://ghproxy.imciel.com"
-    },
-    {
-        "value": "shturl.cc/LD4kHHWzVWN"
-    },
-    {
-        "value": "https://gh.monlor.com"
-    },
-    {
-        "value": "https://ghp.keleyaa.com"
-    },
-    {
-        "value": "shturl.cc/DGOZLPSMOI"
-    },
-    {
-        "value": "https://gh.qninq.cn"
-    },
-    {
-        "value": "https://gitproxy.mrhjx.cn"
-    },
-    {
-        "value": "https://gh.noki.icu"
-    },
-    {
-        "value": "https://github.ednovas.xyz"
-    },
-    {
-        "value": "https://gh.jasonzeng.dev"
-    },
-    {
-        "value": "https://gh.nxnow.top"
-    }
-]
+{
+    "lines":[
+        {
+            "name": "gh-proxy.com",
+            "prefix": "https://gh-proxy.com"
+        },
+        {
+            "name": "ghproxy.net",
+            "prefix": "https://ghproxy.net"
+        },
+        {
+            "name": "wget.la",
+            "prefix": "https://wget.la"
+        },
+        {
+            "name": "gh.2015888.xyz",
+            "prefix": "https://gh.2015888.xyz"
+        },
+        {
+            "name": "gh-fast.2015888.xyz",
+            "prefix": "https://gh-fast.2015888.xyz"
+        },
+        {
+            "name": "v6.gh-proxy.org",
+            "prefix": "https://v6.gh-proxy.org"
+        },
+        {
+            "name": "cdn.gh-proxy.org",
+            "prefix": "https://cdn.gh-proxy.org"
+        },
+        {
+            "name": "edgeone.gh-proxy.org",
+            "prefix": "https://edgeone.gh-proxy.org"
+        },
+        {
+            "name": "ghproxy.imciel.com",
+            "prefix": "https://ghproxy.imciel.com"
+        },
+        {
+            "name": "hub.glowp.xyz",
+            "prefix": "https://hub.glowp.xyz"
+        },
+        {
+            "name": "gh.monlor.com",
+            "prefix": "https://gh.monlor.com"
+        },
+        {
+            "name": "ghp.keleyaa.com",
+            "prefix": "https://ghp.keleyaa.com"
+        },
+        {
+            "name": "gh-proxy.org",
+            "prefix": "https://gh-proxy.org"
+        },
+        {
+            "name": "gh.qninq.cn",
+            "prefix": "https://gh.qninq.cn"
+        },
+        {
+            "name": "gitproxy.mrhjx.cn",
+            "prefix": "https://gitproxy.mrhjx.cn"
+        },
+        {
+            "name": "gh.noki.icu",
+            "prefix": "https://gh.noki.icu"
+        },
+        {
+            "name": "github.ednovas.xyz",
+            "prefix": "https://github.ednovas.xyz"
+        },
+        {
+            "name": "gh.jasonzeng.dev",
+            "prefix": "https://gh.jasonzeng.dev"
+        },
+        {
+            "name": "gh.nxnow.top",
+            "prefix": "https://gh.nxnow.top"
+        }
+    ]
+}
