@@ -24,10 +24,6 @@
         "text": "v6.gh-proxy.org"
     },
     {
-        "value": "https://hk.gh-proxy.org",
-        "text": "hk.gh-proxy.org"
-    },
-    {
         "value": "https://cdn.gh-proxy.org",
         "text": "cdn.gh-proxy.org"
     },
@@ -36,8 +32,20 @@
         "text": "edgeone.gh-proxy.org"
     },
     {
+        "value": "https://ghproxy.imciel.com",
+        "text": "ghproxy.imciel.com"
+    },
+    {
+        "value": "https://hub.glowp.xyz",
+        "text": "hub.glowp.xyz"
+    },
+    {
         "value": "https://gh.monlor.com",
         "text": "gh.monlor.com"
+    },
+    {
+        "value": "https://ghp.keleyaa.com",
+        "text": "ghp.keleyaa.com"
     },
     {
         "value": "https://gh-proxy.org",
@@ -48,12 +56,20 @@
         "text": "gh.qninq.cn"
     },
     {
+        "value": "https://gitproxy.mrhjx.cn",
+        "text": "gitproxy.mrhjx.cn"
+    },
+    {
         "value": "https://gh.noki.icu",
         "text": "gh.noki.icu"
     },
     {
         "value": "https://github.ednovas.xyz",
         "text": "github.ednovas.xyz"
+    },
+    {
+        "value": "https://gh.jasonzeng.dev",
+        "text": "gh.jasonzeng.dev"
     },
     {
         "value": "https://gh.nxnow.top",
